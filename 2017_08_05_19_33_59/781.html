@@ -1,0 +1,853 @@
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" lang='en'>
+<head>  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="robots" content="noindex,nofollow"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+  <title>GIS-SUSANTI-TNF-2015 (Anti-TNF Discontinuation ) - Tabular View - ClinicalTrials.gov</title>
+    <link href="/ct2/show/record/NCT02994836" rel="canonical"/>
+  
+  <link rel="shortcut icon" href="/ct2/html/images/favicon.ico" />
+  <link rel='apple-touch-icon-precomposed' href='/apple-touch-icon-144x144.png' sizes='144x144'>
+  <link rel='apple-touch-icon-precomposed' href='/apple-touch-icon-114x114.png' sizes='114x114'>
+  <link rel='apple-touch-icon-precomposed' href='/apple-touch-icon-72x72.png'   sizes='72x72'>
+  <link rel='apple-touch-icon-precomposed' href='/apple-touch-icon-precomposed.png' >
+  <link rel='apple-touch-icon-precomposed' href='/apple-touch-icon.png' >
+
+  <link rel="stylesheet" type="text/css" href="/ct2/html/ct3/jquery/css/superfish.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/ct2/html/ct3/jquery/css/superfish-vertical.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/ct2/html/ct3/css/base.css?v=b4" />
+  <link rel="stylesheet" type="text/css" href="/ct2/html/ct3/css/print.css" media="print" />
+  <link rel="stylesheet" href="/ct2/html/ct3/css/w3-ct.css" type="text/css" />
+  <!--[if lt IE 9]>
+	<link rel="stylesheet" href="/ct2/html/ct3/css/w3-ct-oldIE.css" type="text/css" />
+  <![endif]-->
+  	
+
+     <!--[if lte IE 7]>
+           <link href="/ct2/html/ct3/css/target-IE7-and-below.css" rel="stylesheet" type="text/css">
+    <![endif]-->
+
+<link href="/ct2/html/ct3/css/trial-record.css?v=b4" rel="stylesheet" type="text/css" />
+<link href="/ct2/html/ct3/css/ct2Header.css" rel="stylesheet" type="text/css" />
+
+
+	<script type="text/javascript" src="/ct2/html/ct3/jquery/js/jquery.min.js?v=1.12.4"></script><noscript></noscript>
+	    <script type="text/javascript" src="/ct2/html/ct3/jquery/js/superclick.js"></script><noscript></noscript>
+    <script type="text/javascript" src="/ct2/html/ct3/jquery/js/jquery.cookie.js"></script><noscript></noscript>
+    <script type="text/javascript" src="/ct2/html/images/frame/ct.js"></script><noscript></noscript>
+    <script type="text/javascript" src="/ct2/html/ct3/js/ctmenu.js?v=b4"></script><noscript></noscript>
+
+    <script type="text/javascript" src="/ct2/html/images/foresee/foresee-trigger.js"></script><noscript></noscript>
+<script type="text/javascript">
+    $(window).load(function(){
+        loadCTCommon();
+        });
+</script>
+ 
+
+
+  <script type="text/javascript">
+    ncbi_pingWithImage=true;
+    __ncbi_stat_url="//www.ncbi.nlm.nih.gov/stat";        
+  </script>
+  
+  <meta name="ncbi_sid" content="861650e698601876_927f1SID"/>
+  <meta name="ncbi_app" content="ctgov"/>
+  <meta name="ncbi_db" content="ctgov"/>
+  <meta name="ncbi_pdid" content="show_record"/>
+  <meta name="ncbi_pcid" content="NCT02994836"/>
+  <meta name="ncbi_ctreqid" content="RRe02Wda"/>
+  <meta name="ncbi_ctsessid" content="SRe01hyp"/>
+  <meta name="ncbi_ctipid" content="IzOkI5NS"/>
+  <meta name="ncbi_cthost" content="wp2"/>
+</head>
+
+<body class="js one-column"> 
+<div id="skip"> <a href="#main-content">Skip to Main Content</a> </div>
+
+<script type="text/javascript">
+	var RetractableBannerStateProperty = 'CT_NewsBannerState';
+	
+	ToggleBanner = function()
+    {
+        var theAccordion = $('#retractableBanner'); 
+       	if (theAccordion.css("display") == "none") {
+        		$('#showMore').css('visibility', 'hidden');
+        	} else {
+         		$('#showMore').css('visibility', 'visible');
+        	}
+        theAccordion.slideToggle({
+            duration: 'fast',
+            start: function(){
+				            	if (typeof FuncReAlign !== 'undefined') {
+            		$( "table.fixedHeader-floating" ).hide();
+            	}
+			},
+            done: function(){
+            	if (theAccordion.css("display") == "none") {
+            		rememberRetractableBannerState('hide');
+            	} else {
+            		rememberRetractableBannerState('show');
+            	}
+            	if (typeof FuncReAlign !== 'undefined') {
+                	FuncReAlign();  
+            		$( "table.fixedHeader-floating" ).show();
+            	}
+            }
+		});
+    };
+	    
+	var rememberRetractableBannerState = function(newState) {
+		try {
+			sessionStorage.setItem(RetractableBannerStateProperty, newState);
+		} catch (e) {}
+	};
+
+	$(window).ready(function(){
+		try {
+			var retractableBannerState = sessionStorage.getItem(RetractableBannerStateProperty);
+					    if (retractableBannerState === null  || retractableBannerState === 'show') {
+				ToggleBanner();
+			}
+		} catch (e) {};
+	});
+</script><noscript></noscript>
+<div class="w3-container w3-center" style="padding:1.5ex 0.125in 0;background:#205493;color:white">
+	<div style="font-weight:bold;">This site became the new ClinicalTrials.gov on June 19th. <a href="https://www.nlm.nih.gov/pubs/techbull/mj17/mj17_clinicaltrials_improve_usability.html" style="margin-left:1em;color:white;border-bottom-color:white;">Learn more.</a>
+		<div id="showMore" style="float:right;cursor:pointer;border-bottom:1px dotted white;" onclick="ToggleBanner();">Show more <img src="/ct2/html/ct3/images/show-more.png" style="width:17px;"></div>
+	</div>
+	<div id="retractableBanner" style="margin-top:1ex;display:none;">We will be updating this site in phases. This allows us to move faster and to deliver better services.
+		<div id="showLess" style="float:right;cursor:pointer;border-bottom:1px dotted white;" onclick="ToggleBanner();">Show less <img src="/ct2/html/ct3/images/show-less.png" style="width:17px;"></div>
+	</div>
+</div>
+<div id="wrapper" style="padding-top:0;">  <div id="longAlert" class="w3-hide-small" style="background-color:papayawhip;font-size:small;margin-bottom:1.5ex;">
+	<img src="/ct2/html/ct3/images/warning.png" alt="ClinicalTrials.gov Menu" style="max-width:0.8rem;cursor:pointer;"/>
+    <b>IMPORTANT</b>: Listing of a study on this site does not reflect endorsement by the National Institutes of Health. Talk with a trusted healthcare professional before volunteering for a study.  <a href="/ct2/about-site/disclaimer">Read more...</a>
+</div>
+<div id="shortAlert" class="w3-hide-medium w3-hide-large" style="background-color:papayawhip;font-size:small;margin-bottom:1.5ex;">
+	<img src="/ct2/html/ct3/images/warning.png" alt="ClinicalTrials.gov Menu" style="max-width:0.8rem;cursor:pointer;"/>
+    <b>IMPORTANT</b>: Talk with a trusted healthcare professional before volunteering for a study. <a href="/ct2/about-site/disclaimer">Read more...</a>
+</div>
+
+  
+	<div id="header" style="float:left;"> <a href="/ct2/home" style="border-style:none;box-shadow:none;"><img src='/ct2/html/ct3/images/ct.gov-logo.png' alt='ClinicalTrials.gov' style='max-width:100%;' /></a><br />
+    	<div id="tagline">A service of the U.S. National Institutes of Health</div>
+  	</div>
+					<div id="hamburger" class="w3-hide-medium w3-hide-large" style="float:right;border-width:0;display:block;margin-left:1em;padding:4px;"
+			title="Show menus">
+			<img src="/ct2/html/ct3/images/hamburgerMenuIcon.png" alt="ClinicalTrials.gov Menu" style="max-width:30px;cursor:pointer;" 
+			 onclick="$('#global-nav-popupMenu').toggle();"/>
+		</div>
+		<div id="global-nav-popupMenu" class="w3-hide-medium w3-hide-large w3-modal w3-center" 
+			 style="display:none;" onclick="$('#global-nav-popupMenu').hide();"> 			<div id="global-nav-popupMenu-content" class="w3-modal-content">
+				<div class="w3-container">
+				    <span onclick="$('#global-nav-popupMenu').hide();"
+				      class="w3-closebtn">&times;</span>
+					<ul class="sf-menu sf-vertical">
+									<li class="first"><a href="/ct2/search/index">Find Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="Find Studies Menu"></a>
+			<ul>
+                      <li                  ><a                  href="/ct2/home">New Search</a></li>
+                      <li                  ><a         href="/ct2/search/advanced">Advanced Search</a></li>
+                      <li                  ><a     href="/ct2/search/browse?brwse=cond_cat">See Studies by Topic</a></li>
+                      <li                  ><a             href="/ct2/search/map">See Studies on Map</a></li>
+                      <li class="new-group"><a           href="/ct2/help/how-find/index">How to Search</a></li>
+                      <li                  ><a href="/ct2/help/how-use-search-results">How to Use Search Results</a></li>
+                      <li                  ><a        href="/ct2/help/how-find/find-study-results">How to Find Results of Studies</a></li>
+                      <li                  ><a          href="/ct2/help/how-read-study">How to Read a Study Record</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/about-studies">About Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="About Studies Menu"></a>
+			<ul>
+                      <li><a href="/ct2/about-studies/learn">Learn About Studies</a></li>
+                      <li><a  href="/ct2/about-studies/other-sites">Other Sites About Studies</a></li>
+                      <li><a         href="/ct2/about-studies/glossary">Glossary of Common Site Terms</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/manage-recs">Submit Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="Submit Studies Menu"></a>
+			<ul>
+                      <li><a                          href="/ct2/manage-recs/background">Why Should I Register and Submit Results?</a></li>
+                      <li><a                                href="/ct2/manage-recs/fdaaa">FDAAA 801 Requirements</a></li>
+                      <li class="new-group"><a    href="/ct2/manage-recs/how-apply">How to Apply for an Account</a></li>
+                      <li><a                        href="/ct2/manage-recs/how-register">How to Register Your Study</a></li>
+                      <li><a                         href="/ct2/manage-recs/how-edit">How to Edit Your Study Record</a></li>
+                      <li><a                   href="/ct2/manage-recs/how-report">How to Submit Your Results</a></li>
+                      <li class="new-group"><a       href="/ct2/manage-recs/faq">Frequently Asked Questions</a></li>
+                      <li                  ><a href="/ct2/manage-recs/resources">Support Materials</a></li>
+                      <li                  ><a      href="/ct2/manage-recs/present">Training Materials</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/resources">Resources<img src="/ct2/html/ct3/images/pulldown.png" alt="Resources Menu"></a>
+			<ul>
+                      <li                  ><a    href="/ct2/resources/pubs">Selected Publications</a></li>
+                      <li                  ><a       href="/ct2/resources/alert">Clinical Alerts and Advisories</a></li>
+                      <li                  ><a     href="/ct2/resources/rss">RSS Feeds</a></li>
+                      <li class="new-group"><a href="/ct2/resources/trends">Trends, Charts, and Maps</a></li>
+                      <li                  ><a   href="/ct2/resources/download">Downloading Content for Analysis</a></li>
+			</ul>
+			</li>
+			<li class="last"><a href="/ct2/about-site">About Site<img src="/ct2/html/ct3/images/pulldown.png" alt="About Site Menu"></a>
+			<ul>
+                      <li class="new-group"><a href="/ct2/about-site/background">ClinicalTrials.gov Background</a></li>
+                      <li                  ><a    href="/ct2/about-site/results">About the Results Database</a></li>
+                      <li                  ><a    href="/ct2/about-site/history">History, Policies, and Laws</a></li>
+                      <li                  ><a   href="/ct2/about-site/for-media">Media/Press Resources</a></li>
+                      <li class="new-group"><a          href="/ct2/about-site/link-to">Linking to This Site</a></li>
+                      <li                  ><a           href="/ct2/about-site/terms-conditions">Terms and Conditions</a></li>
+                      <li                  ><a      href="/ct2/about-site/disclaimer">Disclaimer</a></li>
+			</ul>
+			</li>
+					</ul>
+				</div>
+    		</div>
+  		</div>		
+
+	  	<div id="savedStudies" style="float:right;padding:4px 8px;"> 		  	<div id="cart" style="cursor:pointer;" onclick="location.href=('/ct2/results'+cartToURL()); showWorking();">
+		  	<button class="savedStudiesEnabled" id="open-cart-link" type="button" 
+		  		onclick="location.href=('/ct2/results'+cartToURL()); showWorking();"
+		  		title="Show previously saved studies.">Saved Studies</button>
+		  	</div>
+			<button class="savedStudiesDisabled" id="cart-disabled" type="button" disabled
+				title="There are no saved studies to show. You can save studies to visit later from the search results page">Saved Studies (0)</button>
+		</div>
+
+		<div style="clear:right;text-align:right;padding-top:1ex;padding-right:8px;font-size:small;">
+			<a href="https://survey.foreseeresults.com/survey/display?cid=WyHFr2m0PoaGCBUsi00QIQ==&sid=link-ct" target="_blank">Give us feedback</a></div>
+		<script type="text/javascript" src="/ct2/html/ct3/js/cart.js?v=b4"></script><noscript></noscript>
+  	
+<div id="global-nav" class="w3-hide-small">
+	<ul class="sf-menu sf-vertical">
+			<li class="first"><a href="/ct2/search/index">Find Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="Find Studies Menu"></a>
+			<ul>
+                      <li                  ><a                  href="/ct2/home">New Search</a></li>
+                      <li                  ><a         href="/ct2/search/advanced">Advanced Search</a></li>
+                      <li                  ><a     href="/ct2/search/browse?brwse=cond_cat">See Studies by Topic</a></li>
+                      <li                  ><a             href="/ct2/search/map">See Studies on Map</a></li>
+                      <li class="new-group"><a           href="/ct2/help/how-find/index">How to Search</a></li>
+                      <li                  ><a href="/ct2/help/how-use-search-results">How to Use Search Results</a></li>
+                      <li                  ><a        href="/ct2/help/how-find/find-study-results">How to Find Results of Studies</a></li>
+                      <li                  ><a          href="/ct2/help/how-read-study">How to Read a Study Record</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/about-studies">About Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="About Studies Menu"></a>
+			<ul>
+                      <li><a href="/ct2/about-studies/learn">Learn About Studies</a></li>
+                      <li><a  href="/ct2/about-studies/other-sites">Other Sites About Studies</a></li>
+                      <li><a         href="/ct2/about-studies/glossary">Glossary of Common Site Terms</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/manage-recs">Submit Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="Submit Studies Menu"></a>
+			<ul>
+                      <li><a                          href="/ct2/manage-recs/background">Why Should I Register and Submit Results?</a></li>
+                      <li><a                                href="/ct2/manage-recs/fdaaa">FDAAA 801 Requirements</a></li>
+                      <li class="new-group"><a    href="/ct2/manage-recs/how-apply">How to Apply for an Account</a></li>
+                      <li><a                        href="/ct2/manage-recs/how-register">How to Register Your Study</a></li>
+                      <li><a                         href="/ct2/manage-recs/how-edit">How to Edit Your Study Record</a></li>
+                      <li><a                   href="/ct2/manage-recs/how-report">How to Submit Your Results</a></li>
+                      <li class="new-group"><a       href="/ct2/manage-recs/faq">Frequently Asked Questions</a></li>
+                      <li                  ><a href="/ct2/manage-recs/resources">Support Materials</a></li>
+                      <li                  ><a      href="/ct2/manage-recs/present">Training Materials</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/resources">Resources<img src="/ct2/html/ct3/images/pulldown.png" alt="Resources Menu"></a>
+			<ul>
+                      <li                  ><a    href="/ct2/resources/pubs">Selected Publications</a></li>
+                      <li                  ><a       href="/ct2/resources/alert">Clinical Alerts and Advisories</a></li>
+                      <li                  ><a     href="/ct2/resources/rss">RSS Feeds</a></li>
+                      <li class="new-group"><a href="/ct2/resources/trends">Trends, Charts, and Maps</a></li>
+                      <li                  ><a   href="/ct2/resources/download">Downloading Content for Analysis</a></li>
+			</ul>
+			</li>
+			<li class="last"><a href="/ct2/about-site">About Site<img src="/ct2/html/ct3/images/pulldown.png" alt="About Site Menu"></a>
+			<ul>
+                      <li class="new-group"><a href="/ct2/about-site/background">ClinicalTrials.gov Background</a></li>
+                      <li                  ><a    href="/ct2/about-site/results">About the Results Database</a></li>
+                      <li                  ><a    href="/ct2/about-site/history">History, Policies, and Laws</a></li>
+                      <li                  ><a   href="/ct2/about-site/for-media">Media/Press Resources</a></li>
+                      <li class="new-group"><a          href="/ct2/about-site/link-to">Linking to This Site</a></li>
+                      <li                  ><a           href="/ct2/about-site/terms-conditions">Terms and Conditions</a></li>
+                      <li                  ><a      href="/ct2/about-site/disclaimer">Disclaimer</a></li>
+			</ul>
+			</li>
+	</ul>
+    <div style="clear:both;"></div>
+</div>
+<div style="clear:both;"></div> 
+
+<div id="utilities">
+     
+</div>
+<div id="breadcrumb">
+	<ul class="horz-list">
+		<li><a href="/ct2/home">Home</a></li>
+				<li class="last">Study Record Detail</li>
+	</ul>
+</div>
+
+
+<div id="main-content">
+
+
+        	<h1 class="solo_record">GIS-SUSANTI-TNF-2015 (Anti-TNF Discontinuation )</h1>
+	<div id="trial-info-1" class="floater-50">
+
+     
+
+
+      
+        <div class="recruiting-status">
+      This study is not yet open for participant recruitment.
+                  <div style="margin-top:1ex;text-align:center;">
+	           <font color=black>See </font><a href="/ct2/show/study/NCT02994836#contacts"><img src="/ct2/html/images/frame/triangle.gif" style="width:1em;" alt=""/>
+	           <span class="header2" style="font-size:inherit;"> Contacts and Locations</span></a>
+	        </div>
+          </div>
+        
+        
+        <div  class="status-details" 
+title="The verification date is the most recent date the responsible party verified the study information is correct.  The last updated date is the most recent date the record changed in any way.  The two dates may be different.">
+      <span style="color:#0000cc">Verified December 2016</span> by Fundaci&#243;n de Investigaci&#243;n Biom&#233;dica - Hospital Universitario de La Princesa
+    </div>
+      
+        
+
+
+
+
+                <div class="info-title">Sponsor:</div>
+                <div class="info-text" id="sponsor"> Fundaci&#243;n de Investigaci&#243;n Biom&#233;dica - Hospital Universitario de La Princesa </div>
+
+
+
+                              <div class="info-title">Information provided by (Responsible Party):</div>
+                <div class="info-text">Fundaci&#243;n de Investigaci&#243;n Biom&#233;dica - Hospital Universitario de La Princesa</div>
+              
+
+            </div>
+               <div id="trial-info-2" class="floater-50">
+                <div class="info-title">ClinicalTrials.gov Identifier:</div>
+                <div class="identifier">NCT02994836</div>
+                <div class="info-date">First received: October 24, 2016</div>
+                <div class="info-date">Last updated:  December 13, 2016</div>
+                <div class="info-date">Last verified:  December 2016 </div>
+                <div class="info-date"> <a href="/ct2/archive/NCT02994836"
+          title="Historical versions of study NCT02994836 on ClinicalTrials.gov Archive Site - opens in new window"
+          onclick="openNewWindow('/ct2/archive/NCT02994836'); return false;">History of Changes</a> </div>
+            </div>
+
+
+
+<div id="tabs">
+        <ul id="tab-links">
+			<li id="full-text" ><a href="/ct2/show/study/NCT02994836"  >Full Text View</a></li>
+			<li id="tabular"     class="current"> Tabular View       </li>
+			<li id="results"   ><a href="/ct2/show/results/NCT02994836">No Study Results Posted</a></li>
+			<li id="disclaimer"><a href="/ct2/about-site/disclaimer">Disclaimer</a></li>
+			<li id="howtoread"><a title="How to Read a Study Record - opens new window"  href="/ct2/help/how-read-study" onclick="openNewWindow('/ct2/help/how-read-study'); return false"
+>How to Read a Study Record</a></li>
+        </ul>
+</div>  <div style="background-color:#f6f6f6;margin-top:3.5ex;padding-bottom:3.5ex;"> </div>
+
+
+
+
+<!-- field list -->
+<div class="indent1">
+ 
+  <table class="w3-table data_table tableStyle">
+    <tr>
+      <th class="header2 banner_color sectionBanner" colspan="2">Tracking Information</th>
+    </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">First Received Date&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">October 24, 2016</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Last Updated Date </th>
+            <td class="body3 rowBody">December 13, 2016</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Start Date&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">January 2017</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Estimated Primary Completion Date </th>
+            <td class="body3 rowBody">December 2018 &nbsp; (Final data collection date for primary outcome measure)</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Current Primary Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> <br/>&nbsp;<span class="footer">(submitted:&nbsp;December 13, 2016)</span></th>
+            <td class="body3 rowBody">Sustained clinical remission after one year of follow-up (after discontinuing or continuing treatment with anti-TNF). [&nbsp;Time&nbsp;Frame:&nbsp;Change at 12 months.&nbsp;]</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Original Primary Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><i style="color:#777777">Same as current</i></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Change History </th>
+            <td class="body3 rowBody">No Changes Posted</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Current Secondary Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> <br/>&nbsp;<span class="footer">(submitted:&nbsp;December 13, 2016)</span></th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex">Clinical activity assessment [&nbsp;Time&nbsp;Frame:&nbsp;Month 0, month 1, month 2, month 4, month 6, month 8, month 10, month 12&nbsp;]<div class="indent2" style="margin-top:1ex;">On Crohn&#180;s Disease: Measure by Crohn&#180;s Disease Activity Index (CDAI)</div></li>
+<li style="margin:1ex 0.5ex">Endoscopic activity assessment [&nbsp;Time&nbsp;Frame:&nbsp;12 Months. On the Month 0, month 12 or relapse&nbsp;]<div class="indent2" style="margin-top:1ex;">On Crohn&#180;s Disease: Measure by Simplified endoscopic activity score for Crohn&#180;s disease (SES-CD).</div></li>
+<li style="margin:1ex 0.5ex">Radiologic activity assessment [&nbsp;Time&nbsp;Frame:&nbsp;12 Months. Month 0, month 12 or relapse&nbsp;]<div class="indent2" style="margin-top:1ex;">Measure by absence of contrast enhancement, edema or presence of ulcers</div></li>
+<li style="margin:1ex 0.5ex">Quality of life assessment [&nbsp;Time&nbsp;Frame:&nbsp;Month 0, month 1, month 2, month 4, month 6, month 8, month 10, month 12&nbsp;]<div class="indent2" style="margin-top:1ex;">Measure by the Inflammatory Bowel Disease Questionnaire (IBDQ-9)</div></li>
+<li style="margin:1ex 0.5ex">The Work productivity and activity assessment [&nbsp;Time&nbsp;Frame:&nbsp;Month 0, month 1, month 2, month 4, month 6, month 8, month 10, month 12&nbsp;]<div class="indent2" style="margin-top:1ex;">Measure by &quot;Spanish Work Productivity and Activity Impairment Questionnaire&quot;.This questionnaire assessments the sum of work time missed because IBD and impairment while working yields the overall work impairment (productivity loss) score. Scores are expressed as percentages of impairment/productivity loss, with higher scores indicating greater impairment.</div></li>
+<li style="margin:1ex 0.5ex">Clinical activity assessment [&nbsp;Time&nbsp;Frame:&nbsp;Month 0, month 1, month 2, month 4, month 6, month 8, month 10, month 12&nbsp;]<div class="indent2" style="margin-top:1ex;">On the Ulcerative Colitis disease: Measure by Mayo Scoring System</div></li>
+<li style="margin:1ex 0.5ex">Endoscopic activity assessment [&nbsp;Time&nbsp;Frame:&nbsp;12 Months. On the Month 0, month 12 or relapse&nbsp;]<div class="indent2" style="margin-top:1ex;">On the Ulcerative Colitis disease: Measure by Mayo endoscopic score.</div></li>
+</ul>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Original Secondary Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><i style="color:#777777">Same as current</i></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Current Other Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="missing_color">Not Provided</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Original Other Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="missing_color">Not Provided</td>
+          </tr>
+    
+    <tr><td colspan=2>&nbsp;</td></tr>
+
+    <tr>
+      <th class="header2 banner_color sectionBanner" colspan="2">Descriptive Information</th>
+    </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Brief Title&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">GIS-SUSANTI-TNF-2015 (Anti-TNF Discontinuation )</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Official Title&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Anti-TNF Discontinuation in Patients With Inflammatory Bowel Disease: Multicentre, Prospective, Randomized Clinical Trial and Economic Evaluation</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Brief Summary </th>
+            <td class="body3 rowBody">This study will be a multicentre prospective randomized trial to assess the percentage of patients with IBD who, after stopping anti-TNF treatment, have sustained clinical remission at one year compared to those in which the treatment is continued at stable doses</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Detailed Description </th>
+            <td class="body3 rowBody"><p style="margin-top:1ex; margin-bottom:1ex;">A multicentre prospective randomized trial.</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Hypothesis:</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">The discontinuation of anti-TNF treatment in inflammatory bowel disease (IBD) patients in clinical remission is associated with an increased risk of recurrence compared with maintaining such treatment.</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Main objective:</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">To assess the percentage of patients with IBD who, after stopping anti-TNF treatment, have sustained clinical remission at one year compared to those in which the treatment is continued at stable doses</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Secondary objectives:</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">To compare treatment discontinuation vs. treatment continuation of anti-TNF agents in patients with Crohn&#180;s disease or ulcerative colitis in terms of:</p>
+  <ol style="margin-top:1ex; margin-bottom:1ex;">
+    <li style="margin-top:0.7ex;">remission (relapse-free) time,</li>
+    <li style="margin-top:0.7ex;">phenotype changes with both strategies</li>
+    <li style="margin-top:0.7ex;">mucosal healing,</li>
+    <li style="margin-top:0.7ex;">radiologic healing</li>
+    <li style="margin-top:0.7ex;">impact on quality of life and productivity</li>
+    <li style="margin-top:0.7ex;">safety</li>
+    <li style="margin-top:0.7ex;">to identify relapse predictive factors.</li>
+    <li style="margin-top:0.7ex;">To identify relapse predictive factors after anti-TNF drug discontinuation</li>
+    <li style="margin-top:0.7ex;">Determining the profile of serum cytokines in patients with both strategies, depending on drug exposure and if maintained clinical remission or relapse.</li>
+  </ol>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Planned number of subject to be included: 300</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">The participation of at 25 hospitals in Spain with an inclusion of about 12 patients per hospital is required..</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Case report Form was designed on REDCap (a free, secure, web-based application designed to support data capture for research studies).</p></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Study Type&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Interventional</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Study Phase </th>
+            <td class="body3 rowBody">Phase 4</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Study Design&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Allocation: Randomized<br/>Intervention Model: Parallel Assignment<br/>Masking: Double Blind (Participant, Care Provider, Investigator, Outcomes Assessor)<br/>Primary Purpose: Treatment</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Condition&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex">Crohn's Disease</li>
+<li style="margin:1ex 0.5ex">Inflammatory Bowel Disease</li>
+<li style="margin:1ex 0.5ex">Ulcerative Colitis</li>
+</ul>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Intervention&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex">Biological: Anti-TNF: Infliximab (Infusion)
+<div class="indent2" style="margin-top:0.5ex">Infliximab (Infusion 5mg/kg milligram(s)/Kilogram-Intravenous use)(Visit1,visit 3,visit 4,visit 5, visit 6 and visit 7)</div></li>
+<li style="margin:1ex 0.5ex">Drug: Anti-TNF discontinuation: Physiological saline solution
+<div class="indent2" style="margin-top:0.5ex">Physiological saline solution (Infusion-Intravenous use)(Visit1,visit 3,visit 4,visit 5, visit 6 and visit 7)</div></li>
+<li style="margin:1ex 0.5ex">Biological: Anti-TNF:Adalimumab (Subcutaneus)
+<div class="indent2" style="margin-top:0.5ex">Adalimumab (Subcutaneus 40 mg milligram(s)-subcutaneus)(Visit 1,visit 2,visit 3,visit 4,visit 5, visit 6 and visit 7).</div></li>
+<li style="margin:1ex 0.5ex">Drug: Anti-TNF discontinuation: Physiological saline solution
+<div class="indent2" style="margin-top:0.5ex">Physiological saline solution (Injection-subcutaneous use)(Visit 1,visit 2,visit 3,visit 4,visit 5, visit 6 and visit 7).</div></li>
+</ul>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Study Arms </th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex">Active Comparator: Anti-TNF
+<div class="indent2" style="margin-top:0.5ex">Infliximab (Infusion 5mg/kg milligram(s)/Kilogram-Intravenous use) or Adalimumab (Subcutaneus 40 mg milligram(s)-subcutaneus)</div>
+<div class="indent2" style="margin-top:0.5ex">Interventions:<ul style="margin-top:0.5ex">
+<li>Biological: Anti-TNF: Infliximab (Infusion)</li>
+<li>Biological: Anti-TNF:Adalimumab (Subcutaneus)</li>
+</ul>
+</div></li>
+<li style="margin:1ex 0.5ex">Placebo Comparator: Anti-TNF discontinuation (Placebo)
+<div class="indent2" style="margin-top:0.5ex">Physiological saline solution (Infusion-Intravenous use) or Physiological saline solution (Injection-subcutaneous use)</div>
+<div class="indent2" style="margin-top:0.5ex">Interventions:<ul style="margin-top:0.5ex">
+<li>Drug: Anti-TNF discontinuation: Physiological saline solution</li>
+<li>Drug: Anti-TNF discontinuation: Physiological saline solution</li>
+</ul>
+</div></li>
+</ul>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Publications * </th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC8OR08EgFtA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC8OR08EgFtA6h9Ei4L3BUgWwNG0it.'); return false">Lichtenstein GR, Yan S, Bala M, Blank M, Sands BE. Infliximab maintenance treatment reduces hospitalizations, surgeries, and procedures in fistulizing Crohn's disease. Gastroenterology. 2005 Apr;128(4):862-9.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0jcgFV-RFjA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0jcgFV-RFjA6h9Ei4L3BUgWwNG0it.'); return false">Clarke K, Regueiro M. Stopping immunomodulators and biologics in inflammatory bowel disease patients in remission. Inflamm Bowel Dis. 2012 Jan;18(1):174-9. doi: 10.1002/ibd.21792. Epub 2011 Jun 14. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0tSRCt-g0RA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0tSRCt-g0RA6h9Ei4L3BUgWwNG0it.'); return false">Louis E, Belaiche J, Reenaers C. Anti-TNF and Crohn's disease: when should we stop? Curr Drug Targets. 2010 Feb;11(2):148-51.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VxgCwag0VA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VxgCwag0VA6h9Ei4L3BUgWwNG0it.'); return false">Pariente B, Laharie D. Review article: why, when and how to de-escalate therapy in inflammatory bowel diseases. Aliment Pharmacol Ther. 2014 Aug;40(4):338-53. doi: 10.1111/apt.12838. Epub 2014 Jun 23. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VLgFnSR4BA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VLgFnSR4BA6h9Ei4L3BUgWwNG0it.'); return false">Sorrentino D, Nash P, Viladomiu M, Hontecillas R, Bassaganya-Riera J. Stopping anti-TNF agents in patients with Crohn's disease in remission: is it a feasible long-term strategy? Inflamm Bowel Dis. 2014 Apr;20(4):757-66. doi: 10.1097/01.MIB.0000442680.47427.bf. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCJEgCV-gCjA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCJEgCV-gCjA6h9Ei4L3BUgWwNG0it.'); return false">Solberg IC, Vatn MH, H&#248;ie O, Stray N, Sauar J, Jahnsen J, Moum B, Lygren I; IBSEN Study Group. Clinical course in Crohn's disease: results of a Norwegian population-based ten-year follow-up study. Clin Gastroenterol Hepatol. 2007 Dec;5(12):1430-8.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0nFgF8OKCJA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0nFgF8OKCJA6h9Ei4L3BUgWwNG0it.'); return false">Steenholdt C, Molazahi A, Ainsworth MA, Brynskov J, &#216;stergaard Thomsen O, Seidelin JB. Outcome after discontinuation of infliximab in patients with inflammatory bowel disease in clinical remission: an observational Danish single center study. Scand J Gastroenterol. 2012 May;47(5):518-27. doi: 10.3109/00365521.2012.660541. Epub 2012 Mar 1.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0wER4n-KCwA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0wER4n-KCwA6h9Ei4L3BUgWwNG0it.'); return false">Gisbert JP, Mar&#237;n AC, Chaparro M. The Risk of Relapse after Anti-TNF Discontinuation in Inflammatory Bowel Disease: Systematic Review and Meta-Analysis. Am J Gastroenterol. 2016 May;111(5):632-47. doi: 10.1038/ajg.2016.54. Epub 2016 Mar 22. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VWg4tSR0jA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VWg4tSR0jA6h9Ei4L3BUgWwNG0it.'); return false">Regueiro M, Kip KE, Baidoo L, Swoger JM, Schraut W. Postoperative therapy with infliximab prevents long-term Crohn's disease recurrence. Clin Gastroenterol Hepatol. 2014 Sep;12(9):1494-502.e1. doi: 10.1016/j.cgh.2013.12.035. Epub 2014 Jan 16.</a></li>
+<li style="margin:1ex 0.5ex">Bortl&#237;k M, &#270;uricov&#225; D, Luk&#225;&#353; M, Mal&#237;&#269;kov&#225; K, Machkov&#225; N, Hrdli&#269;ka L, et al. Infliximab trough levels at treatment discontinuation are associated with increased risk of disease relapse in patients with inflammatory bowel diseases. 20th United European Gastroenterology Week. 2012:P0870.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCJLg48OgFJA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCJLg48OgFJA6h9Ei4L3BUgWwNG0it.'); return false">Guidi L, Ratto C, Semeraro S, Roberto I, De Vitis I, Papa A, Marzo M, Parello A, Foglietto G, Doglietto GB, Gasbarrini GB, Fedeli G. Combined therapy with infliximab and seton drainage for perianal fistulizing Crohn's disease with anal endosonographic monitoring: a single-centre experience. Tech Coloproctol. 2008 Jun;12(2):111-7. doi: 10.1007/s10151-008-0411-0. Epub 2008 Jun 10.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCBFR48-R0VA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCBFR48-R0VA6h9Ei4L3BUgWwNG0it.'); return false">Dom&#232;nech E, Hinojosa J, Nos P, Garcia-Planella E, Cabr&#233; E, Bernal I, Gassull MA. Clinical evolution of luminal and perianal Crohn's disease after inducing remission with infliximab: how long should patients be treated? Aliment Pharmacol Ther. 2005 Dec;22(11-12):1107-13.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCJFgFBSg4wA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCJFgFBSg4wA6h9Ei4L3BUgWwNG0it.'); return false">Wynands J, Belbouab R, Candon S, Talbotec C, Mougenot JF, Chatenoud L, Schmitz J, C&#233;zard JP, Goulet O, Hugot JP, Ruemmele FM. 12-month follow-up after successful infliximab therapy in pediatric crohn disease. J Pediatr Gastroenterol Nutr. 2008 Mar;46(3):293-8. doi: 10.1097/MPG.0b013e31815604cd.</a></li>
+<li style="margin:1ex 0.5ex">Dart RJ, Griffin N, Taylor K, Duncan J, Sastrillo M, Sanderson J, et al. Reassessment of Crohn's disease treated with at least 12 months of anti-TNF therapy: how likely is treatment withdrawal? Frontline Gastroenterology. 2014;5:176-82.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0jxg48xgCRA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0jxg48xgCRA6h9Ei4L3BUgWwNG0it.'); return false">Louis E, Mary JY, Vernier-Massouille G, Grimaud JC, Bouhnik Y, Laharie D, Dupas JL, Pillant H, Picon L, Veyrac M, Flamant M, Savoye G, Jian R, Devos M, Porcher R, Paintaud G, Piver E, Colombel JF, Lemann M; Groupe D'etudes Th&#233;rapeutiques Des Affections Inflammatoires Digestives. Maintenance of remission among patients with Crohn's disease on antimetabolite therapy after infliximab therapy is stopped. Gastroenterology. 2012 Jan;142(1):63-70.e5; quiz e31. doi: 10.1053/j.gastro.2011.09.034. Epub 2011 Sep 22.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0REg45SRCVA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0REg45SRCVA6h9Ei4L3BUgWwNG0it.'); return false">Lu C, Waugh A, Bailey RJ, Cherry R, Dieleman LA, Gramlich L, Matic K, Millan M, Kroeker KI, Sadowski D, Teshima CW, Todoruk D, Wong C, Wong K, Fedorak RN. Crohn's disease genotypes of patients in remission vs relapses after infliximab discontinuation. World J Gastroenterol. 2012 Sep 28;18(36):5058-64. doi: 10.3748/wjg.v18.i36.5058.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0RaK4jFgC5A6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0RaK4jFgC5A6h9Ei4L3BUgWwNG0it.'); return false">Moln&#225;r T, Lakatos PL, Farkas K, Nagy F, Szepes Z, Miheller P, Horv&#225;th G, Papp M, Palatka K, Ny&#225;ri T, B&#225;lint A, L&#337;rinczy K, Wittmann T. Predictors of relapse in patients with Crohn's disease in remission after 1 year of biological therapy. Aliment Pharmacol Ther. 2013 Jan;37(2):225-33. doi: 10.1111/apt.12160. Epub 2012 Nov 26.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0V-KCJcRFBA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0V-KCJcRFBA6h9Ei4L3BUgWwNG0it.'); return false">Molander P, F&#228;rkkil&#228; M, Salminen K, Kemppainen H, Blomster T, Koskela R, Jussila A, Rautiainen H, Nissinen M, Haapam&#228;ki J, Arkkila P, Nieminen U, Kuisma J, Punkkinen J, Kolho KL, Mustonen H, Sipponen T. Outcome after discontinuation of TNF&#945;-blocking therapy in patients with inflammatory bowel disease in deep remission. Inflamm Bowel Dis. 2014 Jun;20(6):1021-8. doi: 10.1097/MIB.0000000000000052.</a></li>
+<li style="margin:1ex 0.5ex">Echarri A, Ollero V, Gallego C, Porta A, Castro J. Anti-TNF withdrawal in IBD patients on deep remission. Risk factors of relapse. 20th United European Gastroenterology Week. 2012:P0287.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCwOgFBOKC8A6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCwOgFBOKC8A6h9Ei4L3BUgWwNG0it.'); return false">Caviglia R, Ribolsi M, Rizzi M, Emerenziani S, Annunziata M, Cicala M. Maintenance of remission with infliximab in inflammatory bowel disease: efficacy and safety long-term follow-up. World J Gastroenterol. 2007 Oct 21;13(39):5238-44.</a></li>
+<li style="margin:1ex 0.5ex">Ciria V, Silva P, Leo E, Trigo C, De la Cruz MD, Herrera JM, et al. Factors influencing recurrence following suspension of biological treatment. Importance of mucosal healing. J Crohns Colitis. 2014;8 (suppl.1):P487.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VOKCRcK4BA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VOKCRcK4BA6h9Ei4L3BUgWwNG0it.'); return false">Chauvin A, Le Thuaut A, Belhassan M, Le Baleur Y, Mesli F, Bastuji-Garin S, Delchier JC, Amiot A. Infliximab as a bridge to remission maintained by antimetabolite therapy in Crohn's disease: A retrospective study. Dig Liver Dis. 2014 Aug;46(8):695-700. doi: 10.1016/j.dld.2014.04.012. Epub 2014 Jun 2.</a></li>
+<li style="margin:1ex 0.5ex">Ramos L, Hernandez A, Carrillo M, Alonso I, Hernandez N, Quintero E. Outcome of treatment with biological agents in Crohn's disease: 117 patients in 5 years from a tertiary referral center. J Crohns Colitis. 2014;8 (suppl.1):P398.</li>
+<li style="margin:1ex 0.5ex">Luppino I, Spagnuolo R, Marasco R, Cosco C, Ruggiero G, Cosco V, et al. Withdrawal of infliximab (IFX) after achieving remission: outcome in a cohort of inflammatory bowel disease (IBD) patients. Dig Liver Dis. [Conference abstract: Abstracts of the 19th National Congress of Digestive Diseases]. 2013;45S:S100-S1.</li>
+<li style="margin:1ex 0.5ex">Marino M, Zucchi E, Fabbro M, Lodolo I, Maieron R, Vadal&#224; S, et al. Outcome of infliximab discontinuation in IBD patients and therapy rechallenging in relapsers: Single centre preliminary data. J Crohns Colitis. 2014;8 (suppl.1):P401.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0jSK4wcg08A6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0jSK4wcg08A6h9Ei4L3BUgWwNG0it.'); return false">Cromb&#233; V, Salleron J, Savoye G, Dupas JL, Vernier-Massouille G, Lerebours E, Cortot A, Merle V, Vasseur F, Turck D, Gower-Rousseau C, L&#233;mann M, Colombel JF, Duhamel A. Long-term outcome of treatment with infliximab in pediatric-onset Crohn's disease: a population-based study. Inflamm Bowel Dis. 2011 Oct;17(10):2144-52. doi: 10.1002/ibd.21615. Epub 2011 Feb 1.</a></li>
+<li style="margin:1ex 0.5ex">Annunziata ML, Papparella LG, Sansoni I, Balestrieri P, Cicala M. Normalized wall thickness at MRE predicts clinical remission in Crohn's disease after infliximab discontinuation: a 5 years follow-up. J Crohns Colitis. 2014;8 (suppl.1):P402.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0tOR4wSRCJA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0tOR4wSRCJA6h9Ei4L3BUgWwNG0it.'); return false">Waugh AW, Garg S, Matic K, Gramlich L, Wong C, Sadowski DC, Millan M, Bailey R, Todoruk D, Cherry R, Teshima CW, Dieleman L, Fedorak RN. Maintenance of clinical benefit in Crohn's disease patients after discontinuation of infliximab: long-term follow-up of a single centre cohort. Aliment Pharmacol Ther. 2010 Nov;32(9):1129-34. doi: 10.1111/j.1365-2036.2010.04446.x. Epub 2010 Aug 30.</a></li>
+<li style="margin:1ex 0.5ex">Nuti F, Conte F, Cavallari N, Civitelli F, Aloi M, Alessandri C, et al. Long term efficacy of infliximab in inflammatory bowel disease at a single tertiary center. Dig Liver Dis. [Congress comunication: 17th National Congress SIGENP]. 2010;42(SUPPL. 5):S326-S7.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VaRFjFRFJA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VaRFjFRFJA6h9Ei4L3BUgWwNG0it.'); return false">Farkas K, Lakatos PL, Nagy F, Szepes Z, Miheller P, Papp M, Palatka K, B&#225;lint A, Bor R, Wittmann T, Moln&#225;r T. Predictors of relapse in patients with ulcerative colitis in remission after one-year of infliximab therapy. Scand J Gastroenterol. 2013 Dec;48(12):1394-8. doi: 10.3109/00365521.2013.845906. Epub 2013 Oct 16.</a></li>
+<li style="margin:1ex 0.5ex">Armuzzi A, Marzo M, Felice C, De Vincentis F, Andrisani G, Moccio G, et al. Long-term scheduled therapy with infliximab in inflammatory bowel disease: a single-centre observational study. Gastroenterology. 2010;238 (suppl.1):S-691.</li>
+<li style="margin:1ex 0.5ex">Mu&#241;oz C, Bravo MT, Ortiz de Z&#225;rate J, Arreba P, Garc&#237;a I, Heras J, et al. Mucosal healing in patients with ulcerative colitis treated with infliximab. What happens after treatment is discontinued? J Crohns Colitis. 2014;8 (suppl.1):P405.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR08FRFtag4JA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR08FRFtag4JA6h9Ei4L3BUgWwNG0it.'); return false">Dai C, Liu WX, Jiang M, Sun MJ. Mucosal healing did not predict sustained clinical remission in patients with IBD after discontinuation of one-year infliximab therapy. PLoS One. 2014 Oct 20;9(10):e110797. doi: 10.1371/journal.pone.0110797. eCollection 2014.</a></li>
+<li style="margin:1ex 0.5ex">Casanova MJ, Chaparro M, Garc&#237;a-S&#225;nchez V, Nantes O, Jauregui-Amezaga A, Rojas-Feria M, et al. Evolution after anti-TNF drug discontinuation in patients with inflammatory bowel disease (IBD): a multicenter long-term follow-up study. J Crohns Colitis. 2015;9 (suppl.1):S329.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC5agFV-K4jA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC5agFV-K4jA6h9Ei4L3BUgWwNG0it.'); return false">Gisbert JP, Pan&#233;s J. Loss of response and requirement of infliximab dose intensification in Crohn's disease: a review. Am J Gastroenterol. 2009 Mar;104(3):760-7. doi: 10.1038/ajg.2008.88. Epub 2009 Jan 27. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0BEgF8ORFnA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0BEgF8ORFnA6h9Ei4L3BUgWwNG0it.'); return false">Gisbert JP, Mar&#237;n AC, Chaparro M. Systematic review: factors associated with relapse of inflammatory bowel disease after discontinuation of anti-TNF therapy. Aliment Pharmacol Ther. 2015 Aug;42(4):391-405. doi: 10.1111/apt.13276. Epub 2015 Jun 15. Review.</a></li>
+<li style="margin:1ex 0.5ex">Felice C, Pugliese D, Guidi L, Marzo M, Andrisani G, Papa A, et al. Retreatment with infliximab in inflammatory bowel disease: tolerability and effectiveness of different re-induction regimens. J Crohns Colitis. 2014;8 (suppl.1):P363</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0RWRFR-K4tA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0RWRFR-K4tA6h9Ei4L3BUgWwNG0it.'); return false">Cabriada JL, Vera I, Dom&#232;nech E, Barreiro-de Acosta M, Esteve M, Gisbert JP, Pan&#233;s J, Gomoll&#243;n F; Grupo Espa&#241;ol de Trabajo en Enfermedad de Crohn y Colitis Ulcerosa (GETECCU). [Recommendations of the Spanish Working Group on Crohn's Disease and Ulcerative Colitis on the use of anti-tumor necrosis factor drugs in inflammatory bowel disease]. Gastroenterol Hepatol. 2013 Mar;36(3):127-46. doi: 10.1016/j.gastrohep.2013.01.002. Epub 2013 Feb 20. Spanish.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0RER4tLKCwA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0RER4tLKCwA6h9Ei4L3BUgWwNG0it.'); return false">D'Haens G, Feagan B, Colombel JF, Sandborn WJ, Reinisch W, Rutgeerts P, Carbonnel F, Mary JY, Danese S, Fedorak RN, Hanauer S, L&#233;mann M; International Organization for Inflammatory Bowel Diseases (IOIBD) and the Clinical Trial Committee Clincom of the European Crohn's and Colitis Organisation (ECCO). Challenges to the design, execution, and analysis of randomized controlled trials for inflammatory bowel disease. Gastroenterology. 2012 Dec;143(6):1461-9. doi: 10.1053/j.gastro.2012.09.031. Epub 2012 Sep 20. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC8WgFncgFtA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC8WgFncgFtA6h9Ei4L3BUgWwNG0it.'); return false">Daperno M, D'Haens G, Van Assche G, Baert F, Bulois P, Maunoury V, Sostegni R, Rocca R, Pera A, Gevers A, Mary JY, Colombel JF, Rutgeerts P. Development and validation of a new, simplified endoscopic activity score for Crohn's disease: the SES-CD. Gastrointest Endosc. 2004 Oct;60(4):505-12.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCwSg4jOg0tA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCwSg4jOg0tA6h9Ei4L3BUgWwNG0it.'); return false">Kamm MA, Sandborn WJ, Gassull M, Schreiber S, Jackowski L, Butler T, Lyne A, Stephenson D, Palmen M, Joseph RE. Once-daily, high-concentration MMX mesalamine in active ulcerative colitis. Gastroenterology. 2007 Jan;132(1):66-75; quiz 432-3. Epub 2006 Oct 12.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC8WgF8-g4BA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC8WgF8-g4BA6h9Ei4L3BUgWwNG0it.'); return false">Alcal&#225; MJ, Casellas F, Fontanet G, Prieto L, Malagelada JR. Shortened questionnaire on quality of life for inflammatory bowel disease. Inflamm Bowel Dis. 2004 Jul;10(4):383-91.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC5WR4VSR4VA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC5WR4VSR4VA6h9Ei4L3BUgWwNG0it.'); return false">Vergara M, Montserrat A, Casellas F, Maudsley M, Gallardo O, Ricart E, Calvet X. Validation of the Spanish Work Productivity and Activity impairment questionnaire: Crohn's disease version. Eur J Gastroenterol Hepatol. 2009 Jul;21(7):809-15. doi: 10.1097/MEG.0b013e32830f4c9e.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0jSg4n-g4wA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0jSg4n-g4wA6h9Ei4L3BUgWwNG0it.'); return false">Chaparro M, Panes J, Garc&#237;a V, Ma&#241;osa M, Esteve M, Merino O, Andreu M, Gutierrez A, Gomoll&#243;n F, Cabriada JL, Montoro MA, Mendoza JL, Nos P, Gisbert JP. Long-term durability of infliximab treatment in Crohn's disease and efficacy of dose &quot;escalation&quot; in patients losing response. J Clin Gastroenterol. 2011 Feb;45(2):113-8. doi: 10.1097/MCG.0b013e3181ebaef9.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR08FRCjOg0VA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR08FRCjOg0VA6h9Ei4L3BUgWwNG0it.'); return false">Brooks AJ, Sebastian S, Cross SS, Robinson K, Warren L, Wright A, Marsh AM, Tsai H, Majeed F, McAlindon ME, Preston C, Hamlin PJ, Lobo AJ. Outcome of elective withdrawal of anti-tumour necrosis factor-&#945; therapy in patients with Crohn's disease in established remission. J Crohns Colitis. 2015 May 18. pii: jjv000. [Epub ahead of print]</a></li>
+</ul>
+</td>
+          </tr>
+    
+    <tr>
+      <td class="header3" style="padding-left:2em" colspan="2">
+        <br/>
+        * &nbsp; Includes publications given by the data provider as well as publications
+        identified by ClinicalTrials.gov Identifier (NCT Number) in Medline.
+      </td>
+    </tr>
+
+    <tr><td colspan=2>&nbsp;</td></tr>
+
+    <tr>
+      <th class="header2 banner_color sectionBanner" colspan="2">Recruitment Information</th>
+    </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Recruitment Status&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Not yet recruiting</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Estimated Enrollment&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">300</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Estimated Completion Date </th>
+            <td class="body3 rowBody">December 2019</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Estimated Primary Completion Date </th>
+            <td class="body3 rowBody">December 2018 &nbsp; (Final data collection date for primary outcome measure)</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Eligibility Criteria&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><p style="margin-top:1ex; margin-bottom:1ex;">Inclusion Criteria:</p>
+  <ul style="margin-top:1ex; margin-bottom:1ex;">
+    <li style="margin-top:0.7ex;">Patients diagnosed with IBD (Crohn's disease or ulcerative colitis)</li>
+    <li style="margin-top:0.7ex;">Patients diagnosed with IBD by the usual criteria; both Crohn's and ulcerative colitis disease.</li>
+    <li style="margin-top:0.7ex;">Patients older than 18 years.</li>
+    <li style="margin-top:0.7ex;">Have received treatment with an anti-TNF drug to induce clinical remission of IBD by clinical practice.</li>
+    <li style="margin-top:0.7ex;">Being the first anti-TNF drug received and the first course of the drug.</li>
+    <li style="margin-top:0.7ex;">In the case of patients with Crohn's disease the indication treatment with anti-TNF it must have been for luminal involvement (no perianal).</li>
+    <li style="margin-top:0.7ex;">Are currently in clinical remission.</li>
+    <li style="margin-top:0.7ex;">The pretreatment period with anti-TNF must have been at least 1 year (and with stable doses during the last year).</li>
+    <li style="margin-top:0.7ex;">The clinical remission period it must have been at least 6 months.</li>
+    <li style="margin-top:0.7ex;">At the time of inclusion, the patient should be receiving concomitant immunosuppressants (thiopurine or methotrexate) to anti-TNF treatment, and must have received these immunosuppressive drugs at stable doses for at least the last 3 months.</li>
+    <li style="margin-top:0.7ex;">In patients with Crohn's disease or ulcerative colitis disease, at baseline colonoscopy (made up to 30 days before inclusion) should not be &quot;significant&quot; injuries.</li>
+    <li style="margin-top:0.7ex;">In the case of patients with Crohn's ileal or ileocolic disease, in magnetic resonance whole should not be &quot;significant&quot; injuries.</li>
+  </ul>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Exclusion Criteria:</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">PRINCIPAL EXCLUSION CRITERIA</p>
+  <ul style="margin-top:1ex; margin-bottom:1ex;">
+    <li style="margin-top:0.7ex;">Age less than 18 years.</li>
+    <li style="margin-top:0.7ex;">Patients who have been treated with anti-TNF for other indication than the IBD.</li>
+    <li style="margin-top:0.7ex;">Patients who, at some point, have received an anti-TNF drug dose higher than the standard, intensified; that is, more than 5 mg / kg / 8 weeks, in the case of infliximab, or 40 mg / 2 weeks, in the case of adalimumab.</li>
+    <li style="margin-top:0.7ex;">Patients with Crohn's disease in which the indication for treatment with anti-TNF has been the perianal involvement (or luminal and perianal both); or showing active perianal disease at the time of inclusion.</li>
+    <li style="margin-top:0.7ex;">Patients who have previously discontinued treatment with anti-TNF and subsequently been restarted.</li>
+    <li style="margin-top:0.7ex;">Patients who have previously received it another anti-TNF drug.</li>
+    <li style="margin-top:0.7ex;">Patients with IBD who began treatment with anti-TNF being in clinical remission.</li>
+    <li style="margin-top:0.7ex;">Patients who are not receiving concomitant treatment with immunosuppressants (thiopurine or methotrexate) at the moment (and in the previous 3 months).</li>
+    <li style="margin-top:0.7ex;">Patients undergoing bowel resection surgery; therefore, patients who began anti-TNF therapy to prevent or treat postoperative recurrence in Crohn's disease will be excluded.</li>
+    <li style="margin-top:0.7ex;">Presence of &quot;significant&quot; endoscopic or radiological lesions</li>
+    <li style="margin-top:0.7ex;">Advanced chronic illness or any other condition that prevents the patient from coming to the clinic for monitoring or follow-up.</li>
+    <li style="margin-top:0.7ex;">Patients who are pregnant, breastfeeding or intending to become pregnant during the course of the study.</li>
+    <li style="margin-top:0.7ex;">Refusal to give consent for participation in the study.</li>
+  </ul></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Sex/Gender </th>
+            <td class="body3 rowBody"><table class="layout_table" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr valign="top">
+   <td style="padding:0px; margin:0ex; border:none;" nowrap>Sexes Eligible for Study:</td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;">All</td>
+  </tr>
+</table>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Ages </th>
+            <td class="body3 rowBody">18 Years and older &nbsp; (Adult, Senior)</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Accepts Healthy Volunteers </th>
+            <td class="body3 rowBody">No</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Contacts&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><a name="contacts"/><table class="layout_table" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr valign="top">
+   <td style="padding:0px; margin:0ex; border:none;" nowrap>Contact: Eva Maria Rodriguez</td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;">+34 91 5202540</td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;"><a href="mailto:secretariacientifica1%40geteccu.org">secretariacientifica1@geteccu.org</a></td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;"></td>
+  </tr>
+</table>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Listed Location Countries&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Spain</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Removed Location Countries </th>
+            <td class="body3"> &nbsp; </td>
+          </tr>
+    
+    <tr><td colspan=2>&nbsp;</td></tr>
+
+    <tr>
+      <th class="header2 banner_color sectionBanner" colspan="2">Administrative Information</th>
+    </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">NCT Number&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">NCT02994836</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Other Study ID Numbers&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">GIS-SUSANTI-TNF-2015</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Has Data Monitoring Committee </th>
+            <td class="body3 rowBody">No</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">U.S. FDA-regulated Product </th>
+            <td class="missing_color">Not Provided</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">IPD Sharing Statement </th>
+            <td class="missing_color">Not Provided</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Responsible Party </th>
+            <td class="body3 rowBody">Fundaci&#243;n de Investigaci&#243;n Biom&#233;dica - Hospital Universitario de La Princesa</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Study Sponsor&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Fundaci&#243;n de Investigaci&#243;n Biom&#233;dica - Hospital Universitario de La Princesa</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Collaborators&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="missing_color">Not Provided</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Investigators&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><table class="layout_table" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr valign="top">
+   <td style="padding:0px; margin:0ex; border:none;" nowrap>Principal Investigator:</td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;">Javier MD Perez Gisbert, PhD</td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;">Fundaci&#243;n de Investigaci&#243;n Biom&#233;dica - Hospital Universitario de La Princesa</td>
+  </tr>
+</table>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">PRS Account </th>
+            <td class="body3 rowBody">Fundaci&#243;n de Investigaci&#243;n Biom&#233;dica - Hospital Universitario de La Princesa</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Verification Date </th>
+            <td class="body3 rowBody">December 2016</td>
+          </tr>
+    
+    <tr>
+      <td class="header3" style="padding-left:2em" colspan="2">
+        <br/>
+        <sup style="color:blue"> ICMJE </sup>&nbsp; &nbsp; Data element required by the
+        <a href="http://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/clinical-trial-registration.html">
+        International Committee of Medical Journal Editors</a> and the
+        <a href="http://www.who.int/ictrp/network/trds/en/index.html">World Health Organization ICTRP</a>
+      </td>
+    </tr>
+
+  </table>
+</div>
+
+
+<div id="to-top"><a href="#wrapper">To Top</a></div>
+
+	<div style="clear:both;"></div>
+</div> 
+
+      <div id="for-footer">
+        <ul class="horz-list">
+            <li style="border-left:0;"><a    href="/ct2/help/for-patient">For Patients and Families</a></li>
+            <li><a href="/ct2/help/for-researcher">For Researchers</a></li>
+            <li><a     href="/ct2/help/for-manager">For Study Record Managers</a></li>
+        </ul>
+    </div>
+
+<div id="footer-menu">
+    <ul class="horz-list">
+		<li><a href="/ct2/home" style="white-space:nowrap">Home</a></li>
+		<li><a     href="/ct2/resources/rss" style="white-space:nowrap">RSS Feeds</a></li>
+		<li><a         href="/ct2/sitemap" style="white-space:nowrap">Site Map</a></li>
+		<li><a       href="/ct2/about-site/terms-conditions" style="white-space:nowrap">Terms and Conditions</a></li>
+		<li><a href="/ct2/about-site/disclaimer" style="white-space:nowrap">Disclaimer</a></li>
+		<li><a        href="https://support.nlm.nih.gov/ics/support/KBList.asp?folderID=146?style=classic&amp;deptID=28054&amp;category=clinicaltrials.gov&amp;hd_url=https%3A%2F%2Fclinicaltrials.gov%2Fct2%2Fshow%2Frecord%2FNCT02994836" style="white-space:nowrap" onclick="openNewWindow('https://support.nlm.nih.gov/ics/support/KBList.asp?folderID=146?style=classic&amp;deptID=28054&amp;category=clinicaltrials.gov&amp;hd_url=https%3A%2F%2Fclinicaltrials.gov%2Fct2%2Fshow%2Frecord%2FNCT02994836'); return false">Customer Support</a></li>
+	</ul>
+</div>
+
+</div>  
+<div id="fine-print">
+	<ul class="horz-list">
+		<li                  ><a title="NLM copyright information - opens new window"  href="https://www.nlm.nih.gov/copyright.html" onclick="openNewWindow('https://www.nlm.nih.gov/copyright.html'); return false"
+>Copyright</a></li>
+		<li                  ><a title="NLM privacy policy - opens new window"  href="https://www.nlm.nih.gov/privacy.html" onclick="openNewWindow('https://www.nlm.nih.gov/privacy.html'); return false"
+>Privacy</a></li>
+		<li                  ><a href="/ct2/accessibility" title="NLM Accessibility">Accessibility</a></li>
+		<li                  ><a title="NLM viewers and players - opens new window"  href="https://www.nlm.nih.gov/plugins.html" onclick="openNewWindow('https://www.nlm.nih.gov/plugins.html'); return false"
+>Viewers and Players</a></li>
+		<li                  ><a title="NIH Freedom of Information Act office - opens new window"  href="https://www.nih.gov/icd/od/foia/index.htm" onclick="openNewWindow('https://www.nih.gov/icd/od/foia/index.htm'); return false"
+>Freedom of Information Act</a></li>
+		<li class="last-item"><a title="USA.gov - opens new window"  href="https://www.usa.gov/" onclick="openNewWindow('https://www.usa.gov/'); return false"
+>USA.gov</a></li>
+	</ul>
+    <ul class="horz-list">
+       <li><a title="U.S. National Library of Medicine - opens new window"  href="https://www.nlm.nih.gov/" onclick="openNewWindow('https://www.nlm.nih.gov/'); return false"
+>U.S. National Library of Medicine</a></li>
+       <li><a title="U.S. National Institutes of Health - opens new window"  href="https://www.nih.gov/" onclick="openNewWindow('https://www.nih.gov/'); return false"
+>U.S. National Institutes of Health</a></li>
+       <li class="last-item"><a title="U.S. Department of Health and Human Services - opens new window"  href="https://www.hhs.gov/" onclick="openNewWindow('https://www.hhs.gov/'); return false"
+>
+            U.S. Department of Health and Human Services</a></li>
+    </ul>
+</div>
+
+    <script type="text/javascript" src="/ct2/html/ct3/js/instrumentNCBIBaseJS.min.js"></script><noscript></noscript>
+
+</body>
+</html>

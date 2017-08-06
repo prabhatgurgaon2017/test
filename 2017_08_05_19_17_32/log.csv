@@ -1,0 +1,4 @@
+Date,Time,Type,Remark,Keyword,"Total Time (Seconds)","Speed Upload (KB)","Speed Download (KB)","Size Upload (KB)","Size Download (KB)",Status
+05-08-2017,19:17:32,TrackerStart
+05-08-2017,19:17:32,KeywordSearchStart,"Ankylosing Spodylitis","Ankylosing Spodylitis"
+05-08-2017,19:17:32,Request,https://clinicaltrials.gov/ct2/results?term=Ankylosing+Spodylitis&Search=&displayxml=true&pg=1,"Ankylosing Spodylitis",0.265,0,618,0.00,0.16,

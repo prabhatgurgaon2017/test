@@ -1,0 +1,65 @@
+Date,Time,Type,Remark,Keyword,"Total Time (Seconds)","Speed Upload (KB)","Speed Download (KB)","Size Upload (KB)","Size Download (KB)"
+05-08-2017,18:48:14,TrackerStart
+05-08-2017,18:48:14,KeywordSearchStart,"Ankylosing Spodylitis","Ankylosing Spodylitis"
+05-08-2017,18:48:15,Request,https://clinicaltrials.gov/ct2/results?term=Ankylosing+Spodylitis&Search=&displayxml=true&pg=1,"Ankylosing Spodylitis",0.64,0,256,0.00,0.16
+05-08-2017,18:48:15,KeywordSearchEnd,"Ankylosing Spodylitis","Ankylosing Spodylitis"
+05-08-2017,18:48:15,KeywordSearchStart,"Crohn's Disease","Crohn's Disease"
+05-08-2017,18:48:16,Request,https://clinicaltrials.gov/ct2/results?term=Crohn%27s+Disease&Search=&displayxml=true&pg=1,"Crohn's Disease",0.625,0,85651,0.00,52.28
+05-08-2017,18:48:16,Request,https://clinicaltrials.gov/ct2/show/record/NCT01736046?,"Crohn's Disease",0.141,0,348141,0.00,47.94
+05-08-2017,18:48:17,Request,https://clinicaltrials.gov/ct2/show/record/NCT01074580?,"Crohn's Disease",1.078,0,35772,0.00,37.66
+05-08-2017,18:48:17,Request,https://clinicaltrials.gov/ct2/show/record/NCT01554007?,"Crohn's Disease",0.515,0,87372,0.00,43.94
+05-08-2017,18:48:18,Request,https://clinicaltrials.gov/ct2/show/record/NCT00723840?,"Crohn's Disease",0.766,0,53570,0.00,40.07
+05-08-2017,18:48:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT02231814?,"Crohn's Disease",0.656,0,70745,0.00,45.32
+05-08-2017,18:48:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT02504255?,"Crohn's Disease",0.531,0,78487,0.00,40.70
+05-08-2017,18:48:20,Request,https://clinicaltrials.gov/ct2/show/record/NCT00356408?,"Crohn's Disease",0.735,0,53544,0.00,38.43
+05-08-2017,18:48:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT01355614?,"Crohn's Disease",0.422,0,90390,0.00,37.25
+05-08-2017,18:48:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT00587210?,"Crohn's Disease",0.75,0,50562,0.00,37.03
+05-08-2017,18:48:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT02768532?,"Crohn's Disease",0.469,0,110336,0.00,50.54
+05-08-2017,18:48:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT02061163?,"Crohn's Disease",0.719,0,55496,0.00,38.97
+05-08-2017,18:48:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT01759264?,"Crohn's Disease",0.5,0,83444,0.00,40.74
+05-08-2017,18:48:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT00409682?,"Crohn's Disease",0.75,0,84841,0.00,62.14
+05-08-2017,18:48:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT01155362?,"Crohn's Disease",0.453,0,91558,0.00,40.50
+05-08-2017,18:48:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT01392365?,"Crohn's Disease",0.766,0,56459,0.00,42.23
+05-08-2017,18:48:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT01671579?,"Crohn's Disease",0.484,0,83235,0.00,39.34
+05-08-2017,18:48:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT01573078?,"Crohn's Disease",0.734,0,51519,0.00,36.93
+05-08-2017,18:48:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT02843100?,"Crohn's Disease",0.532,0,88687,0.00,46.08
+05-08-2017,18:48:35,Request,https://clinicaltrials.gov/ct2/show/record/NCT01632462?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,18:48:36,Request,https://clinicaltrials.gov/ct2/show/record/NCT01083680?,"Crohn's Disease",0.906,0,48185,0.00,42.63
+05-08-2017,18:48:44,Request,https://clinicaltrials.gov/ct2/show/record/NCT02520843?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,18:48:45,Request,https://clinicaltrials.gov/ct2/show/record/NCT01046773?,"Crohn's Disease",0.813,0,63469,0.00,50.39
+05-08-2017,18:48:45,Request,https://clinicaltrials.gov/ct2/show/record/NCT02940054?,"Crohn's Disease",0.562,0,76147,0.00,41.79
+05-08-2017,18:48:46,Request,https://clinicaltrials.gov/ct2/show/record/NCT01105741?,"Crohn's Disease",0.766,0,56631,0.00,42.36
+05-08-2017,18:48:47,Request,https://clinicaltrials.gov/ct2/show/record/NCT02825316?,"Crohn's Disease",0.718,0,57828,0.00,40.55
+05-08-2017,18:48:47,Request,https://clinicaltrials.gov/ct2/show/record/NCT00851565?,"Crohn's Disease",0.75,0,69630,0.00,51.00
+05-08-2017,18:48:48,Request,https://clinicaltrials.gov/ct2/show/record/NCT00130390?,"Crohn's Disease",0.75,0,53726,0.00,39.35
+05-08-2017,18:48:49,Request,https://clinicaltrials.gov/ct2/show/record/NCT00528073?,"Crohn's Disease",0.766,0,59266,0.00,44.33
+05-08-2017,18:48:50,Request,https://clinicaltrials.gov/ct2/show/record/NCT00487396?,"Crohn's Disease",0.891,0,51083,0.00,44.45
+05-08-2017,18:48:50,Request,https://clinicaltrials.gov/ct2/show/record/NCT00207662?,"Crohn's Disease",0.578,0,67814,0.00,38.28
+05-08-2017,18:48:51,Request,https://clinicaltrials.gov/ct2/show/record/NCT02472457?,"Crohn's Disease",0.922,0,46334,0.00,41.72
+05-08-2017,18:48:52,Request,https://clinicaltrials.gov/ct2/show/record/NCT01182467?,"Crohn's Disease",0.594,0,68353,0.00,39.65
+05-08-2017,18:48:55,Request,https://clinicaltrials.gov/ct2/show/record/NCT00109473?,"Crohn's Disease",3.031,0,15238,0.00,45.11
+05-08-2017,18:48:56,Request,https://clinicaltrials.gov/ct2/show/record/NCT01276509?,"Crohn's Disease",1.094,0,42027,0.00,44.90
+05-08-2017,18:49:04,Request,https://clinicaltrials.gov/ct2/show/record/NCT00291668?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,18:49:07,Request,https://clinicaltrials.gov/ct2/show/record/NCT01150890?,"Crohn's Disease",2.906,0,13919,0.00,39.50
+05-08-2017,18:49:08,Request,https://clinicaltrials.gov/ct2/show/record/NCT01874015?,"Crohn's Disease",1.094,0,36895,0.00,39.42
+05-08-2017,18:49:09,Request,https://clinicaltrials.gov/ct2/show/record/NCT00588653?,"Crohn's Disease",0.656,0,67510,0.00,43.25
+05-08-2017,18:49:10,Request,https://clinicaltrials.gov/ct2/show/record/NCT01958827?,"Crohn's Disease",1.063,0,47001,0.00,48.79
+05-08-2017,18:49:10,Request,https://clinicaltrials.gov/ct2/show/record/NCT01365767?,"Crohn's Disease",0.609,0,67134,0.00,39.93
+05-08-2017,18:49:11,Request,https://clinicaltrials.gov/ct2/show/record/NCT00599625?,"Crohn's Disease",1.046,0,41749,0.00,42.65
+05-08-2017,18:49:12,Request,https://clinicaltrials.gov/ct2/show/record/NCT00126373?,"Crohn's Disease",0.625,0,64401,0.00,39.31
+05-08-2017,18:49:13,Request,https://clinicaltrials.gov/ct2/show/record/NCT02772458?,"Crohn's Disease",1.094,0,38309,0.00,40.93
+05-08-2017,18:49:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT02378688?,"Crohn's Disease",8.047,0,28,0.00,0.22
+05-08-2017,18:49:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT00584740?,"Crohn's Disease",0.843,0,51858,0.00,42.69
+05-08-2017,18:49:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT01030809?,"Crohn's Disease",0.782,0,52135,0.00,39.81
+05-08-2017,18:49:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT00596700?,"Crohn's Disease",1.015,0,44015,0.00,43.63
+05-08-2017,18:49:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT01345799?,"Crohn's Disease",0.797,0,46283,0.00,36.02
+05-08-2017,18:49:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT01860846?,"Crohn's Disease",1.203,0,39399,0.00,46.29
+05-08-2017,18:49:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT00088062?,"Crohn's Disease",1.219,0,29638,0.00,35.28
+05-08-2017,18:49:36,Request,https://clinicaltrials.gov/ct2/show/record/NCT01235689?,"Crohn's Disease",8.5,0,5255,0.00,43.63
+05-08-2017,18:49:37,Request,https://clinicaltrials.gov/ct2/show/record/NCT00269854?,"Crohn's Disease",1.234,0,35154,0.00,42.36
+05-08-2017,18:49:38,Request,https://clinicaltrials.gov/ct2/show/record/NCT03194529?,"Crohn's Disease",0.782,0,58549,0.00,44.71
+05-08-2017,18:49:39,Request,https://clinicaltrials.gov/ct2/show/record/NCT00308581?,"Crohn's Disease",1.25,0,54375,0.00,66.38
+05-08-2017,18:49:40,Request,https://clinicaltrials.gov/ct2/show/record/NCT01298648?,"Crohn's Disease",1.109,0,38724,0.00,41.94
+05-08-2017,18:49:41,Request,https://clinicaltrials.gov/ct2/show/record/NCT00297648?,"Crohn's Disease",0.859,0,66724,0.00,55.97
+05-08-2017,18:49:42,Request,https://clinicaltrials.gov/ct2/show/record/NCT00692939?,"Crohn's Disease",1.063,0,43569,0.00,45.23
+05-08-2017,18:49:43,Request,https://clinicaltrials.gov/ct2/show/record/NCT01190410?,"Crohn's Disease",1.015,0,41072,0.00,40.71

@@ -1,0 +1,818 @@
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" lang='en'>
+<head>  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="robots" content="noindex,nofollow"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+  <title>Mission is Remission&#174;: How Can a Disease Self-management Website Change Care? - Tabular View - ClinicalTrials.gov</title>
+    <link href="/ct2/show/record/NCT02694042" rel="canonical"/>
+  
+  <link rel="shortcut icon" href="/ct2/html/images/favicon.ico" />
+  <link rel='apple-touch-icon-precomposed' href='/apple-touch-icon-144x144.png' sizes='144x144'>
+  <link rel='apple-touch-icon-precomposed' href='/apple-touch-icon-114x114.png' sizes='114x114'>
+  <link rel='apple-touch-icon-precomposed' href='/apple-touch-icon-72x72.png'   sizes='72x72'>
+  <link rel='apple-touch-icon-precomposed' href='/apple-touch-icon-precomposed.png' >
+  <link rel='apple-touch-icon-precomposed' href='/apple-touch-icon.png' >
+
+  <link rel="stylesheet" type="text/css" href="/ct2/html/ct3/jquery/css/superfish.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/ct2/html/ct3/jquery/css/superfish-vertical.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/ct2/html/ct3/css/base.css?v=b4" />
+  <link rel="stylesheet" type="text/css" href="/ct2/html/ct3/css/print.css" media="print" />
+  <link rel="stylesheet" href="/ct2/html/ct3/css/w3-ct.css" type="text/css" />
+  <!--[if lt IE 9]>
+	<link rel="stylesheet" href="/ct2/html/ct3/css/w3-ct-oldIE.css" type="text/css" />
+  <![endif]-->
+  	
+
+     <!--[if lte IE 7]>
+           <link href="/ct2/html/ct3/css/target-IE7-and-below.css" rel="stylesheet" type="text/css">
+    <![endif]-->
+
+<link href="/ct2/html/ct3/css/trial-record.css?v=b4" rel="stylesheet" type="text/css" />
+<link href="/ct2/html/ct3/css/ct2Header.css" rel="stylesheet" type="text/css" />
+
+
+	<script type="text/javascript" src="/ct2/html/ct3/jquery/js/jquery.min.js?v=1.12.4"></script><noscript></noscript>
+	    <script type="text/javascript" src="/ct2/html/ct3/jquery/js/superclick.js"></script><noscript></noscript>
+    <script type="text/javascript" src="/ct2/html/ct3/jquery/js/jquery.cookie.js"></script><noscript></noscript>
+    <script type="text/javascript" src="/ct2/html/images/frame/ct.js"></script><noscript></noscript>
+    <script type="text/javascript" src="/ct2/html/ct3/js/ctmenu.js?v=b4"></script><noscript></noscript>
+
+    <script type="text/javascript" src="/ct2/html/images/foresee/foresee-trigger.js"></script><noscript></noscript>
+<script type="text/javascript">
+    $(window).load(function(){
+        loadCTCommon();
+        });
+</script>
+ 
+
+
+  <script type="text/javascript">
+    ncbi_pingWithImage=true;
+    __ncbi_stat_url="//www.ncbi.nlm.nih.gov/stat";        
+  </script>
+  
+  <meta name="ncbi_sid" content="86171a44985d3126_806cdSID"/>
+  <meta name="ncbi_app" content="ctgov"/>
+  <meta name="ncbi_db" content="ctgov"/>
+  <meta name="ncbi_pdid" content="show_record"/>
+  <meta name="ncbi_pcid" content="NCT02694042"/>
+  <meta name="ncbi_ctreqid" content="RRd02DNM"/>
+  <meta name="ncbi_ctsessid" content="SRd01glF"/>
+  <meta name="ncbi_ctipid" content="IzOkI5NS"/>
+  <meta name="ncbi_cthost" content="wp3"/>
+</head>
+
+<body class="js one-column"> 
+<div id="skip"> <a href="#main-content">Skip to Main Content</a> </div>
+
+<script type="text/javascript">
+	var RetractableBannerStateProperty = 'CT_NewsBannerState';
+	
+	ToggleBanner = function()
+    {
+        var theAccordion = $('#retractableBanner'); 
+       	if (theAccordion.css("display") == "none") {
+        		$('#showMore').css('visibility', 'hidden');
+        	} else {
+         		$('#showMore').css('visibility', 'visible');
+        	}
+        theAccordion.slideToggle({
+            duration: 'fast',
+            start: function(){
+				            	if (typeof FuncReAlign !== 'undefined') {
+            		$( "table.fixedHeader-floating" ).hide();
+            	}
+			},
+            done: function(){
+            	if (theAccordion.css("display") == "none") {
+            		rememberRetractableBannerState('hide');
+            	} else {
+            		rememberRetractableBannerState('show');
+            	}
+            	if (typeof FuncReAlign !== 'undefined') {
+                	FuncReAlign();  
+            		$( "table.fixedHeader-floating" ).show();
+            	}
+            }
+		});
+    };
+	    
+	var rememberRetractableBannerState = function(newState) {
+		try {
+			sessionStorage.setItem(RetractableBannerStateProperty, newState);
+		} catch (e) {}
+	};
+
+	$(window).ready(function(){
+		try {
+			var retractableBannerState = sessionStorage.getItem(RetractableBannerStateProperty);
+					    if (retractableBannerState === null  || retractableBannerState === 'show') {
+				ToggleBanner();
+			}
+		} catch (e) {};
+	});
+</script><noscript></noscript>
+<div class="w3-container w3-center" style="padding:1.5ex 0.125in 0;background:#205493;color:white">
+	<div style="font-weight:bold;">This site became the new ClinicalTrials.gov on June 19th. <a href="https://www.nlm.nih.gov/pubs/techbull/mj17/mj17_clinicaltrials_improve_usability.html" style="margin-left:1em;color:white;border-bottom-color:white;">Learn more.</a>
+		<div id="showMore" style="float:right;cursor:pointer;border-bottom:1px dotted white;" onclick="ToggleBanner();">Show more <img src="/ct2/html/ct3/images/show-more.png" style="width:17px;"></div>
+	</div>
+	<div id="retractableBanner" style="margin-top:1ex;display:none;">We will be updating this site in phases. This allows us to move faster and to deliver better services.
+		<div id="showLess" style="float:right;cursor:pointer;border-bottom:1px dotted white;" onclick="ToggleBanner();">Show less <img src="/ct2/html/ct3/images/show-less.png" style="width:17px;"></div>
+	</div>
+</div>
+<div id="wrapper" style="padding-top:0;">  <div id="longAlert" class="w3-hide-small" style="background-color:papayawhip;font-size:small;margin-bottom:1.5ex;">
+	<img src="/ct2/html/ct3/images/warning.png" alt="ClinicalTrials.gov Menu" style="max-width:0.8rem;cursor:pointer;"/>
+    <b>IMPORTANT</b>: Listing of a study on this site does not reflect endorsement by the National Institutes of Health. Talk with a trusted healthcare professional before volunteering for a study.  <a href="/ct2/about-site/disclaimer">Read more...</a>
+</div>
+<div id="shortAlert" class="w3-hide-medium w3-hide-large" style="background-color:papayawhip;font-size:small;margin-bottom:1.5ex;">
+	<img src="/ct2/html/ct3/images/warning.png" alt="ClinicalTrials.gov Menu" style="max-width:0.8rem;cursor:pointer;"/>
+    <b>IMPORTANT</b>: Talk with a trusted healthcare professional before volunteering for a study. <a href="/ct2/about-site/disclaimer">Read more...</a>
+</div>
+
+  
+	<div id="header" style="float:left;"> <a href="/ct2/home" style="border-style:none;box-shadow:none;"><img src='/ct2/html/ct3/images/ct.gov-logo.png' alt='ClinicalTrials.gov' style='max-width:100%;' /></a><br />
+    	<div id="tagline">A service of the U.S. National Institutes of Health</div>
+  	</div>
+					<div id="hamburger" class="w3-hide-medium w3-hide-large" style="float:right;border-width:0;display:block;margin-left:1em;padding:4px;"
+			title="Show menus">
+			<img src="/ct2/html/ct3/images/hamburgerMenuIcon.png" alt="ClinicalTrials.gov Menu" style="max-width:30px;cursor:pointer;" 
+			 onclick="$('#global-nav-popupMenu').toggle();"/>
+		</div>
+		<div id="global-nav-popupMenu" class="w3-hide-medium w3-hide-large w3-modal w3-center" 
+			 style="display:none;" onclick="$('#global-nav-popupMenu').hide();"> 			<div id="global-nav-popupMenu-content" class="w3-modal-content">
+				<div class="w3-container">
+				    <span onclick="$('#global-nav-popupMenu').hide();"
+				      class="w3-closebtn">&times;</span>
+					<ul class="sf-menu sf-vertical">
+									<li class="first"><a href="/ct2/search/index">Find Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="Find Studies Menu"></a>
+			<ul>
+                      <li                  ><a                  href="/ct2/home">New Search</a></li>
+                      <li                  ><a         href="/ct2/search/advanced">Advanced Search</a></li>
+                      <li                  ><a     href="/ct2/search/browse?brwse=cond_cat">See Studies by Topic</a></li>
+                      <li                  ><a             href="/ct2/search/map">See Studies on Map</a></li>
+                      <li class="new-group"><a           href="/ct2/help/how-find/index">How to Search</a></li>
+                      <li                  ><a href="/ct2/help/how-use-search-results">How to Use Search Results</a></li>
+                      <li                  ><a        href="/ct2/help/how-find/find-study-results">How to Find Results of Studies</a></li>
+                      <li                  ><a          href="/ct2/help/how-read-study">How to Read a Study Record</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/about-studies">About Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="About Studies Menu"></a>
+			<ul>
+                      <li><a href="/ct2/about-studies/learn">Learn About Studies</a></li>
+                      <li><a  href="/ct2/about-studies/other-sites">Other Sites About Studies</a></li>
+                      <li><a         href="/ct2/about-studies/glossary">Glossary of Common Site Terms</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/manage-recs">Submit Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="Submit Studies Menu"></a>
+			<ul>
+                      <li><a                          href="/ct2/manage-recs/background">Why Should I Register and Submit Results?</a></li>
+                      <li><a                                href="/ct2/manage-recs/fdaaa">FDAAA 801 Requirements</a></li>
+                      <li class="new-group"><a    href="/ct2/manage-recs/how-apply">How to Apply for an Account</a></li>
+                      <li><a                        href="/ct2/manage-recs/how-register">How to Register Your Study</a></li>
+                      <li><a                         href="/ct2/manage-recs/how-edit">How to Edit Your Study Record</a></li>
+                      <li><a                   href="/ct2/manage-recs/how-report">How to Submit Your Results</a></li>
+                      <li class="new-group"><a       href="/ct2/manage-recs/faq">Frequently Asked Questions</a></li>
+                      <li                  ><a href="/ct2/manage-recs/resources">Support Materials</a></li>
+                      <li                  ><a      href="/ct2/manage-recs/present">Training Materials</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/resources">Resources<img src="/ct2/html/ct3/images/pulldown.png" alt="Resources Menu"></a>
+			<ul>
+                      <li                  ><a    href="/ct2/resources/pubs">Selected Publications</a></li>
+                      <li                  ><a       href="/ct2/resources/alert">Clinical Alerts and Advisories</a></li>
+                      <li                  ><a     href="/ct2/resources/rss">RSS Feeds</a></li>
+                      <li class="new-group"><a href="/ct2/resources/trends">Trends, Charts, and Maps</a></li>
+                      <li                  ><a   href="/ct2/resources/download">Downloading Content for Analysis</a></li>
+			</ul>
+			</li>
+			<li class="last"><a href="/ct2/about-site">About Site<img src="/ct2/html/ct3/images/pulldown.png" alt="About Site Menu"></a>
+			<ul>
+                      <li class="new-group"><a href="/ct2/about-site/background">ClinicalTrials.gov Background</a></li>
+                      <li                  ><a    href="/ct2/about-site/results">About the Results Database</a></li>
+                      <li                  ><a    href="/ct2/about-site/history">History, Policies, and Laws</a></li>
+                      <li                  ><a   href="/ct2/about-site/for-media">Media/Press Resources</a></li>
+                      <li class="new-group"><a          href="/ct2/about-site/link-to">Linking to This Site</a></li>
+                      <li                  ><a           href="/ct2/about-site/terms-conditions">Terms and Conditions</a></li>
+                      <li                  ><a      href="/ct2/about-site/disclaimer">Disclaimer</a></li>
+			</ul>
+			</li>
+					</ul>
+				</div>
+    		</div>
+  		</div>		
+
+	  	<div id="savedStudies" style="float:right;padding:4px 8px;"> 		  	<div id="cart" style="cursor:pointer;" onclick="location.href=('/ct2/results'+cartToURL()); showWorking();">
+		  	<button class="savedStudiesEnabled" id="open-cart-link" type="button" 
+		  		onclick="location.href=('/ct2/results'+cartToURL()); showWorking();"
+		  		title="Show previously saved studies.">Saved Studies</button>
+		  	</div>
+			<button class="savedStudiesDisabled" id="cart-disabled" type="button" disabled
+				title="There are no saved studies to show. You can save studies to visit later from the search results page">Saved Studies (0)</button>
+		</div>
+
+		<div style="clear:right;text-align:right;padding-top:1ex;padding-right:8px;font-size:small;">
+			<a href="https://survey.foreseeresults.com/survey/display?cid=WyHFr2m0PoaGCBUsi00QIQ==&sid=link-ct" target="_blank">Give us feedback</a></div>
+		<script type="text/javascript" src="/ct2/html/ct3/js/cart.js?v=b4"></script><noscript></noscript>
+  	
+<div id="global-nav" class="w3-hide-small">
+	<ul class="sf-menu sf-vertical">
+			<li class="first"><a href="/ct2/search/index">Find Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="Find Studies Menu"></a>
+			<ul>
+                      <li                  ><a                  href="/ct2/home">New Search</a></li>
+                      <li                  ><a         href="/ct2/search/advanced">Advanced Search</a></li>
+                      <li                  ><a     href="/ct2/search/browse?brwse=cond_cat">See Studies by Topic</a></li>
+                      <li                  ><a             href="/ct2/search/map">See Studies on Map</a></li>
+                      <li class="new-group"><a           href="/ct2/help/how-find/index">How to Search</a></li>
+                      <li                  ><a href="/ct2/help/how-use-search-results">How to Use Search Results</a></li>
+                      <li                  ><a        href="/ct2/help/how-find/find-study-results">How to Find Results of Studies</a></li>
+                      <li                  ><a          href="/ct2/help/how-read-study">How to Read a Study Record</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/about-studies">About Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="About Studies Menu"></a>
+			<ul>
+                      <li><a href="/ct2/about-studies/learn">Learn About Studies</a></li>
+                      <li><a  href="/ct2/about-studies/other-sites">Other Sites About Studies</a></li>
+                      <li><a         href="/ct2/about-studies/glossary">Glossary of Common Site Terms</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/manage-recs">Submit Studies<img src="/ct2/html/ct3/images/pulldown.png" alt="Submit Studies Menu"></a>
+			<ul>
+                      <li><a                          href="/ct2/manage-recs/background">Why Should I Register and Submit Results?</a></li>
+                      <li><a                                href="/ct2/manage-recs/fdaaa">FDAAA 801 Requirements</a></li>
+                      <li class="new-group"><a    href="/ct2/manage-recs/how-apply">How to Apply for an Account</a></li>
+                      <li><a                        href="/ct2/manage-recs/how-register">How to Register Your Study</a></li>
+                      <li><a                         href="/ct2/manage-recs/how-edit">How to Edit Your Study Record</a></li>
+                      <li><a                   href="/ct2/manage-recs/how-report">How to Submit Your Results</a></li>
+                      <li class="new-group"><a       href="/ct2/manage-recs/faq">Frequently Asked Questions</a></li>
+                      <li                  ><a href="/ct2/manage-recs/resources">Support Materials</a></li>
+                      <li                  ><a      href="/ct2/manage-recs/present">Training Materials</a></li>
+			</ul>
+			</li>
+			<li><a href="/ct2/resources">Resources<img src="/ct2/html/ct3/images/pulldown.png" alt="Resources Menu"></a>
+			<ul>
+                      <li                  ><a    href="/ct2/resources/pubs">Selected Publications</a></li>
+                      <li                  ><a       href="/ct2/resources/alert">Clinical Alerts and Advisories</a></li>
+                      <li                  ><a     href="/ct2/resources/rss">RSS Feeds</a></li>
+                      <li class="new-group"><a href="/ct2/resources/trends">Trends, Charts, and Maps</a></li>
+                      <li                  ><a   href="/ct2/resources/download">Downloading Content for Analysis</a></li>
+			</ul>
+			</li>
+			<li class="last"><a href="/ct2/about-site">About Site<img src="/ct2/html/ct3/images/pulldown.png" alt="About Site Menu"></a>
+			<ul>
+                      <li class="new-group"><a href="/ct2/about-site/background">ClinicalTrials.gov Background</a></li>
+                      <li                  ><a    href="/ct2/about-site/results">About the Results Database</a></li>
+                      <li                  ><a    href="/ct2/about-site/history">History, Policies, and Laws</a></li>
+                      <li                  ><a   href="/ct2/about-site/for-media">Media/Press Resources</a></li>
+                      <li class="new-group"><a          href="/ct2/about-site/link-to">Linking to This Site</a></li>
+                      <li                  ><a           href="/ct2/about-site/terms-conditions">Terms and Conditions</a></li>
+                      <li                  ><a      href="/ct2/about-site/disclaimer">Disclaimer</a></li>
+			</ul>
+			</li>
+	</ul>
+    <div style="clear:both;"></div>
+</div>
+<div style="clear:both;"></div> 
+
+<div id="utilities">
+     
+</div>
+<div id="breadcrumb">
+	<ul class="horz-list">
+		<li><a href="/ct2/home">Home</a></li>
+				<li class="last">Study Record Detail</li>
+	</ul>
+</div>
+
+
+<div id="main-content">
+
+
+        	<h1 class="solo_record">Mission is Remission&#174;: How Can a Disease Self-management Website Change Care?</h1>
+	<div id="trial-info-1" class="floater-50">
+
+     
+
+
+      
+        <div  class="not-recruiting-status" >
+      This study is enrolling participants by invitation only.
+          </div>
+        
+        
+      
+        
+
+
+
+
+                <div class="info-title">Sponsor:</div>
+                <div class="info-text" id="sponsor"> IWK Health Centre </div>
+
+
+                <div class="info-title">Collaborators:</div>
+                 				   <div class="info-text">The Hospital for Sick Children</div> 				   <div class="info-text">Stollery Children's Hospital</div> 				   <div class="info-text">Alberta Children's Hospital</div> 				
+                              <div class="info-title">Information provided by (Responsible Party):</div>
+                <div class="info-text">IWK Health Centre</div>
+              
+
+            </div>
+               <div id="trial-info-2" class="floater-50">
+                <div class="info-title">ClinicalTrials.gov Identifier:</div>
+                <div class="identifier">NCT02694042</div>
+                <div class="info-date">First received: August 25, 2015</div>
+                <div class="info-date">Last updated:  September 1, 2016</div>
+                <div class="info-date">Last verified:  September 2016 </div>
+                <div class="info-date"> <a href="/ct2/archive/NCT02694042"
+          title="Historical versions of study NCT02694042 on ClinicalTrials.gov Archive Site - opens in new window"
+          onclick="openNewWindow('/ct2/archive/NCT02694042'); return false;">History of Changes</a> </div>
+            </div>
+
+
+
+<div id="tabs">
+        <ul id="tab-links">
+			<li id="full-text" ><a href="/ct2/show/study/NCT02694042"  >Full Text View</a></li>
+			<li id="tabular"     class="current"> Tabular View       </li>
+			<li id="results"   ><a href="/ct2/show/results/NCT02694042">No Study Results Posted</a></li>
+			<li id="disclaimer"><a href="/ct2/about-site/disclaimer">Disclaimer</a></li>
+			<li id="howtoread"><a title="How to Read a Study Record - opens new window"  href="/ct2/help/how-read-study" onclick="openNewWindow('/ct2/help/how-read-study'); return false"
+>How to Read a Study Record</a></li>
+        </ul>
+</div>  <div style="background-color:#f6f6f6;margin-top:3.5ex;padding-bottom:3.5ex;"> </div>
+
+
+
+
+<!-- field list -->
+<div class="indent1">
+ 
+  <table class="w3-table data_table tableStyle">
+    <tr>
+      <th class="header2 banner_color sectionBanner" colspan="2">Tracking Information</th>
+    </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">First Received Date&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">August 25, 2015</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Last Updated Date </th>
+            <td class="body3 rowBody">September 1, 2016</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Start Date&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">April 2016</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Estimated Primary Completion Date </th>
+            <td class="body3 rowBody">April 2017 &nbsp; (Final data collection date for primary outcome measure)</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Current Primary Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> <br/>&nbsp;<span class="footer">(submitted:&nbsp;February 23, 2016)</span></th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex">Questionnaire to Assess Self-Efficacy - Changes from baseline [&nbsp;Time&nbsp;Frame:&nbsp;Baseline, 3 months and 6 months&nbsp;]<div class="indent2" style="margin-top:1ex;">Adolescents will complete a questionnaire to assess self-efficacy. This will be done at three time points: baseline, 3 months into the study, and at 6 months (at the end of the study).</div></li>
+<li style="margin:1ex 0.5ex">Questionnaire to Assess Health Related Quality of Life - Changes from baseline [&nbsp;Time&nbsp;Frame:&nbsp;Baseline, 3 months and 6 months&nbsp;]<div class="indent2" style="margin-top:1ex;">Adolescents will complete the IMPACT-III questionnaire which is a health-related quality of life questionnaire for pediatric patients with inflammatory bowel disease. The questionnaire will be completed at three time points: baseline, 3 months into the study, and at 6 months (at the end of the study).</div></li>
+</ul>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Original Primary Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><i style="color:#777777">Same as current</i></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Change History </th>
+            <td class="body3 rowBody"><a href="/ct2/archive/NCT02694042" onclick="openNewWindow('/ct2/archive/NCT02694042'); return false;">Complete list of historical versions of study NCT02694042 on ClinicalTrials.gov Archive Site</a></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Current Secondary Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> <br/>&nbsp;<span class="footer">(submitted:&nbsp;February 23, 2016)</span></th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex">Medication Taking Behavior Questionnaire [&nbsp;Time&nbsp;Frame:&nbsp;Baseline, 3 months and 6 months&nbsp;]<div class="indent2" style="margin-top:1ex;">Adolescents will complete a&quot;Medication Taking Behavior&quot; questionnaire to look at medication adherence in this patient population.</div></li>
+<li style="margin:1ex 0.5ex">Questionnaire to Assess Disease Activity [&nbsp;Time&nbsp;Frame:&nbsp;Baseline, 3 months and 6 months&nbsp;]<div class="indent2" style="margin-top:1ex;">The Pediatric Crohn&apos;s Disease Activity Index (PCDAI) (Hymans, Markowitz, Otley et al., 2005) will be used to assess disease activity in study participants who have Crohn&apos;s disease.This measure assesses disease severity, based on subjective items (e.g, patients&apos;s report of abdominal pain, stooling pattern, general well-being) and objective data (e.g. weight and height). The Pediatric Ulcerative Colitis Activity Index (PUCAI) (Turner, Otley, Mack et al., 2007) will be completed to assess disease activity in study participants who have ulcerative colitis. This measure also assesses disease severity, based on subjective items (e.g, patients&apos;s report of abdominal pain, stooling pattern, general well-being).</div></li>
+<li style="margin:1ex 0.5ex">Questions to Assess Disease Knowledge [&nbsp;Time&nbsp;Frame:&nbsp;Over the course of 6 months (on average we expect participants in the intervention group to complete a learning module every one to two weeks)&nbsp;]<div class="indent2" style="margin-top:1ex;">Experimental group participants will answer 3-6 questions before and after the completion of each learning module in addition to 37 embedded assessment questions. The control group will complete a subset of these questions on two occasions.</div></li>
+<li style="margin:1ex 0.5ex">Questions to Assess Physical &amp; Social Activity Participation [&nbsp;Time&nbsp;Frame:&nbsp;Baseline, 3 months and 6 months&nbsp;]<div class="indent2" style="margin-top:1ex;">Questions from the 2008/2009 National Longitudinal Survey of Children and Youth were modified for use in the current study. This includes questions on participation in school-based activities (sports, clubs, art), as well as participation in activities outside of school. Other questions ask teenagers to report the frequency of computer use, watching television, and playing video games.</div></li>
+<li style="margin:1ex 0.5ex">Questions to Assess Transition Readiness [&nbsp;Time&nbsp;Frame:&nbsp;Baseline and 6 months&nbsp;]<div class="indent2" style="margin-top:1ex;">The Transition Readiness Assessment Questionnaire 5.0 will be administered to determine how ready teenagers are for adult care. Though variance is expected as a function of age, greater gains in transition readiness are expected for intervention group participants.</div></li>
+</ul>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Original Secondary Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><i style="color:#777777">Same as current</i></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Current Other Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> <br/>&nbsp;<span class="footer">(submitted:&nbsp;February 23, 2016)</span></th>
+            <td class="body3 rowBody">Economic Outcome Assessment - Questions to Assess How Having a Child with IBD Affects a Parent&apos;s Life [&nbsp;Time&nbsp;Frame:&nbsp;Baseline and 6 months&nbsp;]<div class="indent2" style="margin-top:1ex;">Basic questions on the degree to which having a child with IBD affects a parent&apos;s life (e.g., work productivity, ability to do regular activities) will be given to parents. This questionnaire contains 5 items, which have been modified from The Work Productivity and Activity Impairment Questionnaire. Other questions have been modified from Coyte and Guerriere (1998)&apos;s Ambulatory Home Care Record, which ask parents about the time taken away from work/home to attend appointments and receive treatment for their child&apos;s IBD.</div></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Original Other Outcome Measures&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><i style="color:#777777">Same as current</i></td>
+          </tr>
+    
+    <tr><td colspan=2>&nbsp;</td></tr>
+
+    <tr>
+      <th class="header2 banner_color sectionBanner" colspan="2">Descriptive Information</th>
+    </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Brief Title&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Mission is Remission&#174;: How Can a Disease Self-management Website Change Care?</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Official Title&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Mission is Remission&#174;: How Can a Disease Self-management Website Change Care?</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Brief Summary </th>
+            <td class="body3 rowBody">Crohn's disease and ulcerative colitis, known together as inflammatory bowel disease (IBD), are chronic inflammatory conditions of the gastrointestinal tract. Impacts of IBD such as frequent hospital visits, need for surgery and poor growth, can significantly impact a child's social and academic life. Dealing with a chronic disease forces children to rely more heavily on family members for coping strategies to deal with stress. However, a lot of families do not have the resources (emotional or financial) to provide the level of support needed. A self management site called Mission is Remission&#174; has been created to help adolescents and their families deal with the stressors associated with their disease. The site provides a supportive social network that is centred around learning sessions and active forums discussing topics related to disease self-management and coping. This site actively brings together members of the healthcare team and provides support to families who might not be able to travel for additional appointments outside of routine care. The goal of our research is to understand whether the changes this social support will increase disease-specific knowledge, medication adherence, and health-related quality of life. We will also examine whether these changes may reduce some of the demands placed on the Health Care system (e.g., reduced number of calls and visits to gastroenterology (GI) doctors, or time lost from school/work). In addition, this website has been designed to be adapted in the future to other chronic diseases and will help bring healthcare into the digital age.</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Detailed Description </th>
+            <td class="body3 rowBody"><p style="margin-top:1ex; margin-bottom:1ex;">Background How do health care professionals help children, help themselves? How do patients become active participants in their own care? The prevalence of chronic conditions, such as IBD, is increasing in Canada [1, 2]. Health care systems need to look for sustainable and effective solutions to improve patient care while reducing health care costs. Crohn's disease (CD) and ulcerative colitis (UC), known collectively as IBD, are chronic relapsing and remitting diseases associated with significant medical (i.e., number of hospitalizations, frequent need for surgery, growth failure) and social (i.e., school absences, interference with pursuit of higher education) morbidity [3]. Medical and social morbidity of IBD are intertwined, and take a significant toll on the health-related quality of life (HRQOL) of these patients [4-6].</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">IBD manifests during childhood or adolescence in 20% to 25% of patients [7]. This is a crucial time in children's development, both physically [8] and emotionally [9]. Children's relationships with family and peers change significantly over the course of their childhood. Normal social development sees children seeking more emotional support from peers over family members in their adolescent years [10]. However, adolescents with IBD do not follow this pattern [11] and tend to seek continued support from family members and rely on parents' coping strategies to deal with stressors [12]. With increased reliance on family support when dealing with a chronic illness like IBD, children may be faced with additional burden when their parents' are not able to offer them the emotional support they need or do not have coping skills that are effective enough to translate into increased care for their children. Despite this, no interventions (to the authors' knowledge) to benefit psychosocial functioning have been specifically studied in pediatric patients or families with IBD.</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Current medical intervention tends to focus exclusively on the disease, and does not focus on disease management and coping through self-management skills. Disease self-management involves &#8213;the interaction of health behaviours and related processes that patients and families engage in to care for a chronic disease&#8214; [13]. Studies in both the adult and pediatric chronic illness literature have shown that comprehensive interventions that augment medical treatments with self management therapy, lead to better medical outcomes and better quality of life than care that is strictly medically focused [4-6, 14-24]. These self-management studies are focused on chronic diseases such as diabetes, asthma and rheumatoid arthritis. There have been several small studies of psychological interventions in adult IBD patients with promising results, though issues with design limited the interpretation of the results [25-28]. Disease self-management is more than simple adherence to treatment guidelines - it also incorporates psychological and social management of living with a chronic illness.</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">&#8213;It's something the investigators know intuitively, but it's also supported by evidence: A child's living conditions and experiences - the determinants of health - shape his or her physical health, development, and well-being, affecting not only childhood but the foundation of their health as adults [29, 30].&#8214; (Stepping it up Report, pg. 23, Health Council of Canada).</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Children's experiences (i.e. access to services), can be directly affected through disease self-management. Self-management training is often provided by tertiary care clinics, which includes disease education, and encouragement/support, usually at the time of diagnosis. Most care is given in concentrated sessions during crises times and is in response to a particular problem, which is not the best time to teach self-management skills. Families who are extremely distressed may, in rare cases, receive formal psychological therapy. Although most families receive excellent medical care in the tertiary care centres, the vast majority of patients do not receive comprehensive disease education and self-management therapy. Very few children with IBD receive comprehensive education and self management therapy even when they attend well organized tertiary care clinics.</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Geographic and financial concerns often limit access to psychosocial care and information sessions. In most areas of Canada, psychosocial treatment is available through private care. Psychosocial treatment is available for free through public institutions (Canada Health Act, 1984); however, there are long waiting lists and significant time and financial-costs to patients. Parents would have to travel and take time from work, while children would miss school and other related activities, which may further prevent access to treatment. Many families are reluctant to see a psychologist, social worker or psychiatrist due to the social stigma attached to seeking psychotherapy. For some families, the entire process is perceived as blaming them for their problems [31].</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">In the past 20 years, treatments aimed at teaching parents and children to change their attitudes or behaviour have been developed and evaluated by means of rigorous, randomized trials [32-41]. Although there is strong evidence that these psychosocial treatments work in reducing symptoms and increasing health related quality of life (HRQOL), they are typically delivered only in specialty clinics by highly trained personnel. Few therapists outside of GI clinics will be knowledgeable enough about the disease to effectively help patients and families integrate their psychological and medical care. Evidence from a large meta-analysis has shown that many self-management treatments can be given with as good or better outcomes by paraprofessionals following evidence-based protocols [42]. The use of web-based programs to deliver self-management care has taken off in recent years. Recent meta-analyses have found improved behavioural outcomes for adults using web-based self-management programs [43] and improvements in symptom and disease control for youth with health conditions [44]. Web-based interventions have been found to be comparable to face-to-face treatments [45], and have demonstrated increased social support when programs utilize chat rooms. As Stinson et al. [44] state, many studies have not been able to determine the durability of treatment effects or the cost-effectiveness of these programs. The current research will attempt to address some of these shortcomings.</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Based on the lack of access to disease-specific care outside of existing medical intervention, the Mission is Remission&#174; web-based intervention program was created in 2005 as a pilot study, for use by IBD patients and their families. This is a web-enabled evidence based home program of self-management, information, and social support for pediatric IBD patients aged 12-18, with a separate site for their parents. The site was accessed on a restricted-access web site, and participants worked through the program with help of a coach. The coaches worked in collaboration with gastroenterologists, nurses and a psychologist, but the coaches were not medical professionals. This served as an adjunct to routine medical care but not as prescribed medical therapy by the patient's physician or team. This individualized, interactive 12 session program incorporated multi-media tools for disease education and psychological interventions.</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">The previous research program enrolled two groups of patients&#8212;those with inactive disease and those with active disease, and their parents [46]. Remission was induced in patients with active disease before beginning use of the Mission is Remission&#174; site. Although participants demonstrated improvements in main outcome variables such as HRQOL, and Disease Knowledge, there was no true control group in this study such that statements around the effectiveness of the program in comparison to routine or standard care could not be made. Based on lessons learned from the first Mission is Remission&#174; site, a new site was created, which was made possible from an IWK Auxiliary Grant. The expertise of the web-developer, who has been involved in the development of multiple sites for teens, was pivotal in guiding the site's development. The use of social networking, peer support, and parent-to-parent support was optimized through this process.</p>
+  <p style="margin-top:0ex; margin-bottom:1ex;">The proposed research plans to randomize patients to receive either comprehensive care using the Mission is Remission&#174; site or to receive routine care (i.e. regular hospital clinic visits, appointments with clinicians and other specialists as required).</p></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Study Type&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Interventional</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Study Phase </th>
+            <td class="missing_color">Not Provided</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Study Design&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Allocation: Randomized<br/>Intervention Model: Parallel Assignment<br/>Masking: Open Label<br/>Primary Purpose: Supportive Care</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Condition&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex">Pediatric Crohn's Disease</li>
+<li style="margin:1ex 0.5ex">Pediatric Ulcerative Colitis</li>
+</ul>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Intervention&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Behavioral: Mission is Remission&#174;
+<div class="indent2" style="margin-top:0.5ex">A web-based teaching a support program for adolescents living with inflammatory bowel disease (IBD).</div></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Study Arms </th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex">Experimental: Mission is Remission&#174; Group
+<div class="indent2" style="margin-top:0.5ex">Participants in this group will be given access to the Mission is Remission&#174; web-based teaching and support site. They will also be emailed a link to complete online questionnaires at set time points throughout the study.</div>
+<div class="indent2" style="margin-top:0.5ex">Intervention: Behavioral: Mission is Remission&#174;</div></li>
+<li style="margin:1ex 0.5ex">No Intervention: Control Group
+<div class="indent2" style="margin-top:0.5ex">Participants in this group will continue to receive standard care without access to the Mission is Remission&#174; website. They will also be emailed a link to complete online questionnaires. At the end of the 6 month study period, participants in this group will be given access to the study website.</div></li>
+</ul>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Publications * </th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0nER4jOg0VA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0nER4jOg0VA6h9Ei4L3BUgWwNG0it.'); return false">Molodecky NA, Soon IS, Rabi DM, Ghali WA, Ferris M, Chernoff G, Benchimol EI, Panaccione R, Ghosh S, Barkema HW, Kaplan GG. Increasing incidence and prevalence of the inflammatory bowel diseases with time, based on systematic review. Gastroenterology. 2012 Jan;142(1):46-54.e42; quiz e30. doi: 10.1053/j.gastro.2011.10.001. Epub 2011 Oct 14. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCBOg0RLg0jA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCBOg0RLg0jA6h9Ei4L3BUgWwNG0it.'); return false">Bernstein CN, Wajda A, Svenson LW, MacKenzie A, Koehoorn M, Jackson M, Fedorak R, Israel D, Blanchard JF. The epidemiology of inflammatory bowel disease in Canada: a population-based study. Am J Gastroenterol. 2006 Jul;101(7):1559-68. Erratum in: Am J Gastroenterol. 2006 Aug;101(8):1945.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZK4nER48cR095d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZK4nER48cR095d-3Ws8Gpw-PSB7gW.'); return false">Ferguson A, Sedgwick DM, Drummond J. Morbidity of juvenile onset inflammatory bowel disease: effects on education and employment in early adult life. Gut. 1994 May;35(5):665-8.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZK4JWK4BSRC95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZK4JWK4BSRC95d-3Ws8Gpw-PSB7gW.'); return false">Devine EC. Meta-analysis of the effects of psychoeducational care in adults with asthma. Res Nurs Health. 1996 Oct;19(5):367-76.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKCVaR0RaRF95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKCVaR0RaRF95d-3Ws8Gpw-PSB7gW.'); return false">Von Korff M, Gruman J, Schaefer J, Curry SJ, Wagner EH. Collaborative management of chronic illness. Ann Intern Med. 1997 Dec 15;127(12):1097-102.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKC8OK4BFRF95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKC8OK4BFRF95d-3Ws8Gpw-PSB7gW.'); return false">Fall AJ, Henry RL, Hazell T. The use of an interactive computer program for the education of parents of asthmatic children. J Paediatr Child Health. 1998 Apr;34(2):127-30.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtFgCJFR0nA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtFgCJFR0nA6h9Ei4L3BUgWwNG0it.'); return false">Griffiths AM. Inflammatory Bowel Disease. Adolesc Med. 1995 Oct;6(3):351-368.</a></li>
+<li style="margin:1ex 0.5ex">Tanner, J., Fetus into Man: Physical growth from conception to maturity, revised edition. 1990, Cambridge, MA: Harvard University Press. 288.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCJxK48aR4RA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCJxK48aR4RA6h9Ei4L3BUgWwNG0it.'); return false">Choudhury S, Blakemore SJ, Charman T. Social cognitive development during adolescence. Soc Cogn Affect Neurosci. 2006 Dec;1(3):165-74. doi: 10.1093/scan/nsl024.</a></li>
+<li style="margin:1ex 0.5ex">Levitt, M.J., N. Guacci-Franco, and J.L. Levitt, Convoys of social support in childhood and early adolescence: Structure and function. Developmental Psychology, 1993. 29(5): p. 811-818.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKC8LR0nSR095d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKC8LR0nSR095d-3Ws8Gpw-PSB7gW.'); return false">MacPhee M, Hoffenberg EJ, Feranchak A. Quality-of-life factors in adolescent inflammatory bowel disease. Inflamm Bowel Dis. 1998 Feb;4(1):6-11.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZK4RLR4nEKC95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZK4RLR4nEKC95d-3Ws8Gpw-PSB7gW.'); return false">Gryboski JD. Ulcerative colitis in children 10 years old or younger. J Pediatr Gastroenterol Nutr. 1993 Jul;17(1):24-31.</a></li>
+<li style="margin:1ex 0.5ex">Haynes, R.B., Introduction, in Compliance in Health Care, R. Haynes, D. Taylor, and D. Sackett, Editors. 1979, Johns Hopkins University Press: Baltimore. p. 1-7.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtERFBLgC5A6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtERFBLgC5A6h9Ei4L3BUgWwNG0it.'); return false">P&#233;rez MG, Feldman L, Caballero F. Effects of a self-management educational program for the control of childhood asthma. Patient Educ Couns. 1999 Jan;36(1):47-55.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKC8ag0wLg095d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKC8ag0wLg095d-3Ws8Gpw-PSB7gW.'); return false">Clark NM, Nothwehr F. Self-management of asthma by adult patients. Patient Educ Couns. 1997 Dec;32(1 Suppl):S5-20. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZgF8-R4VEg095d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZgF8-R4VEg095d-3Ws8Gpw-PSB7gW.'); return false">Allen RM, Jones MP, Oldenburg B. Randomised trial of an asthma self-management programme for adults. Thorax. 1995 Jul;50(7):731-8.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKCVcK4wOR095d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKCVcK4wOR095d-3Ws8Gpw-PSB7gW.'); return false">Holzheimer L, Mohay H, Masters IB. Educating young children about asthma: comparing the effectiveness of a developmentally appropriate asthma education video tape and picture book. Child Care Health Dev. 1998 Jan;24(1):85-99.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtFKCRSK45A6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtFKCRSK45A6h9Ei4L3BUgWwNG0it.'); return false">Kolbe J. Asthma education, action plans, psychosocial issues and adherence. Can Respir J. 1999 May-Jun;6(3):273-80. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKCREgF5ER495d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKCREgF5ER495d-3Ws8Gpw-PSB7gW.'); return false">Bartholomew LK, Czyzewski DI, Parcel GS, Swank PR, Sockrider MM, Mariotto MJ, Schidlow DV, Fink RJ, Seilheimer DK. Self-management of cystic fibrosis: short-term outcomes of the Cystic Fibrosis Family Education Program. Health Educ Behav. 1997 Oct;24(5):652-66.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKCBag4BEgC95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKCBag4BEgC95d-3Ws8Gpw-PSB7gW.'); return false">Grey M, Boland EA, Davidson M, Yu C, Sullivan-Bolyai S, Tamborlane WV. Short-term effects of coping skills training as adjunct to intensive therapy in adolescents. Diabetes Care. 1998 Jun;21(6):902-8.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCwcg0BWg0jA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCwcg0BWg0jA6h9Ei4L3BUgWwNG0it.'); return false">Thoolen B, De Ridder D, Bensing J, Maas C, Griffin S, Gorter K, Rutten G. Effectiveness of a self-management intervention in patients with screen-detected type 2 diabetes. Diabetes Care. 2007 Nov;30(11):2832-7. Epub 2007 Jul 31.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0tSR4n-gFJA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0tSR4n-gFJA6h9Ei4L3BUgWwNG0it.'); return false">Ditewig JB, Blok H, Havers J, van Veenendaal H. Effectiveness of self-management interventions on mortality, hospital readmissions, chronic heart failure hospitalization rate and quality of life in patients with chronic heart failure: a systematic review. Patient Educ Couns. 2010 Mar;78(3):297-315. doi: 10.1016/j.pec.2010.01.016. Epub 2010 Mar 3. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCnWR4jWR0jA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCnWR4jWR0jA6h9Ei4L3BUgWwNG0it.'); return false">Barlow J, Wright C, Sheasby J, Turner A, Hainsworth J. Self-management approaches for people with chronic conditions: a review. Patient Educ Couns. 2002 Oct -Nov;48(2):177-87. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCnWRF8Sg0jA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCnWRF8Sg0jA6h9Ei4L3BUgWwNG0it.'); return false">Bodenheimer T, Lorig K, Holman H, Grumbach K. Patient self-management of chronic disease in primary care. JAMA. 2002 Nov 20;288(19):2469-75.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0tSRCR-KC95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0tSRCR-KC95d-3Ws8Gpw-PSB7gW.'); return false">Schwarz SP, Blanchard EB. Evaluation of a psychological treatment for inflammatory bowel disease. Behav Res Ther. 1991;29(2):167-77.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRF8Fg4tWRC95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRF8Fg4tWRC95d-3Ws8Gpw-PSB7gW.'); return false">Milne B, Joachim G, Niedhardt J. A stress management programme for inflammatory bowel disease patients. J Adv Nurs. 1986 Sep;11(5):561-7.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCVxKCJ-RFnA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCVxKCJ-RFnA6h9Ei4L3BUgWwNG0it.'); return false">Garc&#237;a-Vega E, Fernandez-Rodriguez C. A stress management programme for Crohn's disease. Behav Res Ther. 2004 Apr;42(4):367-83.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKC5FR4RxRF95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKC5FR4RxRF95d-3Ws8Gpw-PSB7gW.'); return false">Jantschek G, Zeitz M, Pritsch M, Wirsching M, Kl&#246;r HU, Studt HH, Rasenack J, Deter HC, Riecken EO, Feiereis H, Keller W. Effect of psychotherapy on the course of Crohn's disease. Results of the German prospective multicenter psychotherapy treatment study on Crohn's disease. German Study Group on Psychosocial Intervention in Crohn's Disease. Scand J Gastroenterol. 1998 Dec;33(12):1289-96.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC5FK48WRFnA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC5FK48WRFnA6h9Ei4L3BUgWwNG0it.'); return false">Sheiham A. Closing the gap in a generation: health equity through action on the social determinants of health. A report of the WHO Commission on Social Determinants of Health (CSDH) 2008. Community Dent Health. 2009 Mar;26(1):2-3.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0jSK4BSKCVA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0jSK4BSKCVA6h9Ei4L3BUgWwNG0it.'); return false">Raphael D. The health of Canada's children. Part II: Health mechanisms and pathways. Paediatr Child Health. 2010 Feb;15(2):71-6.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKCVagFRcgC95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZKCVagFRcgC95d-3Ws8Gpw-PSB7gW.'); return false">Kates N, Craven M, Bishop J, Clinton T, Kraftcheck D, LeClair K, Leverette J, Nash L, Turner T. Shared mental health care in Canada. Can J Psychiatry. 1997 Oct;42(8):suppl 12 pp.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0tFg48ORFJA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0tFg48ORFJA6h9Ei4L3BUgWwNG0it.'); return false">Saavedra LM, Silverman WK, Morgan-Lopez AA, Kurtines WM. Cognitive behavioral treatment for childhood anxiety disorders: long-term effects on anxiety and secondary disorders in young adulthood. J Child Psychol Psychiatry. 2010 Aug;51(8):924-34. doi: 10.1111/j.1469-7610.2010.02242.x. Epub 2010 Mar 22.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtFg0jFKCBA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtFg0jFKCBA6h9Ei4L3BUgWwNG0it.'); return false">Walco GA, Sterling CM, Conte PM, Engel RG. Empirically supported treatments in pediatric psychology: disease-related pain. J Pediatr Psychol. 1999 Apr;24(2):155-67; discussion 168-71. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCVxgFjEgC95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCVxgFjEgC95d-3Ws8Gpw-PSB7gW.'); return false">Pisterman S, Firestone P, McGrath P, Goodman JT, Webster I, Mallory R, Goffin B. The role of parent training in treatment of preschoolers with ADDH. Am J Orthopsychiatry. 1992 Jul;62(3):397-408.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0wxg4jORF95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0wxg4jORF95d-3Ws8Gpw-PSB7gW.'); return false">Pisterman S, McGrath P, Firestone P, Goodman JT, Webster I, Mallory R. Outcome of parent-mediated treatment of preschoolers with attention deficit disorder with hyperactivity. J Consult Clin Psychol. 1989 Oct;57(5):628-35.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCVEK4nxgF95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCVEK4nxgF95d-3Ws8Gpw-PSB7gW.'); return false">McGrath PJ, Humphreys P, Keene D, Goodman JT, Lascelles MA, Cunningham SJ, Firestone P. The efficacy and efficiency of a self-administered treatment for adolescent migraine. Pain. 1992 Jun;49(3):321-4.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR05xK4jORC95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR05xK4jORC95d-3Ws8Gpw-PSB7gW.'); return false">Feldman W, McGrath P, Hodgson C, Ritter H, Shipman RT. The use of dietary fiber in the management of simple, childhood, idiopathic, recurrent, abdominal pain. Results in a prospective, double-blind, randomized, controlled trial. Am J Dis Child. 1985 Dec;139(12):1216-8.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZK4tcRF5OgC95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZK4tcRF5OgC95d-3Ws8Gpw-PSB7gW.'); return false">Webster-Stratton C. Advancing videotape parent training: a comparison study. J Consult Clin Psychol. 1994 Jun;62(3):583-93.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZK4tFg4JaR095d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZK4tFg4JaR095d-3Ws8Gpw-PSB7gW.'); return false">Kendall PC. Treating anxiety disorders in children: results of a randomized clinical trial. J Consult Clin Psychol. 1994 Feb;62(1):100-10.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtLKCBLR0nA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtLKCBLR0nA6h9Ei4L3BUgWwNG0it.'); return false">Silverman WK, Kurtines WM, Ginsburg GS, Weems CF, Lumpkin PW, Carmichael DH. Treating anxiety disorders in children with group cognitive-behaviorial therapy: a randomized clinical trial. J Consult Clin Psychol. 1999 Dec;67(6):995-1003.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCnWg4wER0JA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCnWg4wER0JA6h9Ei4L3BUgWwNG0it.'); return false">Manassis K, Mendlowitz SL, Scapillato D, Avery D, Fiksenbaum L, Freire M, Monga S, Owens M. Group and individual cognitive-behavioral therapy for childhood anxiety disorders: a randomized trial. J Am Acad Child Adolesc Psychiatry. 2002 Dec;41(12):1423-30.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZgFw-gFBWKC95d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZgFw-gFBWKC95d-3Ws8Gpw-PSB7gW.'); return false">Weisz JR, Weiss B, Han SS, Granger DA, Morton T. Effects of psychotherapy with children and adolescents revisited: a meta-analysis of treatment outcome studies. Psychol Bull. 1995 May;117(3):450-68.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC8cRFjxg0VA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC8cRFjxg0VA6h9Ei4L3BUgWwNG0it.'); return false">Wantland DJ, Portillo CJ, Holzemer WL, Slaughter R, McGhee EM. The effectiveness of Web-based vs. non-Web-based interventions: a meta-analysis of behavioral change outcomes. J Med Internet Res. 2004 Nov 10;6(4):e40. Review.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC5ER05ag4nA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC5ER05ag4nA6h9Ei4L3BUgWwNG0it.'); return false">Stinson J, Wilson R, Gill N, Yamada J, Holt J. A systematic review of internet-based self-management interventions for youth with health conditions. J Pediatr Psychol. 2009 Jun;34(5):495-510. doi: 10.1093/jpepsy/jsn115. Epub 2008 Nov 23.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCJag08OKCRA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCJag08OKCRA6h9Ei4L3BUgWwNG0it.'); return false">Cuijpers P, van Straten A, Andersson G. Internet-administered cognitive behavior therapy for health problems: a systematic review. J Behav Med. 2008 Apr;31(2):169-77. doi: 10.1007/s10865-007-9144-1. Review.</a></li>
+<li style="margin:1ex 0.5ex">Otley, A.R., P. McGrath, and B. Christensen, The Mission Is Remission(C): a web-enabled self-management program for pediatric IBD targeting health-related quality of life: 158. Journal of Pediatric Gastroenterology and Nutrition, 2005. 41(4): p. 542.</li>
+<li style="margin:1ex 0.5ex">Otley, A.R., et al., IMPACT-III is a valid, reliable and responsive measure of health-related quality of life in pediatric Crohn's disease. Journal of Pediatric Gastroenterology and Nutrition, 2006. 43(Suppl 2): p. S49</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VaRF8xK4tA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0VaRF8xK4tA6h9Ei4L3BUgWwNG0it.'); return false">Haaland D, Day AS, Otley A. Development and validation of a pediatric IBD knowledge inventory device: the IBD-KID. J Pediatr Gastroenterol Nutr. 2014 Mar;58(3):313-9. doi: 10.1097/MPG.0000000000000210.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCj-R4RWgFjA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCj-R4RWgFjA6h9Ei4L3BUgWwNG0it.'); return false">Lipton RB, Stewart WF, Sawyer J, Edmeads JG. Clinical utility of an instrument assessing migraine disability: the Migraine Disability Assessment (MIDAS) questionnaire. Headache. 2001 Oct;41(9):854-61.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRF5WgCjFR495d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRF5WgCjFR495d-3Ws8Gpw-PSB7gW.'); return false">Morisky DE, Green LW, Levine DM. Concurrent and predictive validity of a self-reported measure of medication adherence. Med Care. 1986 Jan;24(1):67-74.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCB-K4tEK495d-3Ws8Gpw-PSB7gW." onclick="openNewWindow('/ct2/bye/xQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCB-K4tEK495d-3Ws8Gpw-PSB7gW.'); return false">Hyams JS, Ferry GD, Mandel FS, Gryboski JD, Kibort PM, Kirschner BS, Griffiths AM, Katz AJ, Grand RJ, Boyle JT, et al. Development and validation of a pediatric Crohn's disease activity index. J Pediatr Gastroenterol Nutr. 1991 May;12(4):439-47.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCBSR48LR4JA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCBSR48LR4JA6h9Ei4L3BUgWwNG0it.'); return false">Hyams J, Markowitz J, Otley A, Rosh J, Mack D, Bousvaros A, Kugathasan S, Pfefferkorn M, Tolia V, Evans J, Treem W, Wyllie R, Rothbaum R, del Rosario J, Katz A, Mezoff A, Oliva-Hemker M, Lerer T, Griffiths A; Pediatric Inflammatory Bowel Disease Collaborative Research Group. Evaluation of the pediatric crohn disease activity index: a prospective multicenter experience. J Pediatr Gastroenterol Nutr. 2005 Oct;41(4):416-21.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCwcK4jag0RA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCwcK4jag0RA6h9Ei4L3BUgWwNG0it.'); return false">Turner D, Otley AR, Mack D, Hyams J, de Bruijne J, Uusoue K, Walters TD, Zachos M, Mamula P, Beaton DE, Steinhart AH, Griffiths AM. Development, validation, and evaluation of a pediatric ulcerative colitis activity index: a prospective multicenter study. Gastroenterology. 2007 Aug;133(2):423-32. Epub 2007 May 21.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtag4BOgFVA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRCtag4BOgFVA6h9Ei4L3BUgWwNG0it.'); return false">Reilly MC, Zbrozek AS, Dukes EM. The validity and reproducibility of a work productivity and activity impairment instrument. Pharmacoeconomics. 1993 Nov;4(5):353-65.</a></li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC5ag0jagFwA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZRC5ag0jagFwA6h9Ei4L3BUgWwNG0it.'); return false">Graff LA, Walker JR, Bernstein CN. Depression and anxiety in inflammatory bowel disease: a review of comorbidity and management. Inflamm Bowel Dis. 2009 Jul;15(7):1105-18. doi: 10.1002/ibd.20873. Review.</a></li>
+<li style="margin:1ex 0.5ex">Statistics Canada. Canadian Internet Use Survey. 2010 [cited 2013 October 28th ]; Available from: http://www.statcan.gc.ca/daily-quotidien/130419/dq130419d-eng.htm.</li>
+<li style="margin:1ex 0.5ex"><a class="study-link" href="/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0nSRCJORFJA6h9Ei4L3BUgWwNG0it." onclick="openNewWindow('/ct2/bye/rQoPWwoRrXS9-i-wudNgpQDxudhWudNzlXNiZip9Ei7ym67VZR0nSRCJORFJA6h9Ei4L3BUgWwNG0it.'); return false">Modi AC, Pai AL, Hommel KA, Hood KK, Cortina S, Hilliard ME, Guilfoyle SM, Gray WN, Drotar D. Pediatric self-management: a framework for research, practice, and policy. Pediatrics. 2012 Feb;129(2):e473-85. doi: 10.1542/peds.2011-1635. Epub 2012 Jan 4.</a></li>
+<li style="margin:1ex 0.5ex">Bronfenbrenner, U., The Ecology of Human Development: Experiments by Nature and Design. 1979, Cambridge, MA: Harvard University Press.</li>
+</ul>
+</td>
+          </tr>
+    
+    <tr>
+      <td class="header3" style="padding-left:2em" colspan="2">
+        <br/>
+        * &nbsp; Includes publications given by the data provider as well as publications
+        identified by ClinicalTrials.gov Identifier (NCT Number) in Medline.
+      </td>
+    </tr>
+
+    <tr><td colspan=2>&nbsp;</td></tr>
+
+    <tr>
+      <th class="header2 banner_color sectionBanner" colspan="2">Recruitment Information</th>
+    </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Recruitment Status&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">Enrolling by invitation</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Estimated Enrollment&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">200</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Estimated Completion Date </th>
+            <td class="body3 rowBody">April 2017</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Estimated Primary Completion Date </th>
+            <td class="body3 rowBody">April 2017 &nbsp; (Final data collection date for primary outcome measure)</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Eligibility Criteria&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><p style="margin-top:1ex; margin-bottom:1ex;">Inclusion Criteria:</p>
+  <ol style="margin-top:1ex; margin-bottom:1ex;">
+    <li style="margin-top:0.7ex;">Pediatric IBD patients (approximately 100 patients randomly assigned to the Mission is Remission&#174; group or the wait-list control group) and one of their parents/primary caregivers;</li>
+    <li style="margin-top:0.7ex;">Patient is between 12-18 years of age, inclusive;</li>
+    <li style="margin-top:0.7ex;">Meets screening criteria for low self-efficacy;</li>
+    <li style="margin-top:0.7ex;">Signed informed consent from parent and assent from patient.</li>
+  </ol>
+  <p style="margin-top:0ex; margin-bottom:1ex;">Exclusion Criteria:</p>
+  <ol style="margin-top:1ex; margin-bottom:1ex;">
+    <li style="margin-top:0.7ex;">Not English speaking;</li>
+    <li style="margin-top:0.7ex;">Children with cognitive impairment.</li>
+  </ol></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Sex/Gender </th>
+            <td class="body3 rowBody"><table class="layout_table" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr valign="top">
+   <td style="padding:0px; margin:0ex; border:none;" nowrap>Sexes Eligible for Study:</td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;">All</td>
+  </tr>
+</table>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Ages </th>
+            <td class="body3 rowBody">12 Years to 18 Years &nbsp; (Child, Adult)</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Accepts Healthy Volunteers </th>
+            <td class="body3 rowBody">No</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Contacts&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><i style="color:#777777">Contact information is only displayed when the study is recruiting subjects</i></td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Listed Location Countries&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="missing_color">Not Provided</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Removed Location Countries </th>
+            <td class="body3"> &nbsp; </td>
+          </tr>
+    
+    <tr><td colspan=2>&nbsp;</td></tr>
+
+    <tr>
+      <th class="header2 banner_color sectionBanner" colspan="2">Administrative Information</th>
+    </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">NCT Number&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">NCT02694042</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Other Study ID Numbers&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">MIR-1018164</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Has Data Monitoring Committee </th>
+            <td class="body3 rowBody">No</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">U.S. FDA-regulated Product </th>
+            <td class="missing_color">Not Provided</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">IPD Sharing Statement </th>
+            <td class="body3 rowBody"><table class="layout_table" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr valign="top">
+   <td style="padding:0px; margin:0ex; border:none;" nowrap>Plan to Share IPD:</td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;">No</td>
+  </tr>
+  <tr valign="top">
+   <td style="padding:0px; margin:0ex; border:none;" nowrap>Plan Description:</td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;">All collected data is self-reported. Participants will be offered the option of receiving a summary of the study results when they are available. These results are presented as group results (not individual).</td>
+  </tr>
+</table>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Responsible Party </th>
+            <td class="body3 rowBody">IWK Health Centre</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Study Sponsor&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody">IWK Health Centre</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Collaborators&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><ul style="margin:0ex 1em; padding:0ex 0em">
+<li style="margin:1ex 0.5ex">The Hospital for Sick Children</li>
+<li style="margin:1ex 0.5ex">Stollery Children's Hospital</li>
+<li style="margin:1ex 0.5ex">Alberta Children's Hospital</li>
+</ul>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Investigators&nbsp;<sup style="color:blue"> ICMJE </sup> </th>
+            <td class="body3 rowBody"><table class="layout_table" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr valign="top">
+   <td style="padding:0px; margin:0ex; border:none;" nowrap>Principal Investigator:</td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;">Anthony R Otley, MD MSc</td>
+   <td style="padding:0px 0px 0px 1em; margin:0ex; border:none;">IWK Health Centre</td>
+  </tr>
+</table>
+</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">PRS Account </th>
+            <td class="body3 rowBody">IWK Health Centre</td>
+          </tr>
+        <tr>
+      <th class="header3 banner_color rowHeader">Verification Date </th>
+            <td class="body3 rowBody">September 2016</td>
+          </tr>
+    
+    <tr>
+      <td class="header3" style="padding-left:2em" colspan="2">
+        <br/>
+        <sup style="color:blue"> ICMJE </sup>&nbsp; &nbsp; Data element required by the
+        <a href="http://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/clinical-trial-registration.html">
+        International Committee of Medical Journal Editors</a> and the
+        <a href="http://www.who.int/ictrp/network/trds/en/index.html">World Health Organization ICTRP</a>
+      </td>
+    </tr>
+
+  </table>
+</div>
+
+
+<div id="to-top"><a href="#wrapper">To Top</a></div>
+
+	<div style="clear:both;"></div>
+</div> 
+
+      <div id="for-footer">
+        <ul class="horz-list">
+            <li style="border-left:0;"><a    href="/ct2/help/for-patient">For Patients and Families</a></li>
+            <li><a href="/ct2/help/for-researcher">For Researchers</a></li>
+            <li><a     href="/ct2/help/for-manager">For Study Record Managers</a></li>
+        </ul>
+    </div>
+
+<div id="footer-menu">
+    <ul class="horz-list">
+		<li><a href="/ct2/home" style="white-space:nowrap">Home</a></li>
+		<li><a     href="/ct2/resources/rss" style="white-space:nowrap">RSS Feeds</a></li>
+		<li><a         href="/ct2/sitemap" style="white-space:nowrap">Site Map</a></li>
+		<li><a       href="/ct2/about-site/terms-conditions" style="white-space:nowrap">Terms and Conditions</a></li>
+		<li><a href="/ct2/about-site/disclaimer" style="white-space:nowrap">Disclaimer</a></li>
+		<li><a        href="https://support.nlm.nih.gov/ics/support/KBList.asp?folderID=146?style=classic&amp;deptID=28054&amp;category=clinicaltrials.gov&amp;hd_url=https%3A%2F%2Fclinicaltrials.gov%2Fct2%2Fshow%2Frecord%2FNCT02694042" style="white-space:nowrap" onclick="openNewWindow('https://support.nlm.nih.gov/ics/support/KBList.asp?folderID=146?style=classic&amp;deptID=28054&amp;category=clinicaltrials.gov&amp;hd_url=https%3A%2F%2Fclinicaltrials.gov%2Fct2%2Fshow%2Frecord%2FNCT02694042'); return false">Customer Support</a></li>
+	</ul>
+</div>
+
+</div>  
+<div id="fine-print">
+	<ul class="horz-list">
+		<li                  ><a title="NLM copyright information - opens new window"  href="https://www.nlm.nih.gov/copyright.html" onclick="openNewWindow('https://www.nlm.nih.gov/copyright.html'); return false"
+>Copyright</a></li>
+		<li                  ><a title="NLM privacy policy - opens new window"  href="https://www.nlm.nih.gov/privacy.html" onclick="openNewWindow('https://www.nlm.nih.gov/privacy.html'); return false"
+>Privacy</a></li>
+		<li                  ><a href="/ct2/accessibility" title="NLM Accessibility">Accessibility</a></li>
+		<li                  ><a title="NLM viewers and players - opens new window"  href="https://www.nlm.nih.gov/plugins.html" onclick="openNewWindow('https://www.nlm.nih.gov/plugins.html'); return false"
+>Viewers and Players</a></li>
+		<li                  ><a title="NIH Freedom of Information Act office - opens new window"  href="https://www.nih.gov/icd/od/foia/index.htm" onclick="openNewWindow('https://www.nih.gov/icd/od/foia/index.htm'); return false"
+>Freedom of Information Act</a></li>
+		<li class="last-item"><a title="USA.gov - opens new window"  href="https://www.usa.gov/" onclick="openNewWindow('https://www.usa.gov/'); return false"
+>USA.gov</a></li>
+	</ul>
+    <ul class="horz-list">
+       <li><a title="U.S. National Library of Medicine - opens new window"  href="https://www.nlm.nih.gov/" onclick="openNewWindow('https://www.nlm.nih.gov/'); return false"
+>U.S. National Library of Medicine</a></li>
+       <li><a title="U.S. National Institutes of Health - opens new window"  href="https://www.nih.gov/" onclick="openNewWindow('https://www.nih.gov/'); return false"
+>U.S. National Institutes of Health</a></li>
+       <li class="last-item"><a title="U.S. Department of Health and Human Services - opens new window"  href="https://www.hhs.gov/" onclick="openNewWindow('https://www.hhs.gov/'); return false"
+>
+            U.S. Department of Health and Human Services</a></li>
+    </ul>
+</div>
+
+    <script type="text/javascript" src="/ct2/html/ct3/js/instrumentNCBIBaseJS.min.js"></script><noscript></noscript>
+
+</body>
+</html>

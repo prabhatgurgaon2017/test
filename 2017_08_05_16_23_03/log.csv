@@ -1,0 +1,1408 @@
+Date,Time,Type,Remark,Keyword,"Total Time (Seconds)","Speed Upload (KB)","Speed Download (KB)","Size Upload (KB)","Size Download (KB)"
+05-08-2017,16:23:03,TrackerStart
+05-08-2017,16:23:03,KeywordSearchStart,"Ankylosing Spodylitis","Ankylosing Spodylitis"
+05-08-2017,16:23:04,Request,https://clinicaltrials.gov/ct2/results?term=Ankylosing+Spodylitis&Search=&displayxml=true&pg=1,"Ankylosing Spodylitis",1.094,0,149,0.00,0.16
+05-08-2017,16:23:04,KeywordSearchEnd,"Ankylosing Spodylitis","Ankylosing Spodylitis"
+05-08-2017,16:23:04,KeywordSearchStart,"Crohn's Disease","Crohn's Disease"
+05-08-2017,16:23:05,Request,https://clinicaltrials.gov/ct2/results?term=Crohn%27s+Disease&Search=&displayxml=true&pg=1,"Crohn's Disease",0.984,0,54402,0.00,52.28
+05-08-2017,16:23:06,Request,https://clinicaltrials.gov/ct2/show/record/NCT01736046?,"Crohn's Disease",0.813,0,60378,0.00,47.94
+05-08-2017,16:23:08,Request,https://clinicaltrials.gov/ct2/show/record/NCT01074580?,"Crohn's Disease",1.875,0,20566,0.00,37.66
+05-08-2017,16:23:10,Request,https://clinicaltrials.gov/ct2/show/record/NCT01554007?,"Crohn's Disease",1.672,0,26912,0.00,43.94
+05-08-2017,16:23:11,Request,https://clinicaltrials.gov/ct2/show/record/NCT00723840?,"Crohn's Disease",1.031,0,39801,0.00,40.07
+05-08-2017,16:23:12,Request,https://clinicaltrials.gov/ct2/show/record/NCT02231814?,"Crohn's Disease",1.672,0,27756,0.00,45.32
+05-08-2017,16:23:13,Request,https://clinicaltrials.gov/ct2/show/record/NCT02504255?,"Crohn's Disease",1.078,0,38661,0.00,40.70
+05-08-2017,16:23:15,Request,https://clinicaltrials.gov/ct2/show/record/NCT00356408?,"Crohn's Disease",1.734,0,22696,0.00,38.43
+05-08-2017,16:23:16,Request,https://clinicaltrials.gov/ct2/show/record/NCT01355614?,"Crohn's Disease",0.969,0,39365,0.00,37.25
+05-08-2017,16:23:18,Request,https://clinicaltrials.gov/ct2/show/record/NCT00587210?,"Crohn's Disease",1.75,0,21669,0.00,37.03
+05-08-2017,16:23:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT02768532?,"Crohn's Disease",0.984,0,52589,0.00,50.54
+05-08-2017,16:23:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT02061163?,"Crohn's Disease",1.766,0,22594,0.00,38.97
+05-08-2017,16:23:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT01759264?,"Crohn's Disease",1.047,0,39849,0.00,40.74
+05-08-2017,16:23:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT00409682?,"Crohn's Disease",1.765,0,36051,0.00,62.14
+05-08-2017,16:23:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT01155362?,"Crohn's Disease",1.016,0,40822,0.00,40.50
+05-08-2017,16:23:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT01392365?,"Crohn's Disease",1.75,0,24713,0.00,42.23
+05-08-2017,16:23:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT01671579?,"Crohn's Disease",1.281,0,31448,0.00,39.34
+05-08-2017,16:23:32,Request,https://clinicaltrials.gov/ct2/show/record/NCT01573078?,"Crohn's Disease",4.641,0,8148,0.00,36.93
+05-08-2017,16:23:40,Request,https://clinicaltrials.gov/ct2/show/record/NCT02843100?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,16:23:42,Request,https://clinicaltrials.gov/ct2/show/record/NCT01632462?,"Crohn's Disease",1.438,0,45541,0.00,63.95
+05-08-2017,16:23:43,Request,https://clinicaltrials.gov/ct2/show/record/NCT01083680?,"Crohn's Disease",1.25,0,34924,0.00,42.63
+05-08-2017,16:23:44,Request,https://clinicaltrials.gov/ct2/show/record/NCT02520843?,"Crohn's Disease",1.609,0,28053,0.00,44.08
+05-08-2017,16:23:46,Request,https://clinicaltrials.gov/ct2/show/record/NCT01046773?,"Crohn's Disease",1.391,0,37096,0.00,50.39
+05-08-2017,16:23:47,Request,https://clinicaltrials.gov/ct2/show/record/NCT02940054?,"Crohn's Disease",1.5,0,28530,0.00,41.79
+05-08-2017,16:23:49,Request,https://clinicaltrials.gov/ct2/show/record/NCT01105741?,"Crohn's Disease",1.39,0,31208,0.00,42.36
+05-08-2017,16:23:50,Request,https://clinicaltrials.gov/ct2/show/record/NCT02825316?,"Crohn's Disease",1.516,0,27388,0.00,40.55
+05-08-2017,16:23:52,Request,https://clinicaltrials.gov/ct2/show/record/NCT00851565?,"Crohn's Disease",1.516,0,34447,0.00,51.00
+05-08-2017,16:23:53,Request,https://clinicaltrials.gov/ct2/show/record/NCT00130390?,"Crohn's Disease",1.421,0,28356,0.00,39.35
+05-08-2017,16:23:55,Request,https://clinicaltrials.gov/ct2/show/record/NCT00528073?,"Crohn's Disease",1.563,0,29045,0.00,44.33
+05-08-2017,16:24:03,Request,https://clinicaltrials.gov/ct2/show/record/NCT00487396?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,16:24:04,Request,https://clinicaltrials.gov/ct2/show/record/NCT00207662?,"Crohn's Disease",1.375,0,28506,0.00,38.28
+05-08-2017,16:24:06,Request,https://clinicaltrials.gov/ct2/show/record/NCT02472457?,"Crohn's Disease",1.5,0,28480,0.00,41.72
+05-08-2017,16:24:14,Request,https://clinicaltrials.gov/ct2/show/record/NCT01182467?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,16:24:15,Request,https://clinicaltrials.gov/ct2/show/record/NCT00109473?,"Crohn's Disease",1.359,0,33987,0.00,45.11
+05-08-2017,16:24:16,Request,https://clinicaltrials.gov/ct2/show/record/NCT01276509?,"Crohn's Disease",1.391,0,33053,0.00,44.90
+05-08-2017,16:24:18,Request,https://clinicaltrials.gov/ct2/show/record/NCT00291668?,"Crohn's Disease",1.672,0,26383,0.00,43.08
+05-08-2017,16:24:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT01150890?,"Crohn's Disease",8.078,0,28,0.00,0.22
+05-08-2017,16:24:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT01874015?,"Crohn's Disease",1.219,0,33112,0.00,39.42
+05-08-2017,16:24:29,Request,https://clinicaltrials.gov/ct2/show/record/NCT00588653?,"Crohn's Disease",2.016,0,21967,0.00,43.25
+05-08-2017,16:24:31,Request,https://clinicaltrials.gov/ct2/show/record/NCT01958827?,"Crohn's Disease",1.281,0,39003,0.00,48.79
+05-08-2017,16:24:33,Request,https://clinicaltrials.gov/ct2/show/record/NCT01365767?,"Crohn's Disease",1.906,0,21450,0.00,39.93
+05-08-2017,16:24:34,Request,https://clinicaltrials.gov/ct2/show/record/NCT00599625?,"Crohn's Disease",1.344,0,32492,0.00,42.65
+05-08-2017,16:24:36,Request,https://clinicaltrials.gov/ct2/show/record/NCT00126373?,"Crohn's Disease",1.812,0,22213,0.00,39.31
+05-08-2017,16:24:37,Request,https://clinicaltrials.gov/ct2/show/record/NCT02772458?,"Crohn's Disease",1.36,0,30816,0.00,40.93
+05-08-2017,16:24:39,Request,https://clinicaltrials.gov/ct2/show/record/NCT02378688?,"Crohn's Disease",1.844,0,20414,0.00,36.76
+05-08-2017,16:24:40,Request,https://clinicaltrials.gov/ct2/show/record/NCT00584740?,"Crohn's Disease",1.359,0,32168,0.00,42.69
+05-08-2017,16:24:42,Request,https://clinicaltrials.gov/ct2/show/record/NCT01030809?,"Crohn's Disease",1.796,0,22700,0.00,39.81
+05-08-2017,16:24:44,Request,https://clinicaltrials.gov/ct2/show/record/NCT00596700?,"Crohn's Disease",1.406,0,31775,0.00,43.63
+05-08-2017,16:24:52,Request,https://clinicaltrials.gov/ct2/show/record/NCT01345799?,"Crohn's Disease",8.032,0,28,0.00,0.22
+05-08-2017,16:24:53,Request,https://clinicaltrials.gov/ct2/show/record/NCT01860846?,"Crohn's Disease",1.391,0,34074,0.00,46.29
+05-08-2017,16:24:55,Request,https://clinicaltrials.gov/ct2/show/record/NCT00088062?,"Crohn's Disease",1.547,0,23354,0.00,35.28
+05-08-2017,16:24:56,Request,https://clinicaltrials.gov/ct2/show/record/NCT01235689?,"Crohn's Disease",1.75,0,25528,0.00,43.63
+05-08-2017,16:24:58,Request,https://clinicaltrials.gov/ct2/show/record/NCT00269854?,"Crohn's Disease",1.515,0,28634,0.00,42.36
+05-08-2017,16:25:06,Request,https://clinicaltrials.gov/ct2/show/record/NCT03194529?,"Crohn's Disease",8.032,0,28,0.00,0.22
+05-08-2017,16:25:08,Request,https://clinicaltrials.gov/ct2/show/record/NCT00308581?,"Crohn's Disease",1.671,0,40675,0.00,66.38
+05-08-2017,16:25:09,Request,https://clinicaltrials.gov/ct2/show/record/NCT01298648?,"Crohn's Disease",1.938,0,22159,0.00,41.94
+05-08-2017,16:25:12,Request,https://clinicaltrials.gov/ct2/show/record/NCT00297648?,"Crohn's Disease",2.281,0,25127,0.00,55.97
+05-08-2017,16:25:14,Request,https://clinicaltrials.gov/ct2/show/record/NCT00692939?,"Crohn's Disease",2.235,0,20722,0.00,45.23
+05-08-2017,16:25:15,Request,https://clinicaltrials.gov/ct2/show/record/NCT01190410?,"Crohn's Disease",1.156,0,36063,0.00,40.71
+05-08-2017,16:25:17,Request,https://clinicaltrials.gov/ct2/show/record/NCT00178438?,"Crohn's Disease",2.234,0,16872,0.00,36.81
+05-08-2017,16:25:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT01190839?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,16:25:30,Request,https://clinicaltrials.gov/ct2/show/record/NCT01258205?,"Crohn's Disease",4.563,0,8815,0.00,39.28
+05-08-2017,16:25:31,Request,https://clinicaltrials.gov/ct2/show/record/NCT00206661?,"Crohn's Disease",1.219,0,33720,0.00,40.14
+05-08-2017,16:25:34,Request,https://clinicaltrials.gov/ct2/show/record/NCT00102921?,"Crohn's Disease",2.343,0,16909,0.00,38.69
+05-08-2017,16:25:35,Request,https://clinicaltrials.gov/ct2/show/record/NCT01576120?,"Crohn's Disease",1.672,0,26764,0.00,43.70
+05-08-2017,16:25:37,Request,https://clinicaltrials.gov/ct2/show/record/NCT00573469?,"Crohn's Disease",1.844,0,22155,0.00,39.90
+05-08-2017,16:25:39,Request,https://clinicaltrials.gov/ct2/show/record/NCT01157650?,"Crohn's Disease",1.625,0,35582,0.00,56.47
+05-08-2017,16:25:41,Request,https://clinicaltrials.gov/ct2/show/record/NCT00383344?,"Crohn's Disease",1.843,0,20880,0.00,37.58
+05-08-2017,16:25:49,Request,https://clinicaltrials.gov/ct2/show/record/NCT03088449?,"Crohn's Disease",8.032,0,28,0.00,0.22
+05-08-2017,16:25:50,Request,https://clinicaltrials.gov/ct2/show/record/NCT01749813?,"Crohn's Disease",1.437,0,28885,0.00,40.54
+05-08-2017,16:25:52,Request,https://clinicaltrials.gov/ct2/show/record/NCT00739986?,"Crohn's Disease",2.11,0,20661,0.00,42.57
+05-08-2017,16:25:54,Request,https://clinicaltrials.gov/ct2/show/record/NCT03054935?,"Crohn's Disease",1.437,0,30892,0.00,43.35
+05-08-2017,16:26:02,Request,https://clinicaltrials.gov/ct2/show/record/NCT00306215?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,16:26:03,Request,https://clinicaltrials.gov/ct2/show/record/NCT02426567?,"Crohn's Disease",1.734,0,26480,0.00,44.84
+05-08-2017,16:26:05,Request,https://clinicaltrials.gov/ct2/show/record/NCT00572780?,"Crohn's Disease",1.922,0,19193,0.00,36.02
+05-08-2017,16:26:07,Request,https://clinicaltrials.gov/ct2/show/record/NCT00805766?,"Crohn's Disease",1.672,0,24588,0.00,40.15
+05-08-2017,16:26:15,Request,https://clinicaltrials.gov/ct2/show/record/NCT00225810?,"Crohn's Disease",8.047,0,28,0.00,0.22
+05-08-2017,16:26:16,Request,https://clinicaltrials.gov/ct2/show/record/NCT01363427?,"Crohn's Disease",1.422,0,25712,0.00,35.71
+05-08-2017,16:26:18,Request,https://clinicaltrials.gov/ct2/show/record/NCT00307931?,"Crohn's Disease",1.937,0,22361,0.00,42.30
+05-08-2017,16:26:20,Request,https://clinicaltrials.gov/ct2/show/record/NCT00603616?,"Crohn's Disease",1.75,0,29443,0.00,50.32
+05-08-2017,16:26:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT01661257?,"Crohn's Disease",1.922,0,18996,0.00,35.66
+05-08-2017,16:26:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT00294112?,"Crohn's Disease",1.781,0,25287,0.00,43.98
+05-08-2017,16:26:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT00676988?,"Crohn's Disease",1.969,0,20076,0.00,38.60
+05-08-2017,16:26:28,Request,https://clinicaltrials.gov/ct2/show/record/NCT00790543?,"Crohn's Disease",1.766,0,22578,0.00,38.94
+05-08-2017,16:26:36,Request,https://clinicaltrials.gov/ct2/show/record/NCT01897090?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,16:26:37,Request,https://clinicaltrials.gov/ct2/show/record/NCT00206700?,"Crohn's Disease",1.438,0,29474,0.00,41.39
+05-08-2017,16:26:39,Request,https://clinicaltrials.gov/ct2/show/record/NCT02574637?,"Crohn's Disease",1.937,0,24364,0.00,46.09
+05-08-2017,16:26:41,Request,https://clinicaltrials.gov/ct2/show/record/NCT00329537?,"Crohn's Disease",2.266,0,17242,0.00,38.16
+05-08-2017,16:26:49,Request,https://clinicaltrials.gov/ct2/show/record/NCT00988832?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,16:26:51,Request,https://clinicaltrials.gov/ct2/show/record/NCT01505855?,"Crohn's Disease",2.172,0,20334,0.00,43.13
+05-08-2017,16:26:53,Request,https://clinicaltrials.gov/ct2/show/record/NCT02851134?,"Crohn's Disease",1.547,0,27271,0.00,41.20
+05-08-2017,16:27:01,Request,https://clinicaltrials.gov/ct2/show/record/NCT01464333?,"Crohn's Disease",8.031,0,28,0.00,0.22
+05-08-2017,16:27:09,Request,https://clinicaltrials.gov/ct2/show/record/NCT02365649?,"Crohn's Disease",8.109,0,28,0.00,0.22
+05-08-2017,16:27:17,Request,https://clinicaltrials.gov/ct2/show/record/NCT00818272?,"Crohn's Disease",8.172,0,28,0.00,0.22
+05-08-2017,16:27:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT02596893?,"Crohn's Disease",6.39,0,7221,0.00,45.06
+05-08-2017,16:27:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT00271947?,"Crohn's Disease",2.016,0,20279,0.00,39.93
+05-08-2017,16:27:28,Request,https://clinicaltrials.gov/ct2/show/record/NCT02379117?,"Crohn's Disease",2,0,27692,0.00,54.09
+05-08-2017,16:27:30,Request,https://clinicaltrials.gov/ct2/show/record/NCT01548014?,"Crohn's Disease",1.969,0,18972,0.00,36.48
+05-08-2017,16:27:38,Request,https://clinicaltrials.gov/ct2/show/record/NCT03219359?,"Crohn's Disease",8.032,0,28,0.00,0.22
+05-08-2017,16:27:46,Request,https://clinicaltrials.gov/ct2/show/record/NCT02930564?,"Crohn's Disease",8.109,0,28,0.00,0.22
+05-08-2017,16:27:48,Request,https://clinicaltrials.gov/ct2/show/record/NCT00098111?,"Crohn's Disease",2.297,0,20084,0.00,45.05
+05-08-2017,16:27:50,Request,https://clinicaltrials.gov/ct2/results?term=Crohn%27s+Disease&Search=&displayxml=true&pg=2,"Crohn's Disease",1.844,0,29516,0.00,53.15
+05-08-2017,16:27:52,Request,https://clinicaltrials.gov/ct2/show/record/NCT00245947?,"Crohn's Disease",2.234,0,16721,0.00,36.48
+05-08-2017,16:27:54,Request,https://clinicaltrials.gov/ct2/show/record/NCT02233062?,"Crohn's Disease",1.859,0,20033,0.00,36.37
+05-08-2017,16:28:02,Request,https://clinicaltrials.gov/ct2/show/record/NCT00162942?,"Crohn's Disease",8.047,0,28,0.00,0.22
+05-08-2017,16:28:04,Request,https://clinicaltrials.gov/ct2/show/record/NCT02311660?,"Crohn's Disease",1.61,0,29145,0.00,45.83
+05-08-2017,16:28:06,Request,https://clinicaltrials.gov/ct2/show/record/NCT02974322?,"Crohn's Disease",2.312,0,20009,0.00,45.18
+05-08-2017,16:28:08,Request,https://clinicaltrials.gov/ct2/show/record/NCT03235180?,"Crohn's Disease",1.875,0,22454,0.00,41.12
+05-08-2017,16:28:10,Request,https://clinicaltrials.gov/ct2/show/record/NCT01102855?,"Crohn's Disease",2.313,0,17038,0.00,38.49
+05-08-2017,16:28:12,Request,https://clinicaltrials.gov/ct2/show/record/NCT00922415?,"Crohn's Disease",1.89,0,22277,0.00,41.12
+05-08-2017,16:28:14,Request,https://clinicaltrials.gov/ct2/show/record/NCT02199626?,"Crohn's Disease",2.282,0,17285,0.00,38.52
+05-08-2017,16:28:16,Request,https://clinicaltrials.gov/ct2/show/record/NCT00740103?,"Crohn's Disease",1.968,0,20657,0.00,39.70
+05-08-2017,16:28:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT00613197?,"Crohn's Disease",2.172,0,18949,0.00,40.19
+05-08-2017,16:28:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT00177866?,"Crohn's Disease",0.031,0,8677,0.00,0.26
+05-08-2017,16:28:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT01738529?,"Crohn's Disease",0.172,0,1563,0.00,0.26
+05-08-2017,16:28:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT02445547?,"Crohn's Disease",0.094,0,2861,0.00,0.26
+05-08-2017,16:28:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT03171246?,"Crohn's Disease",0.094,0,2861,0.00,0.26
+05-08-2017,16:28:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT00329550?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT00106314?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT02225795?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:19,Request,https://clinicaltrials.gov/ct2/show/record/NCT00304252?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:20,Request,https://clinicaltrials.gov/ct2/show/record/NCT02213835?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:20,Request,https://clinicaltrials.gov/ct2/show/record/NCT01453946?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:20,Request,https://clinicaltrials.gov/ct2/show/record/NCT02148185?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:20,Request,https://clinicaltrials.gov/ct2/show/record/NCT02272868?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:20,Request,https://clinicaltrials.gov/ct2/show/record/NCT02559037?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:20,Request,https://clinicaltrials.gov/ct2/show/record/NCT00496548?,"Crohn's Disease",0.14,0,1921,0.00,0.26
+05-08-2017,16:28:20,Request,https://clinicaltrials.gov/ct2/show/record/NCT01986127?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:20,Request,https://clinicaltrials.gov/ct2/show/record/NCT02891226?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT02951650?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT01765998?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT02193750?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT00755937?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT00114465?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT01233310?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT00663117?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT00780949?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:21,Request,https://clinicaltrials.gov/ct2/show/record/NCT00434551?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT02389790?,"Crohn's Disease",0.094,0,2861,0.00,0.26
+05-08-2017,16:28:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT00308438?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT00206713?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT02610101?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT02185014?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT02065570?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT00417391?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT00207675?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:22,Request,https://clinicaltrials.gov/ct2/show/record/NCT01523106?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT00731172?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT00562887?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT01218360?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT00509639?,"Crohn's Disease",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT02877134?,"Crohn's Disease",0.094,0,2861,0.00,0.26
+05-08-2017,16:28:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT00488085?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT00042055?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT01428115?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:23,Request,https://clinicaltrials.gov/ct2/show/record/NCT00113503?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT00715117?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT03172143?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT01932658?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT00132184?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT02676622?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT01316939?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT00221026?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:24,Request,https://clinicaltrials.gov/ct2/show/record/NCT02531113?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT00445939?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT02539849?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT01245088?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT02015793?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT01070303?,"Crohn's Disease",0.093,0,2892,0.00,0.26
+05-08-2017,16:28:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT01199302?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT02874495?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT03167437?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:25,Request,https://clinicaltrials.gov/ct2/show/record/NCT02096861?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT02871635?,"Crohn's Disease",0.172,0,1563,0.00,0.26
+05-08-2017,16:28:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT01631435?,"Crohn's Disease",0.188,0,1430,0.00,0.26
+05-08-2017,16:28:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT02249078?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT01541579?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT01510431?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT02622763?,"Crohn's Disease",0.094,0,2861,0.00,0.26
+05-08-2017,16:28:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT00317369?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:26,Request,https://clinicaltrials.gov/ct2/show/record/NCT00152425?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT01090817?,"Crohn's Disease",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT01545050?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT00207766?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT02324699?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT00796250?,"Crohn's Disease",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT00138840?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT02760836?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:27,Request,https://clinicaltrials.gov/ct2/show/record/NCT01659762?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:28,Request,https://clinicaltrials.gov/ct2/show/record/NCT02209792?,"Crohn's Disease",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:28,Request,https://clinicaltrials.gov/ct2/show/record/NCT02048618?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:28,Request,https://clinicaltrials.gov/ct2/show/record/NCT01393626?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:28,Request,https://clinicaltrials.gov/ct2/show/record/NCT00358683?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:28,Request,https://clinicaltrials.gov/ct2/show/record/NCT00269841?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:28,Request,https://clinicaltrials.gov/ct2/show/record/NCT02148718?,"Crohn's Disease",0.157,0,1713,0.00,0.26
+05-08-2017,16:28:28,Request,https://clinicaltrials.gov/ct2/show/record/NCT02084290?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:29,Request,https://clinicaltrials.gov/ct2/show/record/NCT00101946?,"Crohn's Disease",0.14,0,1921,0.00,0.26
+05-08-2017,16:28:29,Request,https://clinicaltrials.gov/ct2/show/record/NCT01714726?,"Crohn's Disease",0.156,0,1724,0.00,0.26
+05-08-2017,16:28:29,Request,https://clinicaltrials.gov/ct2/show/record/NCT02763293?,"Crohn's Disease",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:29,Request,https://clinicaltrials.gov/ct2/show/record/NCT02097797?,"Crohn's Disease",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:29,Request,https://clinicaltrials.gov/ct2/show/record/NCT01434693?,"Crohn's Disease",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:29,Request,https://clinicaltrials.gov/ct2/show/record/NCT02899013?,"Crohn's Disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:29,Request,https://clinicaltrials.gov/ct2/results?term=Crohn%27s+Disease&Search=&displayxml=true&pg=3,"Crohn's Disease",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:29,KeywordSearchEnd,"Crohn's Disease","Crohn's Disease"
+05-08-2017,16:28:29,KeywordSearchStart,Psoriasis,Psoriasis
+05-08-2017,16:28:29,Request,https://clinicaltrials.gov/ct2/results?term=Psoriasis&Search=&displayxml=true&pg=1,Psoriasis,0.156,0,1724,0.00,0.26
+05-08-2017,16:28:30,KeywordSearchEnd,Psoriasis,Psoriasis
+05-08-2017,16:28:30,KeywordSearchStart,"Psoriatic Arthritis","Psoriatic Arthritis"
+05-08-2017,16:28:30,Request,https://clinicaltrials.gov/ct2/results?term=Psoriatic+Arthritis&Search=&displayxml=true&pg=1,"Psoriatic Arthritis",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:30,KeywordSearchEnd,"Psoriatic Arthritis","Psoriatic Arthritis"
+05-08-2017,16:28:30,KeywordSearchStart,"Rheumatoid Arthritis","Rheumatoid Arthritis"
+05-08-2017,16:28:30,Request,https://clinicaltrials.gov/ct2/results?term=Rheumatoid+Arthritis&Search=&displayxml=true&pg=1,"Rheumatoid Arthritis",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:30,KeywordSearchEnd,"Rheumatoid Arthritis","Rheumatoid Arthritis"
+05-08-2017,16:28:30,KeywordSearchStart,Spondyloarthritis,Spondyloarthritis
+05-08-2017,16:28:30,Request,https://clinicaltrials.gov/ct2/results?term=Spondyloarthritis&Search=&displayxml=true&pg=1,Spondyloarthritis,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:30,KeywordSearchEnd,Spondyloarthritis,Spondyloarthritis
+05-08-2017,16:28:30,KeywordSearchStart,"Ulcerative Colitis","Ulcerative Colitis"
+05-08-2017,16:28:30,Request,https://clinicaltrials.gov/ct2/results?term=Ulcerative+Colitis&Search=&displayxml=true&pg=1,"Ulcerative Colitis",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:30,KeywordSearchEnd,"Ulcerative Colitis","Ulcerative Colitis"
+05-08-2017,16:28:30,KeywordSearchStart,Abatecept,Abatecept
+05-08-2017,16:28:30,Request,https://clinicaltrials.gov/ct2/results?term=Abatecept&Search=&displayxml=true&pg=1,Abatecept,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:30,KeywordSearchEnd,Abatecept,Abatecept
+05-08-2017,16:28:30,KeywordSearchStart,ABT-494,ABT-494
+05-08-2017,16:28:30,Request,https://clinicaltrials.gov/ct2/results?term=ABT-494&Search=&displayxml=true&pg=1,ABT-494,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:30,KeywordSearchEnd,ABT-494,ABT-494
+05-08-2017,16:28:30,KeywordSearchStart,ABT494,ABT494
+05-08-2017,16:28:30,Request,https://clinicaltrials.gov/ct2/results?term=ABT494&Search=&displayxml=true&pg=1,ABT494,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:30,KeywordSearchEnd,ABT494,ABT494
+05-08-2017,16:28:30,KeywordSearchStart,Actemra,Actemra
+05-08-2017,16:28:30,Request,https://clinicaltrials.gov/ct2/results?term=Actemra&Search=&displayxml=true&pg=1,Actemra,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:30,KeywordSearchEnd,Actemra,Actemra
+05-08-2017,16:28:30,KeywordSearchStart,Adalimumab,Adalimumab
+05-08-2017,16:28:31,Request,https://clinicaltrials.gov/ct2/results?term=Adalimumab&Search=&displayxml=true&pg=1,Adalimumab,0.157,0,1713,0.00,0.26
+05-08-2017,16:28:31,KeywordSearchEnd,Adalimumab,Adalimumab
+05-08-2017,16:28:31,KeywordSearchStart,AIN-457,AIN-457
+05-08-2017,16:28:31,Request,https://clinicaltrials.gov/ct2/results?term=AIN-457&Search=&displayxml=true&pg=1,AIN-457,0.171,0,1573,0.00,0.26
+05-08-2017,16:28:31,KeywordSearchEnd,AIN-457,AIN-457
+05-08-2017,16:28:31,KeywordSearchStart,AIN457,AIN457
+05-08-2017,16:28:31,Request,https://clinicaltrials.gov/ct2/results?term=AIN457&Search=&displayxml=true&pg=1,AIN457,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:31,KeywordSearchEnd,AIN457,AIN457
+05-08-2017,16:28:31,KeywordSearchStart,AJM-300,AJM-300
+05-08-2017,16:28:31,Request,https://clinicaltrials.gov/ct2/results?term=AJM-300&Search=&displayxml=true&pg=1,AJM-300,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:31,KeywordSearchEnd,AJM-300,AJM-300
+05-08-2017,16:28:31,KeywordSearchStart,AJM300,AJM300
+05-08-2017,16:28:31,Request,https://clinicaltrials.gov/ct2/results?term=AJM300&Search=&displayxml=true&pg=1,AJM300,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:31,KeywordSearchEnd,AJM300,AJM300
+05-08-2017,16:28:31,KeywordSearchStart,AMG-327,AMG-327
+05-08-2017,16:28:31,Request,https://clinicaltrials.gov/ct2/results?term=AMG-327&Search=&displayxml=true&pg=1,AMG-327,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:31,KeywordSearchEnd,AMG-327,AMG-327
+05-08-2017,16:28:31,KeywordSearchStart,AMG327,AMG327
+05-08-2017,16:28:31,Request,https://clinicaltrials.gov/ct2/results?term=AMG327&Search=&displayxml=true&pg=1,AMG327,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:31,KeywordSearchEnd,AMG327,AMG327
+05-08-2017,16:28:31,KeywordSearchStart,Apremilast,Apremilast
+05-08-2017,16:28:32,Request,https://clinicaltrials.gov/ct2/results?term=Apremilast&Search=&displayxml=true&pg=1,Apremilast,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:32,KeywordSearchEnd,Apremilast,Apremilast
+05-08-2017,16:28:32,KeywordSearchStart,Baricitinib,Baricitinib
+05-08-2017,16:28:32,Request,https://clinicaltrials.gov/ct2/results?term=Baricitinib&Search=&displayxml=true&pg=1,Baricitinib,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:32,KeywordSearchEnd,Baricitinib,Baricitinib
+05-08-2017,16:28:32,KeywordSearchStart,Brodalumab,Brodalumab
+05-08-2017,16:28:32,Request,https://clinicaltrials.gov/ct2/results?term=Brodalumab&Search=&displayxml=true&pg=1,Brodalumab,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:32,KeywordSearchEnd,Brodalumab,Brodalumab
+05-08-2017,16:28:32,KeywordSearchStart,certolizumab,certolizumab
+05-08-2017,16:28:32,Request,https://clinicaltrials.gov/ct2/results?term=certolizumab&Search=&displayxml=true&pg=1,certolizumab,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:32,KeywordSearchEnd,certolizumab,certolizumab
+05-08-2017,16:28:32,KeywordSearchStart,"certolizumab pegol","certolizumab pegol"
+05-08-2017,16:28:32,Request,https://clinicaltrials.gov/ct2/results?term=certolizumab+pegol&Search=&displayxml=true&pg=1,"certolizumab pegol",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:32,KeywordSearchEnd,"certolizumab pegol","certolizumab pegol"
+05-08-2017,16:28:32,KeywordSearchStart,CF-101,CF-101
+05-08-2017,16:28:32,Request,https://clinicaltrials.gov/ct2/results?term=CF-101&Search=&displayxml=true&pg=1,CF-101,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:32,KeywordSearchEnd,CF-101,CF-101
+05-08-2017,16:28:32,KeywordSearchStart,CF101,CF101
+05-08-2017,16:28:32,Request,https://clinicaltrials.gov/ct2/results?term=CF101&Search=&displayxml=true&pg=1,CF101,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:32,KeywordSearchEnd,CF101,CF101
+05-08-2017,16:28:32,KeywordSearchStart,clazakizumab,clazakizumab
+05-08-2017,16:28:32,Request,https://clinicaltrials.gov/ct2/results?term=clazakizumab&Search=&displayxml=true&pg=1,clazakizumab,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:32,KeywordSearchEnd,clazakizumab,clazakizumab
+05-08-2017,16:28:32,KeywordSearchStart,Cx-601,Cx-601
+05-08-2017,16:28:32,Request,https://clinicaltrials.gov/ct2/results?term=Cx-601&Search=&displayxml=true&pg=1,Cx-601,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:32,KeywordSearchEnd,Cx-601,Cx-601
+05-08-2017,16:28:32,KeywordSearchStart,Cx601,Cx601
+05-08-2017,16:28:33,Request,https://clinicaltrials.gov/ct2/results?term=Cx601&Search=&displayxml=true&pg=1,Cx601,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:33,KeywordSearchEnd,Cx601,Cx601
+05-08-2017,16:28:33,KeywordSearchStart,Etanercept,Etanercept
+05-08-2017,16:28:33,Request,https://clinicaltrials.gov/ct2/results?term=Etanercept&Search=&displayxml=true&pg=1,Etanercept,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:33,KeywordSearchEnd,Etanercept,Etanercept
+05-08-2017,16:28:33,KeywordSearchStart,etrolizumab,etrolizumab
+05-08-2017,16:28:33,Request,https://clinicaltrials.gov/ct2/results?term=etrolizumab&Search=&displayxml=true&pg=1,etrolizumab,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:33,KeywordSearchEnd,etrolizumab,etrolizumab
+05-08-2017,16:28:33,KeywordSearchStart,Filgotinib,Filgotinib
+05-08-2017,16:28:33,Request,https://clinicaltrials.gov/ct2/results?term=Filgotinib&Search=&displayxml=true&pg=1,Filgotinib,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:33,KeywordSearchEnd,Filgotinib,Filgotinib
+05-08-2017,16:28:33,KeywordSearchStart,GED-0301,GED-0301
+05-08-2017,16:28:33,Request,https://clinicaltrials.gov/ct2/results?term=GED-0301&Search=&displayxml=true&pg=1,GED-0301,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:33,KeywordSearchEnd,GED-0301,GED-0301
+05-08-2017,16:28:33,KeywordSearchStart,GED0301,GED0301
+05-08-2017,16:28:33,Request,https://clinicaltrials.gov/ct2/results?term=GED0301&Search=&displayxml=true&pg=1,GED0301,0.14,0,1921,0.00,0.26
+05-08-2017,16:28:33,KeywordSearchEnd,GED0301,GED0301
+05-08-2017,16:28:33,KeywordSearchStart,GLPG-0634,GLPG-0634
+05-08-2017,16:28:33,Request,https://clinicaltrials.gov/ct2/results?term=GLPG-0634&Search=&displayxml=true&pg=1,GLPG-0634,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:33,KeywordSearchEnd,GLPG-0634,GLPG-0634
+05-08-2017,16:28:33,KeywordSearchStart,GLPG0634,GLPG0634
+05-08-2017,16:28:33,Request,https://clinicaltrials.gov/ct2/results?term=GLPG0634&Search=&displayxml=true&pg=1,GLPG0634,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:33,KeywordSearchEnd,GLPG0634,GLPG0634
+05-08-2017,16:28:33,KeywordSearchStart,GS-5745,GS-5745
+05-08-2017,16:28:34,Request,https://clinicaltrials.gov/ct2/results?term=GS-5745&Search=&displayxml=true&pg=1,GS-5745,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:34,KeywordSearchEnd,GS-5745,GS-5745
+05-08-2017,16:28:34,KeywordSearchStart,GS5745,GS5745
+05-08-2017,16:28:34,Request,https://clinicaltrials.gov/ct2/results?term=GS5745&Search=&displayxml=true&pg=1,GS5745,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:34,KeywordSearchEnd,GS5745,GS5745
+05-08-2017,16:28:34,KeywordSearchStart,GSK-3196165,GSK-3196165
+05-08-2017,16:28:34,Request,https://clinicaltrials.gov/ct2/results?term=GSK-3196165&Search=&displayxml=true&pg=1,GSK-3196165,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:34,KeywordSearchEnd,GSK-3196165,GSK-3196165
+05-08-2017,16:28:34,KeywordSearchStart,GSK3196165,GSK3196165
+05-08-2017,16:28:34,Request,https://clinicaltrials.gov/ct2/results?term=GSK3196165&Search=&displayxml=true&pg=1,GSK3196165,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:34,KeywordSearchEnd,GSK3196165,GSK3196165
+05-08-2017,16:28:34,KeywordSearchStart,Ixekizumab,Ixekizumab
+05-08-2017,16:28:34,Request,https://clinicaltrials.gov/ct2/results?term=Ixekizumab&Search=&displayxml=true&pg=1,Ixekizumab,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:34,KeywordSearchEnd,Ixekizumab,Ixekizumab
+05-08-2017,16:28:34,KeywordSearchStart,LY-2439821,LY-2439821
+05-08-2017,16:28:34,Request,https://clinicaltrials.gov/ct2/results?term=LY-2439821&Search=&displayxml=true&pg=1,LY-2439821,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:34,KeywordSearchEnd,LY-2439821,LY-2439821
+05-08-2017,16:28:34,KeywordSearchStart,LY2439821,LY2439821
+05-08-2017,16:28:34,Request,https://clinicaltrials.gov/ct2/results?term=LY2439821&Search=&displayxml=true&pg=1,LY2439821,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:34,KeywordSearchEnd,LY2439821,LY2439821
+05-08-2017,16:28:34,KeywordSearchStart,LY-3009104,LY-3009104
+05-08-2017,16:28:34,Request,https://clinicaltrials.gov/ct2/results?term=LY-3009104&Search=&displayxml=true&pg=1,LY-3009104,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:34,KeywordSearchEnd,LY-3009104,LY-3009104
+05-08-2017,16:28:34,KeywordSearchStart,LY3009104,LY3009104
+05-08-2017,16:28:35,Request,https://clinicaltrials.gov/ct2/results?term=LY3009104&Search=&displayxml=true&pg=1,LY3009104,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:35,KeywordSearchEnd,LY3009104,LY3009104
+05-08-2017,16:28:35,KeywordSearchStart,MK-3222,MK-3222
+05-08-2017,16:28:35,Request,https://clinicaltrials.gov/ct2/results?term=MK-3222&Search=&displayxml=true&pg=1,MK-3222,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:35,KeywordSearchEnd,MK-3222,MK-3222
+05-08-2017,16:28:35,KeywordSearchStart,MK322,MK322
+05-08-2017,16:28:35,Request,https://clinicaltrials.gov/ct2/results?term=MK322&Search=&displayxml=true&pg=1,MK322,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:35,KeywordSearchEnd,MK322,MK322
+05-08-2017,16:28:35,KeywordSearchStart,MOR-103,MOR-103
+05-08-2017,16:28:35,Request,https://clinicaltrials.gov/ct2/results?term=MOR-103&Search=&displayxml=true&pg=1,MOR-103,0.094,0,2861,0.00,0.26
+05-08-2017,16:28:35,KeywordSearchEnd,MOR-103,MOR-103
+05-08-2017,16:28:35,KeywordSearchStart,MOR103,MOR103
+05-08-2017,16:28:35,Request,https://clinicaltrials.gov/ct2/results?term=MOR103&Search=&displayxml=true&pg=1,MOR103,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:35,KeywordSearchEnd,MOR103,MOR103
+05-08-2017,16:28:35,KeywordSearchStart,MT-1303,MT-1303
+05-08-2017,16:28:35,Request,https://clinicaltrials.gov/ct2/results?term=MT-1303&Search=&displayxml=true&pg=1,MT-1303,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:35,KeywordSearchEnd,MT-1303,MT-1303
+05-08-2017,16:28:35,KeywordSearchStart,MT1303,MT1303
+05-08-2017,16:28:35,Request,https://clinicaltrials.gov/ct2/results?term=MT1303&Search=&displayxml=true&pg=1,MT1303,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:35,KeywordSearchEnd,MT1303,MT1303
+05-08-2017,16:28:35,KeywordSearchStart,ozanimod,ozanimod
+05-08-2017,16:28:35,Request,https://clinicaltrials.gov/ct2/results?term=ozanimod&Search=&displayxml=true&pg=1,ozanimod,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:35,KeywordSearchEnd,ozanimod,ozanimod
+05-08-2017,16:28:35,KeywordSearchStart,prochymal,prochymal
+05-08-2017,16:28:35,Request,https://clinicaltrials.gov/ct2/results?term=prochymal&Search=&displayxml=true&pg=1,prochymal,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:35,KeywordSearchEnd,prochymal,prochymal
+05-08-2017,16:28:35,KeywordSearchStart,REGN-88,REGN-88
+05-08-2017,16:28:36,Request,https://clinicaltrials.gov/ct2/results?term=REGN-88&Search=&displayxml=true&pg=1,REGN-88,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:36,KeywordSearchEnd,REGN-88,REGN-88
+05-08-2017,16:28:36,KeywordSearchStart,REGN88,REGN88
+05-08-2017,16:28:36,Request,https://clinicaltrials.gov/ct2/results?term=REGN88&Search=&displayxml=true&pg=1,REGN88,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:36,KeywordSearchEnd,REGN88,REGN88
+05-08-2017,16:28:36,KeywordSearchStart,RG-7473,RG-7473
+05-08-2017,16:28:36,Request,https://clinicaltrials.gov/ct2/results?term=RG-7473&Search=&displayxml=true&pg=1,RG-7473,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:36,KeywordSearchEnd,RG-7473,RG-7473
+05-08-2017,16:28:36,KeywordSearchStart,RG7473,RG7473
+05-08-2017,16:28:36,Request,https://clinicaltrials.gov/ct2/results?term=RG7473&Search=&displayxml=true&pg=1,RG7473,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:36,KeywordSearchEnd,RG7473,RG7473
+05-08-2017,16:28:36,KeywordSearchStart,RHB-104,RHB-104
+05-08-2017,16:28:36,Request,https://clinicaltrials.gov/ct2/results?term=RHB-104&Search=&displayxml=true&pg=1,RHB-104,0.14,0,1921,0.00,0.26
+05-08-2017,16:28:36,KeywordSearchEnd,RHB-104,RHB-104
+05-08-2017,16:28:36,KeywordSearchStart,RHB104,RHB104
+05-08-2017,16:28:36,Request,https://clinicaltrials.gov/ct2/results?term=RHB104&Search=&displayxml=true&pg=1,RHB104,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:36,KeywordSearchEnd,RHB104,RHB104
+05-08-2017,16:28:36,KeywordSearchStart,RPC-1063,RPC-1063
+05-08-2017,16:28:36,Request,https://clinicaltrials.gov/ct2/results?term=RPC-1063&Search=&displayxml=true&pg=1,RPC-1063,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:36,KeywordSearchEnd,RPC-1063,RPC-1063
+05-08-2017,16:28:36,KeywordSearchStart,RPC1063,RPC1063
+05-08-2017,16:28:36,Request,https://clinicaltrials.gov/ct2/results?term=RPC1063&Search=&displayxml=true&pg=1,RPC1063,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:36,KeywordSearchEnd,RPC1063,RPC1063
+05-08-2017,16:28:36,KeywordSearchStart,Sarilumab,Sarilumab
+05-08-2017,16:28:37,Request,https://clinicaltrials.gov/ct2/results?term=Sarilumab&Search=&displayxml=true&pg=1,Sarilumab,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:37,KeywordSearchEnd,Sarilumab,Sarilumab
+05-08-2017,16:28:37,KeywordSearchStart,Secukinumab,Secukinumab
+05-08-2017,16:28:37,Request,https://clinicaltrials.gov/ct2/results?term=Secukinumab&Search=&displayxml=true&pg=1,Secukinumab,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:37,KeywordSearchEnd,Secukinumab,Secukinumab
+05-08-2017,16:28:37,KeywordSearchStart,Tildrakizumab,Tildrakizumab
+05-08-2017,16:28:37,Request,https://clinicaltrials.gov/ct2/results?term=Tildrakizumab&Search=&displayxml=true&pg=1,Tildrakizumab,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:37,KeywordSearchEnd,Tildrakizumab,Tildrakizumab
+05-08-2017,16:28:37,KeywordSearchStart,Tocilizumab,Tocilizumab
+05-08-2017,16:28:37,Request,https://clinicaltrials.gov/ct2/results?term=Tocilizumab&Search=&displayxml=true&pg=1,Tocilizumab,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:37,KeywordSearchEnd,Tocilizumab,Tocilizumab
+05-08-2017,16:28:37,KeywordSearchStart,tofacitinib,tofacitinib
+05-08-2017,16:28:37,Request,https://clinicaltrials.gov/ct2/results?term=tofacitinib&Search=&displayxml=true&pg=1,tofacitinib,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:37,KeywordSearchEnd,tofacitinib,tofacitinib
+05-08-2017,16:28:37,KeywordSearchStart,Vedolizumab,Vedolizumab
+05-08-2017,16:28:37,Request,https://clinicaltrials.gov/ct2/results?term=Vedolizumab&Search=&displayxml=true&pg=1,Vedolizumab,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:37,KeywordSearchEnd,Vedolizumab,Vedolizumab
+05-08-2017,16:28:37,KeywordSearchStart,Infliximab,Infliximab
+05-08-2017,16:28:37,Request,https://clinicaltrials.gov/ct2/results?term=Infliximab&Search=&displayxml=true&pg=1,Infliximab,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:37,KeywordSearchEnd,Infliximab,Infliximab
+05-08-2017,16:28:37,KeywordSearchStart,ustekinumab,ustekinumab
+05-08-2017,16:28:37,Request,https://clinicaltrials.gov/ct2/results?term=ustekinumab&Search=&displayxml=true&pg=1,ustekinumab,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:37,KeywordSearchEnd,ustekinumab,ustekinumab
+05-08-2017,16:28:37,KeywordSearchStart,Golimumab,Golimumab
+05-08-2017,16:28:37,Request,https://clinicaltrials.gov/ct2/results?term=Golimumab&Search=&displayxml=true&pg=1,Golimumab,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:37,KeywordSearchEnd,Golimumab,Golimumab
+05-08-2017,16:28:37,KeywordSearchStart,BI655066,BI655066
+05-08-2017,16:28:38,Request,https://clinicaltrials.gov/ct2/results?term=BI655066&Search=&displayxml=true&pg=1,BI655066,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:38,KeywordSearchEnd,BI655066,BI655066
+05-08-2017,16:28:38,KeywordSearchStart,BI-655066,BI-655066
+05-08-2017,16:28:38,Request,https://clinicaltrials.gov/ct2/results?term=BI-655066&Search=&displayxml=true&pg=1,BI-655066,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:38,KeywordSearchEnd,BI-655066,BI-655066
+05-08-2017,16:28:38,KeywordSearchStart,guselkumab,guselkumab
+05-08-2017,16:28:38,Request,https://clinicaltrials.gov/ct2/results?term=guselkumab&Search=&displayxml=true&pg=1,guselkumab,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:38,KeywordSearchEnd,guselkumab,guselkumab
+05-08-2017,16:28:38,KeywordSearchStart,Risankizumab,Risankizumab
+05-08-2017,16:28:38,Request,https://clinicaltrials.gov/ct2/results?term=Risankizumab&Search=&displayxml=true&pg=1,Risankizumab,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:38,KeywordSearchEnd,Risankizumab,Risankizumab
+05-08-2017,16:28:38,KeywordSearchStart,"Upadacitinib tartrate","Upadacitinib tartrate"
+05-08-2017,16:28:38,Request,https://clinicaltrials.gov/ct2/results?term=Upadacitinib+tartrate&Search=&displayxml=true&pg=1,"Upadacitinib tartrate",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:38,KeywordSearchEnd,"Upadacitinib tartrate","Upadacitinib tartrate"
+05-08-2017,16:28:38,KeywordSearchStart,SUNPG1622,SUNPG1622
+05-08-2017,16:28:38,Request,https://clinicaltrials.gov/ct2/results?term=SUNPG1622&Search=&displayxml=true&pg=1,SUNPG1622,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:38,KeywordSearchEnd,SUNPG1622,SUNPG1622
+05-08-2017,16:28:38,KeywordSearchStart,SUNPG1623,SUNPG1623
+05-08-2017,16:28:38,Request,https://clinicaltrials.gov/ct2/results?term=SUNPG1623&Search=&displayxml=true&pg=1,SUNPG1623,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:38,KeywordSearchEnd,SUNPG1623,SUNPG1623
+05-08-2017,16:28:38,KeywordSearchStart,"ABP 798","ABP 798"
+05-08-2017,16:28:38,Request,https://clinicaltrials.gov/ct2/results?term=ABP+798&Search=&displayxml=true&pg=1,"ABP 798",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:38,KeywordSearchEnd,"ABP 798","ABP 798"
+05-08-2017,16:28:38,KeywordSearchStart,ABP215,ABP215
+05-08-2017,16:28:39,Request,https://clinicaltrials.gov/ct2/results?term=ABP215&Search=&displayxml=true&pg=1,ABP215,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:39,KeywordSearchEnd,ABP215,ABP215
+05-08-2017,16:28:39,KeywordSearchStart,ABP-215,ABP-215
+05-08-2017,16:28:39,Request,https://clinicaltrials.gov/ct2/results?term=ABP-215&Search=&displayxml=true&pg=1,ABP-215,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:39,KeywordSearchEnd,ABP-215,ABP-215
+05-08-2017,16:28:39,KeywordSearchStart,ABP798,ABP798
+05-08-2017,16:28:39,Request,https://clinicaltrials.gov/ct2/results?term=ABP798&Search=&displayxml=true&pg=1,ABP798,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:39,KeywordSearchEnd,ABP798,ABP798
+05-08-2017,16:28:39,KeywordSearchStart,ABP980,ABP980
+05-08-2017,16:28:39,Request,https://clinicaltrials.gov/ct2/results?term=ABP980&Search=&displayxml=true&pg=1,ABP980,0.156,0,1724,0.00,0.26
+05-08-2017,16:28:39,KeywordSearchEnd,ABP980,ABP980
+05-08-2017,16:28:39,KeywordSearchStart,ABP-980,ABP-980
+05-08-2017,16:28:39,Request,https://clinicaltrials.gov/ct2/results?term=ABP-980&Search=&displayxml=true&pg=1,ABP-980,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:39,KeywordSearchEnd,ABP-980,ABP-980
+05-08-2017,16:28:39,KeywordSearchStart,Amgen,Amgen
+05-08-2017,16:28:39,Request,https://clinicaltrials.gov/ct2/results?term=Amgen&Search=&displayxml=true&pg=1,Amgen,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:39,KeywordSearchEnd,Amgen,Amgen
+05-08-2017,16:28:39,KeywordSearchStart,Apotex,Apotex
+05-08-2017,16:28:39,Request,https://clinicaltrials.gov/ct2/results?term=Apotex&Search=&displayxml=true&pg=1,Apotex,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:39,KeywordSearchEnd,Apotex,Apotex
+05-08-2017,16:28:39,KeywordSearchStart,Archigen,Archigen
+05-08-2017,16:28:43,Request,https://clinicaltrials.gov/ct2/results?term=Archigen&Search=&displayxml=true&pg=1,Archigen,3.75,0,71,0.00,0.26
+05-08-2017,16:28:43,KeywordSearchEnd,Archigen,Archigen
+05-08-2017,16:28:43,KeywordSearchStart,BAT1706,BAT1706
+05-08-2017,16:28:43,Request,https://clinicaltrials.gov/ct2/results?term=BAT1706&Search=&displayxml=true&pg=1,BAT1706,0.172,0,1563,0.00,0.26
+05-08-2017,16:28:43,KeywordSearchEnd,BAT1706,BAT1706
+05-08-2017,16:28:43,KeywordSearchStart,BCD-020,BCD-020
+05-08-2017,16:28:43,Request,https://clinicaltrials.gov/ct2/results?term=BCD-020&Search=&displayxml=true&pg=1,BCD-020,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:43,KeywordSearchEnd,BCD-020,BCD-020
+05-08-2017,16:28:43,KeywordSearchStart,BCD-021,BCD-021
+05-08-2017,16:28:43,Request,https://clinicaltrials.gov/ct2/results?term=BCD-021&Search=&displayxml=true&pg=1,BCD-021,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:43,KeywordSearchEnd,BCD-021,BCD-021
+05-08-2017,16:28:43,KeywordSearchStart,Bevacizumab,Bevacizumab
+05-08-2017,16:28:44,Request,https://clinicaltrials.gov/ct2/results?term=Bevacizumab&Search=&displayxml=true&pg=1,Bevacizumab,0.094,0,2861,0.00,0.26
+05-08-2017,16:28:44,KeywordSearchEnd,Bevacizumab,Bevacizumab
+05-08-2017,16:28:44,KeywordSearchStart,"BI 695502","BI 695502"
+05-08-2017,16:28:44,Request,https://clinicaltrials.gov/ct2/results?term=BI+695502&Search=&displayxml=true&pg=1,"BI 695502",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:44,KeywordSearchEnd,"BI 695502","BI 695502"
+05-08-2017,16:28:44,KeywordSearchStart,BI695502,BI695502
+05-08-2017,16:28:44,Request,https://clinicaltrials.gov/ct2/results?term=BI695502&Search=&displayxml=true&pg=1,BI695502,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:44,KeywordSearchEnd,BI695502,BI695502
+05-08-2017,16:28:44,KeywordSearchStart,Biocon,Biocon
+05-08-2017,16:28:44,Request,https://clinicaltrials.gov/ct2/results?term=Biocon&Search=&displayxml=true&pg=1,Biocon,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:44,KeywordSearchEnd,Biocon,Biocon
+05-08-2017,16:28:44,KeywordSearchStart,"Boehringer Ingelheim","Boehringer Ingelheim"
+05-08-2017,16:28:44,Request,https://clinicaltrials.gov/ct2/results?term=Boehringer+Ingelheim&Search=&displayxml=true&pg=1,"Boehringer Ingelheim",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:44,KeywordSearchEnd,"Boehringer Ingelheim","Boehringer Ingelheim"
+05-08-2017,16:28:44,KeywordSearchStart,BS-503a,BS-503a
+05-08-2017,16:28:44,Request,https://clinicaltrials.gov/ct2/results?term=BS-503a&Search=&displayxml=true&pg=1,BS-503a,0.156,0,1724,0.00,0.26
+05-08-2017,16:28:44,KeywordSearchEnd,BS-503a,BS-503a
+05-08-2017,16:28:44,KeywordSearchStart,CBT124,CBT124
+05-08-2017,16:28:44,Request,https://clinicaltrials.gov/ct2/results?term=CBT124&Search=&displayxml=true&pg=1,CBT124,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:44,KeywordSearchEnd,CBT124,CBT124
+05-08-2017,16:28:44,KeywordSearchStart,Celltrion,Celltrion
+05-08-2017,16:28:44,Request,https://clinicaltrials.gov/ct2/results?term=Celltrion&Search=&displayxml=true&pg=1,Celltrion,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:44,KeywordSearchEnd,Celltrion,Celltrion
+05-08-2017,16:28:44,KeywordSearchStart,Centus,Centus
+05-08-2017,16:28:45,Request,https://clinicaltrials.gov/ct2/results?term=Centus&Search=&displayxml=true&pg=1,Centus,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:45,KeywordSearchEnd,Centus,Centus
+05-08-2017,16:28:45,KeywordSearchStart,"Cipla Biotec","Cipla Biotec"
+05-08-2017,16:28:45,Request,https://clinicaltrials.gov/ct2/results?term=Cipla+Biotec&Search=&displayxml=true&pg=1,"Cipla Biotec",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:45,KeywordSearchEnd,"Cipla Biotec","Cipla Biotec"
+05-08-2017,16:28:45,KeywordSearchStart,CT-P06,CT-P06
+05-08-2017,16:28:45,Request,https://clinicaltrials.gov/ct2/results?term=CT-P06&Search=&displayxml=true&pg=1,CT-P06,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:45,KeywordSearchEnd,CT-P06,CT-P06
+05-08-2017,16:28:45,KeywordSearchStart,CT-P10,CT-P10
+05-08-2017,16:28:45,Request,https://clinicaltrials.gov/ct2/results?term=CT-P10&Search=&displayxml=true&pg=1,CT-P10,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:45,KeywordSearchEnd,CT-P10,CT-P10
+05-08-2017,16:28:45,KeywordSearchStart,CT-P17,CT-P17
+05-08-2017,16:28:45,Request,https://clinicaltrials.gov/ct2/results?term=CT-P17&Search=&displayxml=true&pg=1,CT-P17,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:45,KeywordSearchEnd,CT-P17,CT-P17
+05-08-2017,16:28:45,KeywordSearchStart,CT-P6,CT-P6
+05-08-2017,16:28:45,Request,https://clinicaltrials.gov/ct2/results?term=CT-P6&Search=&displayxml=true&pg=1,CT-P6,0.141,0,1907,0.00,0.26
+05-08-2017,16:28:45,KeywordSearchEnd,CT-P6,CT-P6
+05-08-2017,16:28:45,KeywordSearchStart,"Daiichi Sankyo","Daiichi Sankyo"
+05-08-2017,16:28:45,Request,https://clinicaltrials.gov/ct2/results?term=Daiichi+Sankyo&Search=&displayxml=true&pg=1,"Daiichi Sankyo",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:45,KeywordSearchEnd,"Daiichi Sankyo","Daiichi Sankyo"
+05-08-2017,16:28:45,KeywordSearchStart,"Dr. Reddy's Lab","Dr. Reddy's Lab"
+05-08-2017,16:28:45,Request,https://clinicaltrials.gov/ct2/results?term=Dr.+Reddy%27s+Lab&Search=&displayxml=true&pg=1,"Dr. Reddy's Lab",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:45,KeywordSearchEnd,"Dr. Reddy's Lab","Dr. Reddy's Lab"
+05-08-2017,16:28:45,KeywordSearchStart,DRL,DRL
+05-08-2017,16:28:46,Request,https://clinicaltrials.gov/ct2/results?term=DRL&Search=&displayxml=true&pg=1,DRL,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:46,KeywordSearchEnd,DRL,DRL
+05-08-2017,16:28:46,KeywordSearchStart,DRL_BZ,DRL_BZ
+05-08-2017,16:28:46,Request,https://clinicaltrials.gov/ct2/results?term=DRL_BZ&Search=&displayxml=true&pg=1,DRL_BZ,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:46,KeywordSearchEnd,DRL_BZ,DRL_BZ
+05-08-2017,16:28:46,KeywordSearchStart,"Fujifilm Kyowa Kirin","Fujifilm Kyowa Kirin"
+05-08-2017,16:28:46,Request,https://clinicaltrials.gov/ct2/results?term=Fujifilm+Kyowa+Kirin&Search=&displayxml=true&pg=1,"Fujifilm Kyowa Kirin",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:46,KeywordSearchEnd,"Fujifilm Kyowa Kirin","Fujifilm Kyowa Kirin"
+05-08-2017,16:28:46,KeywordSearchStart,"Gedeon Richter","Gedeon Richter"
+05-08-2017,16:28:46,Request,https://clinicaltrials.gov/ct2/results?term=Gedeon+Richter&Search=&displayxml=true&pg=1,"Gedeon Richter",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:46,KeywordSearchEnd,"Gedeon Richter","Gedeon Richter"
+05-08-2017,16:28:46,KeywordSearchStart,Genor,Genor
+05-08-2017,16:28:46,Request,https://clinicaltrials.gov/ct2/results?term=Genor&Search=&displayxml=true&pg=1,Genor,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:46,KeywordSearchEnd,Genor,Genor
+05-08-2017,16:28:46,KeywordSearchStart,GP2013,GP2013
+05-08-2017,16:28:46,Request,https://clinicaltrials.gov/ct2/results?term=GP2013&Search=&displayxml=true&pg=1,GP2013,0.141,0,1907,0.00,0.26
+05-08-2017,16:28:46,KeywordSearchEnd,GP2013,GP2013
+05-08-2017,16:28:46,KeywordSearchStart,GP2019,GP2019
+05-08-2017,16:28:46,Request,https://clinicaltrials.gov/ct2/results?term=GP2019&Search=&displayxml=true&pg=1,GP2019,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:46,KeywordSearchEnd,GP2019,GP2019
+05-08-2017,16:28:46,KeywordSearchStart,Hercules,Hercules
+05-08-2017,16:28:46,Request,https://clinicaltrials.gov/ct2/results?term=Hercules&Search=&displayxml=true&pg=1,Hercules,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:46,KeywordSearchEnd,Hercules,Hercules
+05-08-2017,16:28:46,KeywordSearchStart,JHL1101,JHL1101
+05-08-2017,16:28:47,Request,https://clinicaltrials.gov/ct2/results?term=JHL1101&Search=&displayxml=true&pg=1,JHL1101,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:47,KeywordSearchEnd,JHL1101,JHL1101
+05-08-2017,16:28:47,KeywordSearchStart,MabioCD20,MabioCD20
+05-08-2017,16:28:47,Request,https://clinicaltrials.gov/ct2/results?term=MabioCD20&Search=&displayxml=true&pg=1,MabioCD20,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:47,KeywordSearchEnd,MabioCD20,MabioCD20
+05-08-2017,16:28:47,KeywordSearchStart,Mabion,Mabion
+05-08-2017,16:28:47,Request,https://clinicaltrials.gov/ct2/results?term=Mabion&Search=&displayxml=true&pg=1,Mabion,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:47,KeywordSearchEnd,Mabion,Mabion
+05-08-2017,16:28:47,KeywordSearchStart,MabionCD20,MabionCD20
+05-08-2017,16:28:47,Request,https://clinicaltrials.gov/ct2/results?term=MabionCD20&Search=&displayxml=true&pg=1,MabionCD20,0.157,0,1713,0.00,0.26
+05-08-2017,16:28:47,KeywordSearchEnd,MabionCD20,MabionCD20
+05-08-2017,16:28:47,KeywordSearchStart,MYL-1401O,MYL-1401O
+05-08-2017,16:28:47,Request,https://clinicaltrials.gov/ct2/results?term=MYL-1401O&Search=&displayxml=true&pg=1,MYL-1401O,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:47,KeywordSearchEnd,MYL-1401O,MYL-1401O
+05-08-2017,16:28:47,KeywordSearchStart,MYL-14020,MYL-14020
+05-08-2017,16:28:47,Request,https://clinicaltrials.gov/ct2/results?term=MYL-14020&Search=&displayxml=true&pg=1,MYL-14020,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:47,KeywordSearchEnd,MYL-14020,MYL-14020
+05-08-2017,16:28:47,KeywordSearchStart,Mylan,Mylan
+05-08-2017,16:28:47,Request,https://clinicaltrials.gov/ct2/results?term=Mylan&Search=&displayxml=true&pg=1,Mylan,0.156,0,1724,0.00,0.26
+05-08-2017,16:28:47,KeywordSearchEnd,Mylan,Mylan
+05-08-2017,16:28:47,KeywordSearchStart,MYL-HER3001,MYL-HER3001
+05-08-2017,16:28:47,Request,https://clinicaltrials.gov/ct2/results?term=MYL-HER3001&Search=&displayxml=true&pg=1,MYL-HER3001,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:47,KeywordSearchEnd,MYL-HER3001,MYL-HER3001
+05-08-2017,16:28:47,KeywordSearchStart,ONS-1045,ONS-1045
+05-08-2017,16:28:48,Request,https://clinicaltrials.gov/ct2/results?term=ONS-1045&Search=&displayxml=true&pg=1,ONS-1045,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:48,KeywordSearchEnd,ONS-1045,ONS-1045
+05-08-2017,16:28:48,KeywordSearchStart,PF-05280014,PF-05280014
+05-08-2017,16:28:48,Request,https://clinicaltrials.gov/ct2/results?term=PF-05280014&Search=&displayxml=true&pg=1,PF-05280014,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:48,KeywordSearchEnd,PF-05280014,PF-05280014
+05-08-2017,16:28:48,KeywordSearchStart,PF-05280586,PF-05280586
+05-08-2017,16:28:48,Request,https://clinicaltrials.gov/ct2/results?term=PF-05280586&Search=&displayxml=true&pg=1,PF-05280586,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:48,KeywordSearchEnd,PF-05280586,PF-05280586
+05-08-2017,16:28:48,KeywordSearchStart,PF-058058,PF-058058
+05-08-2017,16:28:48,Request,https://clinicaltrials.gov/ct2/results?term=PF-058058&Search=&displayxml=true&pg=1,PF-058058,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:48,KeywordSearchEnd,PF-058058,PF-058058
+05-08-2017,16:28:48,KeywordSearchStart,PF-06439535,PF-06439535
+05-08-2017,16:28:48,Request,https://clinicaltrials.gov/ct2/results?term=PF-06439535&Search=&displayxml=true&pg=1,PF-06439535,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:48,KeywordSearchEnd,PF-06439535,PF-06439535
+05-08-2017,16:28:48,KeywordSearchStart,Pfizer,Pfizer
+05-08-2017,16:28:48,Request,https://clinicaltrials.gov/ct2/results?term=Pfizer&Search=&displayxml=true&pg=1,Pfizer,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:48,KeywordSearchEnd,Pfizer,Pfizer
+05-08-2017,16:28:48,KeywordSearchStart,RGB-03,RGB-03
+05-08-2017,16:28:48,Request,https://clinicaltrials.gov/ct2/results?term=RGB-03&Search=&displayxml=true&pg=1,RGB-03,0.093,0,2892,0.00,0.26
+05-08-2017,16:28:48,KeywordSearchEnd,RGB-03,RGB-03
+05-08-2017,16:28:48,KeywordSearchStart,Rituximab,Rituximab
+05-08-2017,16:28:48,Request,https://clinicaltrials.gov/ct2/results?term=Rituximab&Search=&displayxml=true&pg=1,Rituximab,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:48,KeywordSearchEnd,Rituximab,Rituximab
+05-08-2017,16:28:48,KeywordSearchStart,RXTM83,RXTM83
+05-08-2017,16:28:48,Request,https://clinicaltrials.gov/ct2/results?term=RXTM83&Search=&displayxml=true&pg=1,RXTM83,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:48,KeywordSearchEnd,RXTM83,RXTM83
+05-08-2017,16:28:48,KeywordSearchStart,"Samsung Bioepis","Samsung Bioepis"
+05-08-2017,16:28:49,Request,https://clinicaltrials.gov/ct2/results?term=Samsung+Bioepis&Search=&displayxml=true&pg=1,"Samsung Bioepis",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:49,KeywordSearchEnd,"Samsung Bioepis","Samsung Bioepis"
+05-08-2017,16:28:49,KeywordSearchStart,"Samsung Biologics","Samsung Biologics"
+05-08-2017,16:28:49,Request,https://clinicaltrials.gov/ct2/results?term=Samsung+Biologics&Search=&displayxml=true&pg=1,"Samsung Biologics",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:49,KeywordSearchEnd,"Samsung Biologics","Samsung Biologics"
+05-08-2017,16:28:49,KeywordSearchStart,Sandoz,Sandoz
+05-08-2017,16:28:49,Request,https://clinicaltrials.gov/ct2/results?term=Sandoz&Search=&displayxml=true&pg=1,Sandoz,0.187,0,1438,0.00,0.26
+05-08-2017,16:28:49,KeywordSearchEnd,Sandoz,Sandoz
+05-08-2017,16:28:49,KeywordSearchStart,SB3,SB3
+05-08-2017,16:28:49,Request,https://clinicaltrials.gov/ct2/results?term=SB3&Search=&displayxml=true&pg=1,SB3,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:49,KeywordSearchEnd,SB3,SB3
+05-08-2017,16:28:49,KeywordSearchStart,SB8,SB8
+05-08-2017,16:28:49,Request,https://clinicaltrials.gov/ct2/results?term=SB8&Search=&displayxml=true&pg=1,SB8,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:49,KeywordSearchEnd,SB8,SB8
+05-08-2017,16:28:49,KeywordSearchStart,Stada,Stada
+05-08-2017,16:28:49,Request,https://clinicaltrials.gov/ct2/results?term=Stada&Search=&displayxml=true&pg=1,Stada,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:49,KeywordSearchEnd,Stada,Stada
+05-08-2017,16:28:49,KeywordSearchStart,Trastuzumab,Trastuzumab
+05-08-2017,16:28:49,Request,https://clinicaltrials.gov/ct2/results?term=Trastuzumab&Search=&displayxml=true&pg=1,Trastuzumab,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:49,KeywordSearchEnd,Trastuzumab,Trastuzumab
+05-08-2017,16:28:49,KeywordSearchStart,Tratuzumab,Tratuzumab
+05-08-2017,16:28:49,Request,https://clinicaltrials.gov/ct2/results?term=Tratuzumab&Search=&displayxml=true&pg=1,Tratuzumab,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:49,KeywordSearchEnd,Tratuzumab,Tratuzumab
+05-08-2017,16:28:49,KeywordSearchStart," IPD "," IPD "
+05-08-2017,16:28:50,Request,https://clinicaltrials.gov/ct2/results?term=IPD&Search=&displayxml=true&pg=1," IPD ",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:50,KeywordSearchEnd," IPD "," IPD "
+05-08-2017,16:28:50,KeywordSearchStart," PCV "," PCV "
+05-08-2017,16:28:50,Request,https://clinicaltrials.gov/ct2/results?term=PCV&Search=&displayxml=true&pg=1," PCV ",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:50,KeywordSearchEnd," PCV "," PCV "
+05-08-2017,16:28:50,KeywordSearchStart,Affinivax,Affinivax
+05-08-2017,16:28:50,Request,https://clinicaltrials.gov/ct2/results?term=Affinivax&Search=&displayxml=true&pg=1,Affinivax,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:50,KeywordSearchEnd,Affinivax,Affinivax
+05-08-2017,16:28:50,KeywordSearchStart,ImmBio,ImmBio
+05-08-2017,16:28:50,Request,https://clinicaltrials.gov/ct2/results?term=ImmBio&Search=&displayxml=true&pg=1,ImmBio,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:50,KeywordSearchEnd,ImmBio,ImmBio
+05-08-2017,16:28:50,KeywordSearchStart,ImmunoBiology,ImmunoBiology
+05-08-2017,16:28:50,Request,https://clinicaltrials.gov/ct2/results?term=ImmunoBiology&Search=&displayxml=true&pg=1,ImmunoBiology,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:50,KeywordSearchEnd,ImmunoBiology,ImmunoBiology
+05-08-2017,16:28:50,KeywordSearchStart,"Invasive pneumococcal disease","Invasive pneumococcal disease"
+05-08-2017,16:28:50,Request,https://clinicaltrials.gov/ct2/results?term=Invasive+pneumococcal+disease&Search=&displayxml=true&pg=1,"Invasive pneumococcal disease",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:50,KeywordSearchEnd,"Invasive pneumococcal disease","Invasive pneumococcal disease"
+05-08-2017,16:28:50,KeywordSearchStart,Nucovac,Nucovac
+05-08-2017,16:28:50,Request,https://clinicaltrials.gov/ct2/results?term=Nucovac&Search=&displayxml=true&pg=1,Nucovac,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:50,KeywordSearchEnd,Nucovac,Nucovac
+05-08-2017,16:28:50,KeywordSearchStart,PATH-wSP,PATH-wSP
+05-08-2017,16:28:50,Request,https://clinicaltrials.gov/ct2/results?term=PATH-wSP&Search=&displayxml=true&pg=1,PATH-wSP,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:50,KeywordSearchEnd,PATH-wSP,PATH-wSP
+05-08-2017,16:28:50,KeywordSearchStart,"PCV 10","PCV 10"
+05-08-2017,16:28:51,Request,https://clinicaltrials.gov/ct2/results?term=PCV+10&Search=&displayxml=true&pg=1,"PCV 10",0.094,0,2861,0.00,0.26
+05-08-2017,16:28:51,KeywordSearchEnd,"PCV 10","PCV 10"
+05-08-2017,16:28:51,KeywordSearchStart,"PCV 11","PCV 11"
+05-08-2017,16:28:51,Request,https://clinicaltrials.gov/ct2/results?term=PCV+11&Search=&displayxml=true&pg=1,"PCV 11",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:51,KeywordSearchEnd,"PCV 11","PCV 11"
+05-08-2017,16:28:51,KeywordSearchStart,"PCV 12","PCV 12"
+05-08-2017,16:28:51,Request,https://clinicaltrials.gov/ct2/results?term=PCV+12&Search=&displayxml=true&pg=1,"PCV 12",0.141,0,1907,0.00,0.26
+05-08-2017,16:28:51,KeywordSearchEnd,"PCV 12","PCV 12"
+05-08-2017,16:28:51,KeywordSearchStart,"PCV 13","PCV 13"
+05-08-2017,16:28:51,Request,https://clinicaltrials.gov/ct2/results?term=PCV+13&Search=&displayxml=true&pg=1,"PCV 13",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:51,KeywordSearchEnd,"PCV 13","PCV 13"
+05-08-2017,16:28:51,KeywordSearchStart,"PCV 14","PCV 14"
+05-08-2017,16:28:51,Request,https://clinicaltrials.gov/ct2/results?term=PCV+14&Search=&displayxml=true&pg=1,"PCV 14",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:51,KeywordSearchEnd,"PCV 14","PCV 14"
+05-08-2017,16:28:51,KeywordSearchStart,"PCV 15","PCV 15"
+05-08-2017,16:28:51,Request,https://clinicaltrials.gov/ct2/results?term=PCV+15&Search=&displayxml=true&pg=1,"PCV 15",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:51,KeywordSearchEnd,"PCV 15","PCV 15"
+05-08-2017,16:28:51,KeywordSearchStart,"PCV 16","PCV 16"
+05-08-2017,16:28:51,Request,https://clinicaltrials.gov/ct2/results?term=PCV+16&Search=&displayxml=true&pg=1,"PCV 16",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:51,KeywordSearchEnd,"PCV 16","PCV 16"
+05-08-2017,16:28:51,KeywordSearchStart,"PCV 21","PCV 21"
+05-08-2017,16:28:51,Request,https://clinicaltrials.gov/ct2/results?term=PCV+21&Search=&displayxml=true&pg=1,"PCV 21",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:51,KeywordSearchEnd,"PCV 21","PCV 21"
+05-08-2017,16:28:51,KeywordSearchStart,"PCV 7","PCV 7"
+05-08-2017,16:28:52,Request,https://clinicaltrials.gov/ct2/results?term=PCV+7&Search=&displayxml=true&pg=1,"PCV 7",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:52,KeywordSearchEnd,"PCV 7","PCV 7"
+05-08-2017,16:28:52,KeywordSearchStart,PCV10,PCV10
+05-08-2017,16:28:52,Request,https://clinicaltrials.gov/ct2/results?term=PCV10&Search=&displayxml=true&pg=1,PCV10,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:52,KeywordSearchEnd,PCV10,PCV10
+05-08-2017,16:28:52,KeywordSearchStart,PCV11,PCV11
+05-08-2017,16:28:52,Request,https://clinicaltrials.gov/ct2/results?term=PCV11&Search=&displayxml=true&pg=1,PCV11,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:52,KeywordSearchEnd,PCV11,PCV11
+05-08-2017,16:28:52,KeywordSearchStart,PCV12,PCV12
+05-08-2017,16:28:52,Request,https://clinicaltrials.gov/ct2/results?term=PCV12&Search=&displayxml=true&pg=1,PCV12,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:52,KeywordSearchEnd,PCV12,PCV12
+05-08-2017,16:28:52,KeywordSearchStart,PCV13,PCV13
+05-08-2017,16:28:52,Request,https://clinicaltrials.gov/ct2/results?term=PCV13&Search=&displayxml=true&pg=1,PCV13,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:52,KeywordSearchEnd,PCV13,PCV13
+05-08-2017,16:28:52,KeywordSearchStart,PCV14,PCV14
+05-08-2017,16:28:52,Request,https://clinicaltrials.gov/ct2/results?term=PCV14&Search=&displayxml=true&pg=1,PCV14,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:52,KeywordSearchEnd,PCV14,PCV14
+05-08-2017,16:28:52,KeywordSearchStart,PCV15,PCV15
+05-08-2017,16:28:52,Request,https://clinicaltrials.gov/ct2/results?term=PCV15&Search=&displayxml=true&pg=1,PCV15,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:52,KeywordSearchEnd,PCV15,PCV15
+05-08-2017,16:28:52,KeywordSearchStart,PCV16,PCV16
+05-08-2017,16:28:52,Request,https://clinicaltrials.gov/ct2/results?term=PCV16&Search=&displayxml=true&pg=1,PCV16,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:52,KeywordSearchEnd,PCV16,PCV16
+05-08-2017,16:28:52,KeywordSearchStart,PCV21,PCV21
+05-08-2017,16:28:52,Request,https://clinicaltrials.gov/ct2/results?term=PCV21&Search=&displayxml=true&pg=1,PCV21,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:52,KeywordSearchEnd,PCV21,PCV21
+05-08-2017,16:28:52,KeywordSearchStart,PCV7,PCV7
+05-08-2017,16:28:53,Request,https://clinicaltrials.gov/ct2/results?term=PCV7&Search=&displayxml=true&pg=1,PCV7,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:53,KeywordSearchEnd,PCV7,PCV7
+05-08-2017,16:28:53,KeywordSearchStart,"Pneumococcal  Vaccine","Pneumococcal  Vaccine"
+05-08-2017,16:28:53,Request,https://clinicaltrials.gov/ct2/results?term=Pneumococcal++Vaccine&Search=&displayxml=true&pg=1,"Pneumococcal  Vaccine",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:53,KeywordSearchEnd,"Pneumococcal  Vaccine","Pneumococcal  Vaccine"
+05-08-2017,16:28:53,KeywordSearchStart,"Pneumococcal conjugate vaccine","Pneumococcal conjugate vaccine"
+05-08-2017,16:28:53,Request,https://clinicaltrials.gov/ct2/results?term=Pneumococcal+conjugate+vaccine&Search=&displayxml=true&pg=1,"Pneumococcal conjugate vaccine",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:53,KeywordSearchEnd,"Pneumococcal conjugate vaccine","Pneumococcal conjugate vaccine"
+05-08-2017,16:28:53,KeywordSearchStart,"pneumococcal polysaccharide vaccine","pneumococcal polysaccharide vaccine"
+05-08-2017,16:28:53,Request,https://clinicaltrials.gov/ct2/results?term=pneumococcal+polysaccharide+vaccine&Search=&displayxml=true&pg=1,"pneumococcal polysaccharide vaccine",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:53,KeywordSearchEnd,"pneumococcal polysaccharide vaccine","pneumococcal polysaccharide vaccine"
+05-08-2017,16:28:53,KeywordSearchStart,Pneumonia,Pneumonia
+05-08-2017,16:28:53,Request,https://clinicaltrials.gov/ct2/results?term=Pneumonia&Search=&displayxml=true&pg=1,Pneumonia,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:53,KeywordSearchEnd,Pneumonia,Pneumonia
+05-08-2017,16:28:53,KeywordSearchStart,Pneumoniae,Pneumoniae
+05-08-2017,16:28:53,Request,https://clinicaltrials.gov/ct2/results?term=Pneumoniae&Search=&displayxml=true&pg=1,Pneumoniae,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:53,KeywordSearchEnd,Pneumoniae,Pneumoniae
+05-08-2017,16:28:53,KeywordSearchStart,PnuBioVax,PnuBioVax
+05-08-2017,16:28:53,Request,https://clinicaltrials.gov/ct2/results?term=PnuBioVax&Search=&displayxml=true&pg=1,PnuBioVax,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:53,KeywordSearchEnd,PnuBioVax,PnuBioVax
+05-08-2017,16:28:53,KeywordSearchStart,PnuVa,PnuVa
+05-08-2017,16:28:53,Request,https://clinicaltrials.gov/ct2/results?term=PnuVa&Search=&displayxml=true&pg=1,PnuVa,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:53,KeywordSearchEnd,PnuVa,PnuVa
+05-08-2017,16:28:53,KeywordSearchStart,"PPSV 23","PPSV 23"
+05-08-2017,16:28:54,Request,https://clinicaltrials.gov/ct2/results?term=PPSV+23&Search=&displayxml=true&pg=1,"PPSV 23",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:54,KeywordSearchEnd,"PPSV 23","PPSV 23"
+05-08-2017,16:28:54,KeywordSearchStart,PPSV23,PPSV23
+05-08-2017,16:28:54,Request,https://clinicaltrials.gov/ct2/results?term=PPSV23&Search=&displayxml=true&pg=1,PPSV23,0.094,0,2861,0.00,0.26
+05-08-2017,16:28:54,KeywordSearchEnd,PPSV23,PPSV23
+05-08-2017,16:28:54,KeywordSearchStart,PPV23,PPV23
+05-08-2017,16:28:54,Request,https://clinicaltrials.gov/ct2/results?term=PPV23&Search=&displayxml=true&pg=1,PPV23,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:54,KeywordSearchEnd,PPV23,PPV23
+05-08-2017,16:28:54,KeywordSearchStart,SIILPCV10,SIILPCV10
+05-08-2017,16:28:54,Request,https://clinicaltrials.gov/ct2/results?term=SIILPCV10&Search=&displayxml=true&pg=1,SIILPCV10,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:54,KeywordSearchEnd,SIILPCV10,SIILPCV10
+05-08-2017,16:28:54,KeywordSearchStart,Synflorix,Synflorix
+05-08-2017,16:28:54,Request,https://clinicaltrials.gov/ct2/results?term=Synflorix&Search=&displayxml=true&pg=1,Synflorix,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:54,KeywordSearchEnd,Synflorix,Synflorix
+05-08-2017,16:28:54,KeywordSearchStart,Tergene,Tergene
+05-08-2017,16:28:54,Request,https://clinicaltrials.gov/ct2/results?term=Tergene&Search=&displayxml=true&pg=1,Tergene,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:54,KeywordSearchEnd,Tergene,Tergene
+05-08-2017,16:28:54,KeywordSearchStart,"Vi-PspA conjugate vaccine","Vi-PspA conjugate vaccine"
+05-08-2017,16:28:54,Request,https://clinicaltrials.gov/ct2/results?term=Vi-PspA+conjugate+vaccine&Search=&displayxml=true&pg=1,"Vi-PspA conjugate vaccine",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:54,KeywordSearchEnd,"Vi-PspA conjugate vaccine","Vi-PspA conjugate vaccine"
+05-08-2017,16:28:54,KeywordSearchStart,"whole cell vaccine","whole cell vaccine"
+05-08-2017,16:28:54,Request,https://clinicaltrials.gov/ct2/results?term=whole+cell+vaccine&Search=&displayxml=true&pg=1,"whole cell vaccine",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:54,KeywordSearchEnd,"whole cell vaccine","whole cell vaccine"
+05-08-2017,16:28:54,KeywordSearchStart,Abatacept,Abatacept
+05-08-2017,16:28:54,Request,https://clinicaltrials.gov/ct2/results?term=Abatacept&Search=&displayxml=true&pg=1,Abatacept,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:54,KeywordSearchEnd,Abatacept,Abatacept
+05-08-2017,16:28:54,KeywordSearchStart,alemtuzumab,alemtuzumab
+05-08-2017,16:28:55,Request,https://clinicaltrials.gov/ct2/results?term=alemtuzumab&Search=&displayxml=true&pg=1,alemtuzumab,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:55,KeywordSearchEnd,alemtuzumab,alemtuzumab
+05-08-2017,16:28:55,KeywordSearchStart,"ALKS 8700","ALKS 8700"
+05-08-2017,16:28:55,Request,https://clinicaltrials.gov/ct2/results?term=ALKS+8700&Search=&displayxml=true&pg=1,"ALKS 8700",0.109,0,2467,0.00,0.26
+05-08-2017,16:28:55,KeywordSearchEnd,"ALKS 8700","ALKS 8700"
+05-08-2017,16:28:55,KeywordSearchStart,Anti-LINGO-1,Anti-LINGO-1
+05-08-2017,16:28:55,Request,https://clinicaltrials.gov/ct2/results?term=Anti-LINGO-1&Search=&displayxml=true&pg=1,Anti-LINGO-1,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:55,KeywordSearchEnd,Anti-LINGO-1,Anti-LINGO-1
+05-08-2017,16:28:55,KeywordSearchStart,ATX-MS-1467,ATX-MS-1467
+05-08-2017,16:28:55,Request,https://clinicaltrials.gov/ct2/results?term=ATX-MS-1467&Search=&displayxml=true&pg=1,ATX-MS-1467,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:55,KeywordSearchEnd,ATX-MS-1467,ATX-MS-1467
+05-08-2017,16:28:55,KeywordSearchStart,Aubagio,Aubagio
+05-08-2017,16:28:55,Request,https://clinicaltrials.gov/ct2/results?term=Aubagio&Search=&displayxml=true&pg=1,Aubagio,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:55,KeywordSearchEnd,Aubagio,Aubagio
+05-08-2017,16:28:55,KeywordSearchStart,Avonex,Avonex
+05-08-2017,16:28:55,Request,https://clinicaltrials.gov/ct2/results?term=Avonex&Search=&displayxml=true&pg=1,Avonex,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:55,KeywordSearchEnd,Avonex,Avonex
+05-08-2017,16:28:55,KeywordSearchStart,Betaseron,Betaseron
+05-08-2017,16:28:55,Request,https://clinicaltrials.gov/ct2/results?term=Betaseron&Search=&displayxml=true&pg=1,Betaseron,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:55,KeywordSearchEnd,Betaseron,Betaseron
+05-08-2017,16:28:55,KeywordSearchStart,Cladribine,Cladribine
+05-08-2017,16:28:55,Request,https://clinicaltrials.gov/ct2/results?term=Cladribine&Search=&displayxml=true&pg=1,Cladribine,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:55,KeywordSearchEnd,Cladribine,Cladribine
+05-08-2017,16:28:55,KeywordSearchStart,Copaxone,Copaxone
+05-08-2017,16:28:55,Request,https://clinicaltrials.gov/ct2/results?term=Copaxone&Search=&displayxml=true&pg=1,Copaxone,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:55,KeywordSearchEnd,Copaxone,Copaxone
+05-08-2017,16:28:55,KeywordSearchStart,Daclizumab,Daclizumab
+05-08-2017,16:28:56,Request,https://clinicaltrials.gov/ct2/results?term=Daclizumab&Search=&displayxml=true&pg=1,Daclizumab,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:56,KeywordSearchEnd,Daclizumab,Daclizumab
+05-08-2017,16:28:56,KeywordSearchStart,"dimethyl fumarate","dimethyl fumarate"
+05-08-2017,16:28:56,Request,https://clinicaltrials.gov/ct2/results?term=dimethyl+fumarate&Search=&displayxml=true&pg=1,"dimethyl fumarate",0.11,0,2445,0.00,0.26
+05-08-2017,16:28:56,KeywordSearchEnd,"dimethyl fumarate","dimethyl fumarate"
+05-08-2017,16:28:56,KeywordSearchStart,Extavia,Extavia
+05-08-2017,16:28:56,Request,https://clinicaltrials.gov/ct2/results?term=Extavia&Search=&displayxml=true&pg=1,Extavia,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:56,KeywordSearchEnd,Extavia,Extavia
+05-08-2017,16:28:56,KeywordSearchStart,Fampyra,Fampyra
+05-08-2017,16:28:56,Request,https://clinicaltrials.gov/ct2/results?term=Fampyra&Search=&displayxml=true&pg=1,Fampyra,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:56,KeywordSearchEnd,Fampyra,Fampyra
+05-08-2017,16:28:56,KeywordSearchStart,FLX-787,FLX-787
+05-08-2017,16:28:56,Request,https://clinicaltrials.gov/ct2/results?term=FLX-787&Search=&displayxml=true&pg=1,FLX-787,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:56,KeywordSearchEnd,FLX-787,FLX-787
+05-08-2017,16:28:56,KeywordSearchStart,FP187,FP187
+05-08-2017,16:28:56,Request,https://clinicaltrials.gov/ct2/results?term=FP187&Search=&displayxml=true&pg=1,FP187,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:56,KeywordSearchEnd,FP187,FP187
+05-08-2017,16:28:56,KeywordSearchStart,"Generic Copaxone","Generic Copaxone"
+05-08-2017,16:28:56,Request,https://clinicaltrials.gov/ct2/results?term=Generic+Copaxone&Search=&displayxml=true&pg=1,"Generic Copaxone",0.125,0,2152,0.00,0.26
+05-08-2017,16:28:56,KeywordSearchEnd,"Generic Copaxone","Generic Copaxone"
+05-08-2017,16:28:56,KeywordSearchStart,Gilenya,Gilenya
+05-08-2017,16:28:56,Request,https://clinicaltrials.gov/ct2/results?term=Gilenya&Search=&displayxml=true&pg=1,Gilenya,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:56,KeywordSearchEnd,Gilenya,Gilenya
+05-08-2017,16:28:56,KeywordSearchStart,Glatopa,Glatopa
+05-08-2017,16:28:57,Request,https://clinicaltrials.gov/ct2/results?term=Glatopa&Search=&displayxml=true&pg=1,Glatopa,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:57,KeywordSearchEnd,Glatopa,Glatopa
+05-08-2017,16:28:57,KeywordSearchStart,GNbAC1,GNbAC1
+05-08-2017,16:28:57,Request,https://clinicaltrials.gov/ct2/results?term=GNbAC1&Search=&displayxml=true&pg=1,GNbAC1,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:57,KeywordSearchEnd,GNbAC1,GNbAC1
+05-08-2017,16:28:57,KeywordSearchStart,GSK239512,GSK239512
+05-08-2017,16:28:57,Request,https://clinicaltrials.gov/ct2/results?term=GSK239512&Search=&displayxml=true&pg=1,GSK239512,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:57,KeywordSearchEnd,GSK239512,GSK239512
+05-08-2017,16:28:57,KeywordSearchStart,GZ402668,GZ402668
+05-08-2017,16:28:57,Request,https://clinicaltrials.gov/ct2/results?term=GZ402668&Search=&displayxml=true&pg=1,GZ402668,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:57,KeywordSearchEnd,GZ402668,GZ402668
+05-08-2017,16:28:57,KeywordSearchStart,Ibudilast,Ibudilast
+05-08-2017,16:28:57,Request,https://clinicaltrials.gov/ct2/results?term=Ibudilast&Search=&displayxml=true&pg=1,Ibudilast,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:57,KeywordSearchEnd,Ibudilast,Ibudilast
+05-08-2017,16:28:57,KeywordSearchStart,Idebenone,Idebenone
+05-08-2017,16:28:57,Request,https://clinicaltrials.gov/ct2/results?term=Idebenone&Search=&displayxml=true&pg=1,Idebenone,0.141,0,1907,0.00,0.26
+05-08-2017,16:28:57,KeywordSearchEnd,Idebenone,Idebenone
+05-08-2017,16:28:57,KeywordSearchStart,Laquinimod,Laquinimod
+05-08-2017,16:28:57,Request,https://clinicaltrials.gov/ct2/results?term=Laquinimod&Search=&displayxml=true&pg=1,Laquinimod,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:57,KeywordSearchEnd,Laquinimod,Laquinimod
+05-08-2017,16:28:57,KeywordSearchStart,Lemtrada,Lemtrada
+05-08-2017,16:28:57,Request,https://clinicaltrials.gov/ct2/results?term=Lemtrada&Search=&displayxml=true&pg=1,Lemtrada,0.156,0,1724,0.00,0.26
+05-08-2017,16:28:57,KeywordSearchEnd,Lemtrada,Lemtrada
+05-08-2017,16:28:57,KeywordSearchStart,Masitinib,Masitinib
+05-08-2017,16:28:58,Request,https://clinicaltrials.gov/ct2/results?term=Masitinib&Search=&displayxml=true&pg=1,Masitinib,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:58,KeywordSearchEnd,Masitinib,Masitinib
+05-08-2017,16:28:58,KeywordSearchStart,MD1003,MD1003
+05-08-2017,16:28:58,Request,https://clinicaltrials.gov/ct2/results?term=MD1003&Search=&displayxml=true&pg=1,MD1003,0.141,0,1907,0.00,0.26
+05-08-2017,16:28:58,KeywordSearchEnd,MD1003,MD1003
+05-08-2017,16:28:58,KeywordSearchStart,MEDI-551,MEDI-551
+05-08-2017,16:28:58,Request,https://clinicaltrials.gov/ct2/results?term=MEDI-551&Search=&displayxml=true&pg=1,MEDI-551,0.156,0,1724,0.00,0.26
+05-08-2017,16:28:58,KeywordSearchEnd,MEDI-551,MEDI-551
+05-08-2017,16:28:58,KeywordSearchStart,MIS416,MIS416
+05-08-2017,16:28:58,Request,https://clinicaltrials.gov/ct2/results?term=MIS416&Search=&displayxml=true&pg=1,MIS416,0.125,0,2152,0.00,0.26
+05-08-2017,16:28:58,KeywordSearchEnd,MIS416,MIS416
+05-08-2017,16:28:58,KeywordSearchStart,Mitoxantrone,Mitoxantrone
+05-08-2017,16:28:59,Request,https://clinicaltrials.gov/ct2/results?term=Mitoxantrone&Search=&displayxml=true&pg=1,Mitoxantrone,0.594,0,452,0.00,0.26
+05-08-2017,16:28:59,KeywordSearchEnd,Mitoxantrone,Mitoxantrone
+05-08-2017,16:28:59,KeywordSearchStart,MN-166,MN-166
+05-08-2017,16:28:59,Request,https://clinicaltrials.gov/ct2/results?term=MN-166&Search=&displayxml=true&pg=1,MN-166,0.281,0,957,0.00,0.26
+05-08-2017,16:28:59,KeywordSearchEnd,MN-166,MN-166
+05-08-2017,16:28:59,KeywordSearchStart,MOR103,MOR103
+05-08-2017,16:28:59,Request,https://clinicaltrials.gov/ct2/results?term=MOR103&Search=&displayxml=true&pg=1,MOR103,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:59,KeywordSearchEnd,MOR103,MOR103
+05-08-2017,16:28:59,KeywordSearchStart,MyeloXen,MyeloXen
+05-08-2017,16:28:59,Request,https://clinicaltrials.gov/ct2/results?term=MyeloXen&Search=&displayxml=true&pg=1,MyeloXen,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:59,KeywordSearchEnd,MyeloXen,MyeloXen
+05-08-2017,16:28:59,KeywordSearchStart,Natalizumab,Natalizumab
+05-08-2017,16:28:59,Request,https://clinicaltrials.gov/ct2/results?term=Natalizumab&Search=&displayxml=true&pg=1,Natalizumab,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:59,KeywordSearchEnd,Natalizumab,Natalizumab
+05-08-2017,16:28:59,KeywordSearchStart,Nerventra,Nerventra
+05-08-2017,16:28:59,Request,https://clinicaltrials.gov/ct2/results?term=Nerventra&Search=&displayxml=true&pg=1,Nerventra,0.109,0,2467,0.00,0.26
+05-08-2017,16:28:59,KeywordSearchEnd,Nerventra,Nerventra
+05-08-2017,16:28:59,KeywordSearchStart,NeuroVax,NeuroVax
+05-08-2017,16:28:59,Request,https://clinicaltrials.gov/ct2/results?term=NeuroVax&Search=&displayxml=true&pg=1,NeuroVax,0.11,0,2445,0.00,0.26
+05-08-2017,16:28:59,KeywordSearchEnd,NeuroVax,NeuroVax
+05-08-2017,16:28:59,KeywordSearchStart,Novantrone,Novantrone
+05-08-2017,16:29:00,Request,https://clinicaltrials.gov/ct2/results?term=Novantrone&Search=&displayxml=true&pg=1,Novantrone,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:00,KeywordSearchEnd,Novantrone,Novantrone
+05-08-2017,16:29:00,KeywordSearchStart,NT-KO-003,NT-KO-003
+05-08-2017,16:29:00,Request,https://clinicaltrials.gov/ct2/results?term=NT-KO-003&Search=&displayxml=true&pg=1,NT-KO-003,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:00,KeywordSearchEnd,NT-KO-003,NT-KO-003
+05-08-2017,16:29:00,KeywordSearchStart,Ocrelizumab,Ocrelizumab
+05-08-2017,16:29:00,Request,https://clinicaltrials.gov/ct2/results?term=Ocrelizumab&Search=&displayxml=true&pg=1,Ocrelizumab,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:00,KeywordSearchEnd,Ocrelizumab,Ocrelizumab
+05-08-2017,16:29:00,KeywordSearchStart,Ocrevus,Ocrevus
+05-08-2017,16:29:00,Request,https://clinicaltrials.gov/ct2/results?term=Ocrevus&Search=&displayxml=true&pg=1,Ocrevus,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:00,KeywordSearchEnd,Ocrevus,Ocrevus
+05-08-2017,16:29:00,KeywordSearchStart,Ofatumumab,Ofatumumab
+05-08-2017,16:29:00,Request,https://clinicaltrials.gov/ct2/results?term=Ofatumumab&Search=&displayxml=true&pg=1,Ofatumumab,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:00,KeywordSearchEnd,Ofatumumab,Ofatumumab
+05-08-2017,16:29:00,KeywordSearchStart,Ozanimod,Ozanimod
+05-08-2017,16:29:00,Request,https://clinicaltrials.gov/ct2/results?term=Ozanimod&Search=&displayxml=true&pg=1,Ozanimod,0.141,0,1907,0.00,0.26
+05-08-2017,16:29:00,KeywordSearchEnd,Ozanimod,Ozanimod
+05-08-2017,16:29:00,KeywordSearchStart,Plegridy,Plegridy
+05-08-2017,16:29:00,Request,https://clinicaltrials.gov/ct2/results?term=Plegridy&Search=&displayxml=true&pg=1,Plegridy,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:00,KeywordSearchEnd,Plegridy,Plegridy
+05-08-2017,16:29:00,KeywordSearchStart,Ponesimod,Ponesimod
+05-08-2017,16:29:00,Request,https://clinicaltrials.gov/ct2/results?term=Ponesimod&Search=&displayxml=true&pg=1,Ponesimod,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:00,KeywordSearchEnd,Ponesimod,Ponesimod
+05-08-2017,16:29:00,KeywordSearchStart,Rebif,Rebif
+05-08-2017,16:29:00,Request,https://clinicaltrials.gov/ct2/results?term=Rebif&Search=&displayxml=true&pg=1,Rebif,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:00,KeywordSearchEnd,Rebif,Rebif
+05-08-2017,16:29:00,KeywordSearchStart,RHB-104,RHB-104
+05-08-2017,16:29:01,Request,https://clinicaltrials.gov/ct2/results?term=RHB-104&Search=&displayxml=true&pg=1,RHB-104,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:01,KeywordSearchEnd,RHB-104,RHB-104
+05-08-2017,16:29:01,KeywordSearchStart,Siponimod,Siponimod
+05-08-2017,16:29:01,Request,https://clinicaltrials.gov/ct2/results?term=Siponimod&Search=&displayxml=true&pg=1,Siponimod,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:01,KeywordSearchEnd,Siponimod,Siponimod
+05-08-2017,16:29:01,KeywordSearchStart,Tcelna,Tcelna
+05-08-2017,16:29:01,Request,https://clinicaltrials.gov/ct2/results?term=Tcelna&Search=&displayxml=true&pg=1,Tcelna,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:01,KeywordSearchEnd,Tcelna,Tcelna
+05-08-2017,16:29:01,KeywordSearchStart,Tecfidera,Tecfidera
+05-08-2017,16:29:01,Request,https://clinicaltrials.gov/ct2/results?term=Tecfidera&Search=&displayxml=true&pg=1,Tecfidera,0.157,0,1713,0.00,0.26
+05-08-2017,16:29:01,KeywordSearchEnd,Tecfidera,Tecfidera
+05-08-2017,16:29:01,KeywordSearchStart,teriflunomide,teriflunomide
+05-08-2017,16:29:01,Request,https://clinicaltrials.gov/ct2/results?term=teriflunomide&Search=&displayxml=true&pg=1,teriflunomide,0.14,0,1921,0.00,0.26
+05-08-2017,16:29:01,KeywordSearchEnd,teriflunomide,teriflunomide
+05-08-2017,16:29:01,KeywordSearchStart,TG-1101,TG-1101
+05-08-2017,16:29:01,Request,https://clinicaltrials.gov/ct2/results?term=TG-1101&Search=&displayxml=true&pg=1,TG-1101,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:01,KeywordSearchEnd,TG-1101,TG-1101
+05-08-2017,16:29:01,KeywordSearchStart,Trimesta,Trimesta
+05-08-2017,16:29:01,Request,https://clinicaltrials.gov/ct2/results?term=Trimesta&Search=&displayxml=true&pg=1,Trimesta,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:01,KeywordSearchEnd,Trimesta,Trimesta
+05-08-2017,16:29:01,KeywordSearchStart,Tysabri,Tysabri
+05-08-2017,16:29:01,Request,https://clinicaltrials.gov/ct2/results?term=Tysabri&Search=&displayxml=true&pg=1,Tysabri,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:01,KeywordSearchEnd,Tysabri,Tysabri
+05-08-2017,16:29:01,KeywordSearchStart,Ublituximab,Ublituximab
+05-08-2017,16:29:02,Request,https://clinicaltrials.gov/ct2/results?term=Ublituximab&Search=&displayxml=true&pg=1,Ublituximab,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:02,KeywordSearchEnd,Ublituximab,Ublituximab
+05-08-2017,16:29:02,KeywordSearchStart,Vatelizumab,Vatelizumab
+05-08-2017,16:29:02,Request,https://clinicaltrials.gov/ct2/results?term=Vatelizumab&Search=&displayxml=true&pg=1,Vatelizumab,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:02,KeywordSearchEnd,Vatelizumab,Vatelizumab
+05-08-2017,16:29:02,KeywordSearchStart,VX-15,VX-15
+05-08-2017,16:29:02,Request,https://clinicaltrials.gov/ct2/results?term=VX-15&Search=&displayxml=true&pg=1,VX-15,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:02,KeywordSearchEnd,VX-15,VX-15
+05-08-2017,16:29:02,KeywordSearchStart,"2503, Vaccinex","2503, Vaccinex"
+05-08-2017,16:29:02,Request,https://clinicaltrials.gov/ct2/results?term=2503%2C+Vaccinex&Search=&displayxml=true&pg=1,"2503, Vaccinex",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:02,KeywordSearchEnd,"2503, Vaccinex","2503, Vaccinex"
+05-08-2017,16:29:02,KeywordSearchStart,XP23829,XP23829
+05-08-2017,16:29:02,Request,https://clinicaltrials.gov/ct2/results?term=XP23829&Search=&displayxml=true&pg=1,XP23829,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:02,KeywordSearchEnd,XP23829,XP23829
+05-08-2017,16:29:02,KeywordSearchStart,Zinbryta,Zinbryta
+05-08-2017,16:29:02,Request,https://clinicaltrials.gov/ct2/results?term=Zinbryta&Search=&displayxml=true&pg=1,Zinbryta,0.281,0,957,0.00,0.26
+05-08-2017,16:29:02,KeywordSearchEnd,Zinbryta,Zinbryta
+05-08-2017,16:29:02,KeywordSearchStart,"Adalimumab Biosimilar","Adalimumab Biosimilar"
+05-08-2017,16:29:03,Request,https://clinicaltrials.gov/ct2/results?term=Adalimumab+Biosimilar&Search=&displayxml=true&pg=1,"Adalimumab Biosimilar",0.329,0,817,0.00,0.26
+05-08-2017,16:29:03,KeywordSearchEnd,"Adalimumab Biosimilar","Adalimumab Biosimilar"
+05-08-2017,16:29:03,KeywordSearchStart,"Infliximab biosimilar","Infliximab biosimilar"
+05-08-2017,16:29:03,Request,https://clinicaltrials.gov/ct2/results?term=Infliximab+biosimilar&Search=&displayxml=true&pg=1,"Infliximab biosimilar",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:03,KeywordSearchEnd,"Infliximab biosimilar","Infliximab biosimilar"
+05-08-2017,16:29:03,KeywordSearchStart,"etanercept biosimilar","etanercept biosimilar"
+05-08-2017,16:29:03,Request,https://clinicaltrials.gov/ct2/results?term=etanercept+biosimilar&Search=&displayxml=true&pg=1,"etanercept biosimilar",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:03,KeywordSearchEnd,"etanercept biosimilar","etanercept biosimilar"
+05-08-2017,16:29:03,KeywordSearchStart,R-TPR-021,R-TPR-021
+05-08-2017,16:29:03,Request,https://clinicaltrials.gov/ct2/results?term=R-TPR-021&Search=&displayxml=true&pg=1,R-TPR-021,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:03,KeywordSearchEnd,R-TPR-021,R-TPR-021
+05-08-2017,16:29:03,KeywordSearchStart,ABP501,ABP501
+05-08-2017,16:29:03,Request,https://clinicaltrials.gov/ct2/results?term=ABP501&Search=&displayxml=true&pg=1,ABP501,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:03,KeywordSearchEnd,ABP501,ABP501
+05-08-2017,16:29:03,KeywordSearchStart,SB5,SB5
+05-08-2017,16:29:03,Request,https://clinicaltrials.gov/ct2/results?term=SB5&Search=&displayxml=true&pg=1,SB5,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:03,KeywordSearchEnd,SB5,SB5
+05-08-2017,16:29:03,KeywordSearchStart,GP2017,GP2017
+05-08-2017,16:29:03,Request,https://clinicaltrials.gov/ct2/results?term=GP2017&Search=&displayxml=true&pg=1,GP2017,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:03,KeywordSearchEnd,GP2017,GP2017
+05-08-2017,16:29:03,KeywordSearchStart,BI695501,BI695501
+05-08-2017,16:29:03,Request,https://clinicaltrials.gov/ct2/results?term=BI695501&Search=&displayxml=true&pg=1,BI695501,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:03,KeywordSearchEnd,BI695501,BI695501
+05-08-2017,16:29:03,KeywordSearchStart,BI-695501,BI-695501
+05-08-2017,16:29:04,Request,https://clinicaltrials.gov/ct2/results?term=BI-695501&Search=&displayxml=true&pg=1,BI-695501,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:04,KeywordSearchEnd,BI-695501,BI-695501
+05-08-2017,16:29:04,KeywordSearchStart,FKB327,FKB327
+05-08-2017,16:29:04,Request,https://clinicaltrials.gov/ct2/results?term=FKB327&Search=&displayxml=true&pg=1,FKB327,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:04,KeywordSearchEnd,FKB327,FKB327
+05-08-2017,16:29:04,KeywordSearchStart,MYL-1401A,MYL-1401A
+05-08-2017,16:29:04,Request,https://clinicaltrials.gov/ct2/results?term=MYL-1401A&Search=&displayxml=true&pg=1,MYL-1401A,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:04,KeywordSearchEnd,MYL-1401A,MYL-1401A
+05-08-2017,16:29:04,KeywordSearchStart,M923,M923
+05-08-2017,16:29:04,Request,https://clinicaltrials.gov/ct2/results?term=M923&Search=&displayxml=true&pg=1,M923,0.281,0,957,0.00,0.26
+05-08-2017,16:29:04,KeywordSearchEnd,M923,M923
+05-08-2017,16:29:04,KeywordSearchStart,CHS-1420,CHS-1420
+05-08-2017,16:29:04,Request,https://clinicaltrials.gov/ct2/results?term=CHS-1420&Search=&displayxml=true&pg=1,CHS-1420,0.313,0,859,0.00,0.26
+05-08-2017,16:29:04,KeywordSearchEnd,CHS-1420,CHS-1420
+05-08-2017,16:29:04,KeywordSearchStart,ONS-3010,ONS-3010
+05-08-2017,16:29:05,Request,https://clinicaltrials.gov/ct2/results?term=ONS-3010&Search=&displayxml=true&pg=1,ONS-3010,0.141,0,1907,0.00,0.26
+05-08-2017,16:29:05,KeywordSearchEnd,ONS-3010,ONS-3010
+05-08-2017,16:29:05,KeywordSearchStart,MSD11022,MSD11022
+05-08-2017,16:29:05,Request,https://clinicaltrials.gov/ct2/results?term=MSD11022&Search=&displayxml=true&pg=1,MSD11022,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:05,KeywordSearchEnd,MSD11022,MSD11022
+05-08-2017,16:29:05,KeywordSearchStart,PF-06410293,PF-06410293
+05-08-2017,16:29:05,Request,https://clinicaltrials.gov/ct2/results?term=PF-06410293&Search=&displayxml=true&pg=1,PF-06410293,0.141,0,1907,0.00,0.26
+05-08-2017,16:29:05,KeywordSearchEnd,PF-06410293,PF-06410293
+05-08-2017,16:29:05,KeywordSearchStart,PF06410293,PF06410293
+05-08-2017,16:29:05,Request,https://clinicaltrials.gov/ct2/results?term=PF06410293&Search=&displayxml=true&pg=1,PF06410293,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:05,KeywordSearchEnd,PF06410293,PF06410293
+05-08-2017,16:29:05,KeywordSearchStart,BCD-057,BCD-057
+05-08-2017,16:29:05,Request,https://clinicaltrials.gov/ct2/results?term=BCD-057&Search=&displayxml=true&pg=1,BCD-057,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:05,KeywordSearchEnd,BCD-057,BCD-057
+05-08-2017,16:29:05,KeywordSearchStart," LBAL "," LBAL "
+05-08-2017,16:29:05,Request,https://clinicaltrials.gov/ct2/results?term=LBAL&Search=&displayxml=true&pg=1," LBAL ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:05,KeywordSearchEnd," LBAL "," LBAL "
+05-08-2017,16:29:05,KeywordSearchStart,SB4,SB4
+05-08-2017,16:29:05,Request,https://clinicaltrials.gov/ct2/results?term=SB4&Search=&displayxml=true&pg=1,SB4,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:05,KeywordSearchEnd,SB4,SB4
+05-08-2017,16:29:05,KeywordSearchStart,SB2,SB2
+05-08-2017,16:29:05,Request,https://clinicaltrials.gov/ct2/results?term=SB2&Search=&displayxml=true&pg=1,SB2,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:05,KeywordSearchEnd,SB2,SB2
+05-08-2017,16:29:05,KeywordSearchStart,CT-P13,CT-P13
+05-08-2017,16:29:06,Request,https://clinicaltrials.gov/ct2/results?term=CT-P13&Search=&displayxml=true&pg=1,CT-P13,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:06,KeywordSearchEnd,CT-P13,CT-P13
+05-08-2017,16:29:06,KeywordSearchStart,Infimab,Infimab
+05-08-2017,16:29:06,Request,https://clinicaltrials.gov/ct2/results?term=Infimab&Search=&displayxml=true&pg=1,Infimab,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:06,KeywordSearchEnd,Infimab,Infimab
+05-08-2017,16:29:06,KeywordSearchStart,BOW015,BOW015
+05-08-2017,16:29:06,Request,https://clinicaltrials.gov/ct2/results?term=BOW015&Search=&displayxml=true&pg=1,BOW015,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:06,KeywordSearchEnd,BOW015,BOW015
+05-08-2017,16:29:06,KeywordSearchStart,GS071,GS071
+05-08-2017,16:29:06,Request,https://clinicaltrials.gov/ct2/results?term=GS071&Search=&displayxml=true&pg=1,GS071,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:06,KeywordSearchEnd,GS071,GS071
+05-08-2017,16:29:06,KeywordSearchStart,PF06438179,PF06438179
+05-08-2017,16:29:06,Request,https://clinicaltrials.gov/ct2/results?term=PF06438179&Search=&displayxml=true&pg=1,PF06438179,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:06,KeywordSearchEnd,PF06438179,PF06438179
+05-08-2017,16:29:06,KeywordSearchStart,PF-06438179,PF-06438179
+05-08-2017,16:29:06,Request,https://clinicaltrials.gov/ct2/results?term=PF-06438179&Search=&displayxml=true&pg=1,PF-06438179,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:06,KeywordSearchEnd,PF-06438179,PF-06438179
+05-08-2017,16:29:06,KeywordSearchStart,HD203,HD203
+05-08-2017,16:29:06,Request,https://clinicaltrials.gov/ct2/results?term=HD203&Search=&displayxml=true&pg=1,HD203,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:06,KeywordSearchEnd,HD203,HD203
+05-08-2017,16:29:06,KeywordSearchStart," ALK "," ALK "
+05-08-2017,16:29:06,Request,https://clinicaltrials.gov/ct2/results?term=ALK&Search=&displayxml=true&pg=1," ALK ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:06,KeywordSearchEnd," ALK "," ALK "
+05-08-2017,16:29:06,KeywordSearchStart,"Abbott Diagnostics","Abbott Diagnostics"
+05-08-2017,16:29:06,Request,https://clinicaltrials.gov/ct2/results?term=Abbott+Diagnostics&Search=&displayxml=true&pg=1,"Abbott Diagnostics",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:06,KeywordSearchEnd,"Abbott Diagnostics","Abbott Diagnostics"
+05-08-2017,16:29:06,KeywordSearchStart,"Abbott Molecular","Abbott Molecular"
+05-08-2017,16:29:07,Request,https://clinicaltrials.gov/ct2/results?term=Abbott+Molecular&Search=&displayxml=true&pg=1,"Abbott Molecular",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:07,KeywordSearchEnd,"Abbott Molecular","Abbott Molecular"
+05-08-2017,16:29:07,KeywordSearchStart,"anaplastic lymphoma kinase","anaplastic lymphoma kinase"
+05-08-2017,16:29:07,Request,https://clinicaltrials.gov/ct2/results?term=anaplastic+lymphoma+kinase&Search=&displayxml=true&pg=1,"anaplastic lymphoma kinase",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:07,KeywordSearchEnd,"anaplastic lymphoma kinase","anaplastic lymphoma kinase"
+05-08-2017,16:29:07,KeywordSearchStart,"Ataxia telangiectasia mutated","Ataxia telangiectasia mutated"
+05-08-2017,16:29:07,Request,https://clinicaltrials.gov/ct2/results?term=Ataxia+telangiectasia+mutated&Search=&displayxml=true&pg=1,"Ataxia telangiectasia mutated",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:07,KeywordSearchEnd,"Ataxia telangiectasia mutated","Ataxia telangiectasia mutated"
+05-08-2017,16:29:07,KeywordSearchStart,"Ataxia-telangiectasia mutated","Ataxia-telangiectasia mutated"
+05-08-2017,16:29:07,Request,https://clinicaltrials.gov/ct2/results?term=Ataxia-telangiectasia+mutated&Search=&displayxml=true&pg=1,"Ataxia-telangiectasia mutated",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:07,KeywordSearchEnd,"Ataxia-telangiectasia mutated","Ataxia-telangiectasia mutated"
+05-08-2017,16:29:07,KeywordSearchStart," ATM "," ATM "
+05-08-2017,16:29:07,Request,https://clinicaltrials.gov/ct2/results?term=ATM&Search=&displayxml=true&pg=1," ATM ",0.094,0,2861,0.00,0.26
+05-08-2017,16:29:07,KeywordSearchEnd," ATM "," ATM "
+05-08-2017,16:29:07,KeywordSearchStart,"BCR Abl","BCR Abl"
+05-08-2017,16:29:07,Request,https://clinicaltrials.gov/ct2/results?term=BCR+Abl&Search=&displayxml=true&pg=1,"BCR Abl",0.094,0,2861,0.00,0.26
+05-08-2017,16:29:07,KeywordSearchEnd,"BCR Abl","BCR Abl"
+05-08-2017,16:29:07,KeywordSearchStart,BCRAbl,BCRAbl
+05-08-2017,16:29:07,Request,https://clinicaltrials.gov/ct2/results?term=BCRAbl&Search=&displayxml=true&pg=1,BCRAbl,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:07,KeywordSearchEnd,BCRAbl,BCRAbl
+05-08-2017,16:29:07,KeywordSearchStart,BCR-Abl,BCR-Abl
+05-08-2017,16:29:07,Request,https://clinicaltrials.gov/ct2/results?term=BCR-Abl&Search=&displayxml=true&pg=1,BCR-Abl,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:07,KeywordSearchEnd,BCR-Abl,BCR-Abl
+05-08-2017,16:29:07,KeywordSearchStart,Beaming,Beaming
+05-08-2017,16:29:08,Request,https://clinicaltrials.gov/ct2/results?term=Beaming&Search=&displayxml=true&pg=1,Beaming,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:08,KeywordSearchEnd,Beaming,Beaming
+05-08-2017,16:29:08,KeywordSearchStart," BRAF "," BRAF "
+05-08-2017,16:29:08,Request,https://clinicaltrials.gov/ct2/results?term=BRAF&Search=&displayxml=true&pg=1," BRAF ",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:08,KeywordSearchEnd," BRAF "," BRAF "
+05-08-2017,16:29:08,KeywordSearchStart,B-RAF,B-RAF
+05-08-2017,16:29:08,Request,https://clinicaltrials.gov/ct2/results?term=B-RAF&Search=&displayxml=true&pg=1,B-RAF,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:08,KeywordSearchEnd,B-RAF,B-RAF
+05-08-2017,16:29:08,KeywordSearchStart,BRAF1,BRAF1
+05-08-2017,16:29:08,Request,https://clinicaltrials.gov/ct2/results?term=BRAF1&Search=&displayxml=true&pg=1,BRAF1,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:08,KeywordSearchEnd,BRAF1,BRAF1
+05-08-2017,16:29:08,KeywordSearchStart,BRAF-1,BRAF-1
+05-08-2017,16:29:08,Request,https://clinicaltrials.gov/ct2/results?term=BRAF-1&Search=&displayxml=true&pg=1,BRAF-1,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:08,KeywordSearchEnd,BRAF-1,BRAF-1
+05-08-2017,16:29:08,KeywordSearchStart,BRCA1,BRCA1
+05-08-2017,16:29:08,Request,https://clinicaltrials.gov/ct2/results?term=BRCA1&Search=&displayxml=true&pg=1,BRCA1,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:08,KeywordSearchEnd,BRCA1,BRCA1
+05-08-2017,16:29:08,KeywordSearchStart,BRCA-1,BRCA-1
+05-08-2017,16:29:08,Request,https://clinicaltrials.gov/ct2/results?term=BRCA-1&Search=&displayxml=true&pg=1,BRCA-1,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:08,KeywordSearchEnd,BRCA-1,BRCA-1
+05-08-2017,16:29:08,KeywordSearchStart,BRCA2,BRCA2
+05-08-2017,16:29:08,Request,https://clinicaltrials.gov/ct2/results?term=BRCA2&Search=&displayxml=true&pg=1,BRCA2,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:08,KeywordSearchEnd,BRCA2,BRCA2
+05-08-2017,16:29:08,KeywordSearchStart,BRCA-2,BRCA-2
+05-08-2017,16:29:08,Request,https://clinicaltrials.gov/ct2/results?term=BRCA-2&Search=&displayxml=true&pg=1,BRCA-2,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:08,KeywordSearchEnd,BRCA-2,BRCA-2
+05-08-2017,16:29:08,KeywordSearchStart,"Breast cancer","Breast cancer"
+05-08-2017,16:29:09,Request,https://clinicaltrials.gov/ct2/results?term=Breast+cancer&Search=&displayxml=true&pg=1,"Breast cancer",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:09,KeywordSearchEnd,"Breast cancer","Breast cancer"
+05-08-2017,16:29:09,KeywordSearchStart,"Breast cancer 1","Breast cancer 1"
+05-08-2017,16:29:09,Request,https://clinicaltrials.gov/ct2/results?term=Breast+cancer+1&Search=&displayxml=true&pg=1,"Breast cancer 1",0.281,0,957,0.00,0.26
+05-08-2017,16:29:09,KeywordSearchEnd,"Breast cancer 1","Breast cancer 1"
+05-08-2017,16:29:09,KeywordSearchStart,"Breast cancer 2","Breast cancer 2"
+05-08-2017,16:29:09,Request,https://clinicaltrials.gov/ct2/results?term=Breast+cancer+2&Search=&displayxml=true&pg=1,"Breast cancer 2",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:09,KeywordSearchEnd,"Breast cancer 2","Breast cancer 2"
+05-08-2017,16:29:09,KeywordSearchStart,CD152,CD152
+05-08-2017,16:29:09,Request,https://clinicaltrials.gov/ct2/results?term=CD152&Search=&displayxml=true&pg=1,CD152,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:09,KeywordSearchEnd,CD152,CD152
+05-08-2017,16:29:09,KeywordSearchStart,CD-152,CD-152
+05-08-2017,16:29:09,Request,https://clinicaltrials.gov/ct2/results?term=CD-152&Search=&displayxml=true&pg=1,CD-152,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:09,KeywordSearchEnd,CD-152,CD-152
+05-08-2017,16:29:09,KeywordSearchStart,CD8,CD8
+05-08-2017,16:29:09,Request,https://clinicaltrials.gov/ct2/results?term=CD8&Search=&displayxml=true&pg=1,CD8,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:09,KeywordSearchEnd,CD8,CD8
+05-08-2017,16:29:09,KeywordSearchStart,CD-8,CD-8
+05-08-2017,16:29:09,Request,https://clinicaltrials.gov/ct2/results?term=CD-8&Search=&displayxml=true&pg=1,CD-8,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:09,KeywordSearchEnd,CD-8,CD-8
+05-08-2017,16:29:09,KeywordSearchStart,"Chiron Diagnostics","Chiron Diagnostics"
+05-08-2017,16:29:10,Request,https://clinicaltrials.gov/ct2/results?term=Chiron+Diagnostics&Search=&displayxml=true&pg=1,"Chiron Diagnostics",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:10,KeywordSearchEnd,"Chiron Diagnostics","Chiron Diagnostics"
+05-08-2017,16:29:10,KeywordSearchStart,"Circulating tumor cells","Circulating tumor cells"
+05-08-2017,16:29:10,Request,https://clinicaltrials.gov/ct2/results?term=Circulating+tumor+cells&Search=&displayxml=true&pg=1,"Circulating tumor cells",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:10,KeywordSearchEnd,"Circulating tumor cells","Circulating tumor cells"
+05-08-2017,16:29:10,KeywordSearchStart,"Circulating-tumor cells","Circulating-tumor cells"
+05-08-2017,16:29:10,Request,https://clinicaltrials.gov/ct2/results?term=Circulating-tumor+cells&Search=&displayxml=true&pg=1,"Circulating-tumor cells",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:10,KeywordSearchEnd,"Circulating-tumor cells","Circulating-tumor cells"
+05-08-2017,16:29:10,KeywordSearchStart,"Color diagnostics","Color diagnostics"
+05-08-2017,16:29:10,Request,https://clinicaltrials.gov/ct2/results?term=Color+diagnostics&Search=&displayxml=true&pg=1,"Color diagnostics",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:10,KeywordSearchEnd,"Color diagnostics","Color diagnostics"
+05-08-2017,16:29:10,KeywordSearchStart,"Color Genomics","Color Genomics"
+05-08-2017,16:29:10,Request,https://clinicaltrials.gov/ct2/results?term=Color+Genomics&Search=&displayxml=true&pg=1,"Color Genomics",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:10,KeywordSearchEnd,"Color Genomics","Color Genomics"
+05-08-2017,16:29:10,KeywordSearchStart,Createch,Createch
+05-08-2017,16:29:10,Request,https://clinicaltrials.gov/ct2/results?term=Createch&Search=&displayxml=true&pg=1,Createch,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:10,KeywordSearchEnd,Createch,Createch
+05-08-2017,16:29:10,KeywordSearchStart," CTC "," CTC "
+05-08-2017,16:29:10,Request,https://clinicaltrials.gov/ct2/results?term=CTC&Search=&displayxml=true&pg=1," CTC ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:10,KeywordSearchEnd," CTC "," CTC "
+05-08-2017,16:29:10,KeywordSearchStart,CTLA4,CTLA4
+05-08-2017,16:29:10,Request,https://clinicaltrials.gov/ct2/results?term=CTLA4&Search=&displayxml=true&pg=1,CTLA4,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:10,KeywordSearchEnd,CTLA4,CTLA4
+05-08-2017,16:29:10,KeywordSearchStart,CTLA-4,CTLA-4
+05-08-2017,16:29:10,Request,https://clinicaltrials.gov/ct2/results?term=CTLA-4&Search=&displayxml=true&pg=1,CTLA-4,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:10,KeywordSearchEnd,CTLA-4,CTLA-4
+05-08-2017,16:29:10,KeywordSearchStart,"Dako Agilient","Dako Agilient"
+05-08-2017,16:29:11,Request,https://clinicaltrials.gov/ct2/results?term=Dako+Agilient&Search=&displayxml=true&pg=1,"Dako Agilient",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:11,KeywordSearchEnd,"Dako Agilient","Dako Agilient"
+05-08-2017,16:29:11,KeywordSearchStart,"dd PCR","dd PCR"
+05-08-2017,16:29:11,Request,https://clinicaltrials.gov/ct2/results?term=dd+PCR&Search=&displayxml=true&pg=1,"dd PCR",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:11,KeywordSearchEnd,"dd PCR","dd PCR"
+05-08-2017,16:29:11,KeywordSearchStart,ddPCR,ddPCR
+05-08-2017,16:29:11,Request,https://clinicaltrials.gov/ct2/results?term=ddPCR&Search=&displayxml=true&pg=1,ddPCR,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:11,KeywordSearchEnd,ddPCR,ddPCR
+05-08-2017,16:29:11,KeywordSearchStart,"droplet digital PCR","droplet digital PCR"
+05-08-2017,16:29:11,Request,https://clinicaltrials.gov/ct2/results?term=droplet+digital+PCR&Search=&displayxml=true&pg=1,"droplet digital PCR",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:11,KeywordSearchEnd,"droplet digital PCR","droplet digital PCR"
+05-08-2017,16:29:11,KeywordSearchStart," EGFR "," EGFR "
+05-08-2017,16:29:11,Request,https://clinicaltrials.gov/ct2/results?term=EGFR&Search=&displayxml=true&pg=1," EGFR ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:11,KeywordSearchEnd," EGFR "," EGFR "
+05-08-2017,16:29:11,KeywordSearchStart,"EGFR T790M mutation","EGFR T790M mutation"
+05-08-2017,16:29:11,Request,https://clinicaltrials.gov/ct2/results?term=EGFR+T790M+mutation&Search=&displayxml=true&pg=1,"EGFR T790M mutation",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:11,KeywordSearchEnd,"EGFR T790M mutation","EGFR T790M mutation"
+05-08-2017,16:29:11,KeywordSearchStart,EGFRm,EGFRm
+05-08-2017,16:29:11,Request,https://clinicaltrials.gov/ct2/results?term=EGFRm&Search=&displayxml=true&pg=1,EGFRm,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:11,KeywordSearchEnd,EGFRm,EGFRm
+05-08-2017,16:29:11,KeywordSearchStart,"Epidermal growth factor receptor","Epidermal growth factor receptor"
+05-08-2017,16:29:11,Request,https://clinicaltrials.gov/ct2/results?term=Epidermal+growth+factor+receptor&Search=&displayxml=true&pg=1,"Epidermal growth factor receptor",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:11,KeywordSearchEnd,"Epidermal growth factor receptor","Epidermal growth factor receptor"
+05-08-2017,16:29:11,KeywordSearchStart,"Epidermal growth factor receptor mutated","Epidermal growth factor receptor mutated"
+05-08-2017,16:29:12,Request,https://clinicaltrials.gov/ct2/results?term=Epidermal+growth+factor+receptor+mutated&Search=&displayxml=true&pg=1,"Epidermal growth factor receptor mutated",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:12,KeywordSearchEnd,"Epidermal growth factor receptor mutated","Epidermal growth factor receptor mutated"
+05-08-2017,16:29:12,KeywordSearchStart," FISH "," FISH "
+05-08-2017,16:29:12,Request,https://clinicaltrials.gov/ct2/results?term=FISH&Search=&displayxml=true&pg=1," FISH ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:12,KeywordSearchEnd," FISH "," FISH "
+05-08-2017,16:29:12,KeywordSearchStart,"Fluorescence in situ hybridization","Fluorescence in situ hybridization"
+05-08-2017,16:29:12,Request,https://clinicaltrials.gov/ct2/results?term=Fluorescence+in+situ+hybridization&Search=&displayxml=true&pg=1,"Fluorescence in situ hybridization",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:12,KeywordSearchEnd,"Fluorescence in situ hybridization","Fluorescence in situ hybridization"
+05-08-2017,16:29:12,KeywordSearchStart,"Fluorescence insitu hybridization","Fluorescence insitu hybridization"
+05-08-2017,16:29:12,Request,https://clinicaltrials.gov/ct2/results?term=Fluorescence+insitu+hybridization&Search=&displayxml=true&pg=1,"Fluorescence insitu hybridization",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:12,KeywordSearchEnd,"Fluorescence insitu hybridization","Fluorescence insitu hybridization"
+05-08-2017,16:29:12,KeywordSearchStart,"Foundation Medicine","Foundation Medicine"
+05-08-2017,16:29:12,Request,https://clinicaltrials.gov/ct2/results?term=Foundation+Medicine&Search=&displayxml=true&pg=1,"Foundation Medicine",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:12,KeywordSearchEnd,"Foundation Medicine","Foundation Medicine"
+05-08-2017,16:29:12,KeywordSearchStart,"Gene expression panel","Gene expression panel"
+05-08-2017,16:29:12,Request,https://clinicaltrials.gov/ct2/results?term=Gene+expression+panel&Search=&displayxml=true&pg=1,"Gene expression panel",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:12,KeywordSearchEnd,"Gene expression panel","Gene expression panel"
+05-08-2017,16:29:12,KeywordSearchStart," Grail "," Grail "
+05-08-2017,16:29:12,Request,https://clinicaltrials.gov/ct2/results?term=Grail&Search=&displayxml=true&pg=1," Grail ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:12,KeywordSearchEnd," Grail "," Grail "
+05-08-2017,16:29:12,KeywordSearchStart,"Guardant Health","Guardant Health"
+05-08-2017,16:29:12,Request,https://clinicaltrials.gov/ct2/results?term=Guardant+Health&Search=&displayxml=true&pg=1,"Guardant Health",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:12,KeywordSearchEnd,"Guardant Health","Guardant Health"
+05-08-2017,16:29:12,KeywordSearchStart,HER2,HER2
+05-08-2017,16:29:12,Request,https://clinicaltrials.gov/ct2/results?term=HER2&Search=&displayxml=true&pg=1,HER2,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:12,KeywordSearchEnd,HER2,HER2
+05-08-2017,16:29:12,KeywordSearchStart,HER-2,HER-2
+05-08-2017,16:29:13,Request,https://clinicaltrials.gov/ct2/results?term=HER-2&Search=&displayxml=true&pg=1,HER-2,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:13,KeywordSearchEnd,HER-2,HER-2
+05-08-2017,16:29:13,KeywordSearchStart,"Homologous recombination deficiency","Homologous recombination deficiency"
+05-08-2017,16:29:13,Request,https://clinicaltrials.gov/ct2/results?term=Homologous+recombination+deficiency&Search=&displayxml=true&pg=1,"Homologous recombination deficiency",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:13,KeywordSearchEnd,"Homologous recombination deficiency","Homologous recombination deficiency"
+05-08-2017,16:29:13,KeywordSearchStart,"Homologous recombination repair","Homologous recombination repair"
+05-08-2017,16:29:13,Request,https://clinicaltrials.gov/ct2/results?term=Homologous+recombination+repair&Search=&displayxml=true&pg=1,"Homologous recombination repair",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:13,KeywordSearchEnd,"Homologous recombination repair","Homologous recombination repair"
+05-08-2017,16:29:13,KeywordSearchStart," HRD "," HRD "
+05-08-2017,16:29:13,Request,https://clinicaltrials.gov/ct2/results?term=HRD&Search=&displayxml=true&pg=1," HRD ",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:13,KeywordSearchEnd," HRD "," HRD "
+05-08-2017,16:29:13,KeywordSearchStart," HRR "," HRR "
+05-08-2017,16:29:13,Request,https://clinicaltrials.gov/ct2/results?term=HRR&Search=&displayxml=true&pg=1," HRR ",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:13,KeywordSearchEnd," HRR "," HRR "
+05-08-2017,16:29:13,KeywordSearchStart,IFN?,IFN?
+05-08-2017,16:29:13,Request,https://clinicaltrials.gov/ct2/results?term=IFN%3F&Search=&displayxml=true&pg=1,IFN?,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:13,KeywordSearchEnd,IFN?,IFN?
+05-08-2017,16:29:13,KeywordSearchStart,IFN-?,IFN-?
+05-08-2017,16:29:13,Request,https://clinicaltrials.gov/ct2/results?term=IFN-%3F&Search=&displayxml=true&pg=1,IFN-?,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:13,KeywordSearchEnd,IFN-?,IFN-?
+05-08-2017,16:29:13,KeywordSearchStart,IFN?,IFN?
+05-08-2017,16:29:13,Request,https://clinicaltrials.gov/ct2/results?term=IFN%3F&Search=&displayxml=true&pg=1,IFN?,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:13,KeywordSearchEnd,IFN?,IFN?
+05-08-2017,16:29:13,KeywordSearchStart,IFN-?,IFN-?
+05-08-2017,16:29:13,Request,https://clinicaltrials.gov/ct2/results?term=IFN-%3F&Search=&displayxml=true&pg=1,IFN-?,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:13,KeywordSearchEnd,IFN-?,IFN-?
+05-08-2017,16:29:13,KeywordSearchStart," IHC "," IHC "
+05-08-2017,16:29:14,Request,https://clinicaltrials.gov/ct2/results?term=IHC&Search=&displayxml=true&pg=1," IHC ",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:14,KeywordSearchEnd," IHC "," IHC "
+05-08-2017,16:29:14,KeywordSearchStart,Illumina,Illumina
+05-08-2017,16:29:14,Request,https://clinicaltrials.gov/ct2/results?term=Illumina&Search=&displayxml=true&pg=1,Illumina,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:14,KeywordSearchEnd,Illumina,Illumina
+05-08-2017,16:29:14,KeywordSearchStart,Immunohistochemistry,Immunohistochemistry
+05-08-2017,16:29:14,Request,https://clinicaltrials.gov/ct2/results?term=Immunohistochemistry&Search=&displayxml=true&pg=1,Immunohistochemistry,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:14,KeywordSearchEnd,Immunohistochemistry,Immunohistochemistry
+05-08-2017,16:29:14,KeywordSearchStart,"In vitro diagnostics","In vitro diagnostics"
+05-08-2017,16:29:14,Request,https://clinicaltrials.gov/ct2/results?term=In+vitro+diagnostics&Search=&displayxml=true&pg=1,"In vitro diagnostics",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:14,KeywordSearchEnd,"In vitro diagnostics","In vitro diagnostics"
+05-08-2017,16:29:14,KeywordSearchStart,"Interferon alpha","Interferon alpha"
+05-08-2017,16:29:14,Request,https://clinicaltrials.gov/ct2/results?term=Interferon+alpha&Search=&displayxml=true&pg=1,"Interferon alpha",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:14,KeywordSearchEnd,"Interferon alpha","Interferon alpha"
+05-08-2017,16:29:14,KeywordSearchStart,"Interferon gamma","Interferon gamma"
+05-08-2017,16:29:14,Request,https://clinicaltrials.gov/ct2/results?term=Interferon+gamma&Search=&displayxml=true&pg=1,"Interferon gamma",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:14,KeywordSearchEnd,"Interferon gamma","Interferon gamma"
+05-08-2017,16:29:14,KeywordSearchStart,Interferon-alpha,Interferon-alpha
+05-08-2017,16:29:14,Request,https://clinicaltrials.gov/ct2/results?term=Interferon-alpha&Search=&displayxml=true&pg=1,Interferon-alpha,0.094,0,2861,0.00,0.26
+05-08-2017,16:29:14,KeywordSearchEnd,Interferon-alpha,Interferon-alpha
+05-08-2017,16:29:14,KeywordSearchStart,Interferon-gamma,Interferon-gamma
+05-08-2017,16:29:14,Request,https://clinicaltrials.gov/ct2/results?term=Interferon-gamma&Search=&displayxml=true&pg=1,Interferon-gamma,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:14,KeywordSearchEnd,Interferon-gamma,Interferon-gamma
+05-08-2017,16:29:14,KeywordSearchStart,"Invitro diagnostics","Invitro diagnostics"
+05-08-2017,16:29:15,Request,https://clinicaltrials.gov/ct2/results?term=Invitro+diagnostics&Search=&displayxml=true&pg=1,"Invitro diagnostics",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:15,KeywordSearchEnd,"Invitro diagnostics","Invitro diagnostics"
+05-08-2017,16:29:15,KeywordSearchStart," VD "," VD "
+05-08-2017,16:29:15,Request,https://clinicaltrials.gov/ct2/results?term=VD&Search=&displayxml=true&pg=1," VD ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:15,KeywordSearchEnd," VD "," VD "
+05-08-2017,16:29:15,KeywordSearchStart," KRAS "," KRAS "
+05-08-2017,16:29:15,Request,https://clinicaltrials.gov/ct2/results?term=KRAS&Search=&displayxml=true&pg=1," KRAS ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:15,KeywordSearchEnd," KRAS "," KRAS "
+05-08-2017,16:29:15,KeywordSearchStart,K-RAS,K-RAS
+05-08-2017,16:29:15,Request,https://clinicaltrials.gov/ct2/results?term=K-RAS&Search=&displayxml=true&pg=1,K-RAS,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:15,KeywordSearchEnd,K-RAS,K-RAS
+05-08-2017,16:29:15,KeywordSearchStart,"Laboratory diagnostic test","Laboratory diagnostic test"
+05-08-2017,16:29:15,Request,https://clinicaltrials.gov/ct2/results?term=Laboratory+diagnostic+test&Search=&displayxml=true&pg=1,"Laboratory diagnostic test",0.14,0,1921,0.00,0.26
+05-08-2017,16:29:15,KeywordSearchEnd,"Laboratory diagnostic test","Laboratory diagnostic test"
+05-08-2017,16:29:15,KeywordSearchStart,"Large-scale state transitions","Large-scale state transitions"
+05-08-2017,16:29:15,Request,https://clinicaltrials.gov/ct2/results?term=Large-scale+state+transitions&Search=&displayxml=true&pg=1,"Large-scale state transitions",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:15,KeywordSearchEnd,"Large-scale state transitions","Large-scale state transitions"
+05-08-2017,16:29:15,KeywordSearchStart," LDT "," LDT "
+05-08-2017,16:29:15,Request,https://clinicaltrials.gov/ct2/results?term=LDT&Search=&displayxml=true&pg=1," LDT ",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:15,KeywordSearchEnd," LDT "," LDT "
+05-08-2017,16:29:15,KeywordSearchStart,"Leica Biosystems","Leica Biosystems"
+05-08-2017,16:29:15,Request,https://clinicaltrials.gov/ct2/results?term=Leica+Biosystems&Search=&displayxml=true&pg=1,"Leica Biosystems",0.14,0,1921,0.00,0.26
+05-08-2017,16:29:15,KeywordSearchEnd,"Leica Biosystems","Leica Biosystems"
+05-08-2017,16:29:15,KeywordSearchStart,"Liquid biopsy","Liquid biopsy"
+05-08-2017,16:29:15,Request,https://clinicaltrials.gov/ct2/results?term=Liquid+biopsy&Search=&displayxml=true&pg=1,"Liquid biopsy",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:15,KeywordSearchEnd,"Liquid biopsy","Liquid biopsy"
+05-08-2017,16:29:15,KeywordSearchStart," LOH "," LOH "
+05-08-2017,16:29:16,Request,https://clinicaltrials.gov/ct2/results?term=LOH&Search=&displayxml=true&pg=1," LOH ",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:16,KeywordSearchEnd," LOH "," LOH "
+05-08-2017,16:29:16,KeywordSearchStart,"Loss of heterozygosity","Loss of heterozygosity"
+05-08-2017,16:29:16,Request,https://clinicaltrials.gov/ct2/results?term=Loss+of+heterozygosity&Search=&displayxml=true&pg=1,"Loss of heterozygosity",0.141,0,1907,0.00,0.26
+05-08-2017,16:29:16,KeywordSearchEnd,"Loss of heterozygosity","Loss of heterozygosity"
+05-08-2017,16:29:16,KeywordSearchStart," LST "," LST "
+05-08-2017,16:29:16,Request,https://clinicaltrials.gov/ct2/results?term=LST&Search=&displayxml=true&pg=1," LST ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:16,KeywordSearchEnd," LST "," LST "
+05-08-2017,16:29:16,KeywordSearchStart,mEGFR,mEGFR
+05-08-2017,16:29:16,Request,https://clinicaltrials.gov/ct2/results?term=mEGFR&Search=&displayxml=true&pg=1,mEGFR,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:16,KeywordSearchEnd,mEGFR,mEGFR
+05-08-2017,16:29:16,KeywordSearchStart,"Mesenchymal-epithelial (re-)transition","Mesenchymal-epithelial (re-)transition"
+05-08-2017,16:29:16,Request,https://clinicaltrials.gov/ct2/results?term=Mesenchymal-epithelial+%28re-%29transition&Search=&displayxml=true&pg=1,"Mesenchymal-epithelial (re-)transition",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:16,KeywordSearchEnd,"Mesenchymal-epithelial (re-)transition","Mesenchymal-epithelial (re-)transition"
+05-08-2017,16:29:16,KeywordSearchStart,"Mesenchymal-epithelial transition","Mesenchymal-epithelial transition"
+05-08-2017,16:29:16,Request,https://clinicaltrials.gov/ct2/results?term=Mesenchymal-epithelial+transition&Search=&displayxml=true&pg=1,"Mesenchymal-epithelial transition",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:16,KeywordSearchEnd,"Mesenchymal-epithelial transition","Mesenchymal-epithelial transition"
+05-08-2017,16:29:16,KeywordSearchStart," MET "," MET "
+05-08-2017,16:29:16,Request,https://clinicaltrials.gov/ct2/results?term=MET&Search=&displayxml=true&pg=1," MET ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:16,KeywordSearchEnd," MET "," MET "
+05-08-2017,16:29:16,KeywordSearchStart,"Microsatellite instability","Microsatellite instability"
+05-08-2017,16:29:16,Request,https://clinicaltrials.gov/ct2/results?term=Microsatellite+instability&Search=&displayxml=true&pg=1,"Microsatellite instability",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:16,KeywordSearchEnd,"Microsatellite instability","Microsatellite instability"
+05-08-2017,16:29:16,KeywordSearchStart,"Molecular diagnostics","Molecular diagnostics"
+05-08-2017,16:29:17,Request,https://clinicaltrials.gov/ct2/results?term=Molecular+diagnostics&Search=&displayxml=true&pg=1,"Molecular diagnostics",0.14,0,1921,0.00,0.26
+05-08-2017,16:29:17,KeywordSearchEnd,"Molecular diagnostics","Molecular diagnostics"
+05-08-2017,16:29:17,KeywordSearchStart,"Molecular profiling","Molecular profiling"
+05-08-2017,16:29:17,Request,https://clinicaltrials.gov/ct2/results?term=Molecular+profiling&Search=&displayxml=true&pg=1,"Molecular profiling",0.141,0,1907,0.00,0.26
+05-08-2017,16:29:17,KeywordSearchEnd,"Molecular profiling","Molecular profiling"
+05-08-2017,16:29:17,KeywordSearchStart," MSI "," MSI "
+05-08-2017,16:29:17,Request,https://clinicaltrials.gov/ct2/results?term=MSI&Search=&displayxml=true&pg=1," MSI ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:17,KeywordSearchEnd," MSI "," MSI "
+05-08-2017,16:29:17,KeywordSearchStart,"Multigene panel","Multigene panel"
+05-08-2017,16:29:17,Request,https://clinicaltrials.gov/ct2/results?term=Multigene+panel&Search=&displayxml=true&pg=1,"Multigene panel",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:17,KeywordSearchEnd,"Multigene panel","Multigene panel"
+05-08-2017,16:29:17,KeywordSearchStart,"Multi-gene Panel","Multi-gene Panel"
+05-08-2017,16:29:17,Request,https://clinicaltrials.gov/ct2/results?term=Multi-gene+Panel&Search=&displayxml=true&pg=1,"Multi-gene Panel",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:17,KeywordSearchEnd,"Multi-gene Panel","Multi-gene Panel"
+05-08-2017,16:29:17,KeywordSearchStart,"Mutated epidermal growth factor receptor","Mutated epidermal growth factor receptor"
+05-08-2017,16:29:17,Request,https://clinicaltrials.gov/ct2/results?term=Mutated+epidermal+growth+factor+receptor&Search=&displayxml=true&pg=1,"Mutated epidermal growth factor receptor",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:17,KeywordSearchEnd,"Mutated epidermal growth factor receptor","Mutated epidermal growth factor receptor"
+05-08-2017,16:29:17,KeywordSearchStart,Myriad,Myriad
+05-08-2017,16:29:17,Request,https://clinicaltrials.gov/ct2/results?term=Myriad&Search=&displayxml=true&pg=1,Myriad,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:17,KeywordSearchEnd,Myriad,Myriad
+05-08-2017,16:29:17,KeywordSearchStart,Nanostring,Nanostring
+05-08-2017,16:29:17,Request,https://clinicaltrials.gov/ct2/results?term=Nanostring&Search=&displayxml=true&pg=1,Nanostring,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:17,KeywordSearchEnd,Nanostring,Nanostring
+05-08-2017,16:29:17,KeywordSearchStart,"next generation sequencing","next generation sequencing"
+05-08-2017,16:29:18,Request,https://clinicaltrials.gov/ct2/results?term=next+generation+sequencing&Search=&displayxml=true&pg=1,"next generation sequencing",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:18,KeywordSearchEnd,"next generation sequencing","next generation sequencing"
+05-08-2017,16:29:18,KeywordSearchStart,"next-generation sequencing","next-generation sequencing"
+05-08-2017,16:29:18,Request,https://clinicaltrials.gov/ct2/results?term=next-generation+sequencing&Search=&displayxml=true&pg=1,"next-generation sequencing",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:18,KeywordSearchEnd,"next-generation sequencing","next-generation sequencing"
+05-08-2017,16:29:18,KeywordSearchStart," NGS "," NGS "
+05-08-2017,16:29:18,Request,https://clinicaltrials.gov/ct2/results?term=NGS&Search=&displayxml=true&pg=1," NGS ",0.093,0,2892,0.00,0.26
+05-08-2017,16:29:18,KeywordSearchEnd," NGS "," NGS "
+05-08-2017,16:29:18,KeywordSearchStart,p53,p53
+05-08-2017,16:29:18,Request,https://clinicaltrials.gov/ct2/results?term=p53&Search=&displayxml=true&pg=1,p53,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:18,KeywordSearchEnd,p53,p53
+05-08-2017,16:29:18,KeywordSearchStart," PCR "," PCR "
+05-08-2017,16:29:19,Request,https://clinicaltrials.gov/ct2/results?term=PCR&Search=&displayxml=true&pg=1," PCR ",0.657,0,409,0.00,0.26
+05-08-2017,16:29:19,KeywordSearchEnd," PCR "," PCR "
+05-08-2017,16:29:19,KeywordSearchStart,"PD 1","PD 1"
+05-08-2017,16:29:19,Request,https://clinicaltrials.gov/ct2/results?term=PD+1&Search=&displayxml=true&pg=1,"PD 1",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:19,KeywordSearchEnd,"PD 1","PD 1"
+05-08-2017,16:29:19,KeywordSearchStart,"PD L1","PD L1"
+05-08-2017,16:29:19,Request,https://clinicaltrials.gov/ct2/results?term=PD+L1&Search=&displayxml=true&pg=1,"PD L1",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:19,KeywordSearchEnd,"PD L1","PD L1"
+05-08-2017,16:29:19,KeywordSearchStart,PD1,PD1
+05-08-2017,16:29:19,Request,https://clinicaltrials.gov/ct2/results?term=PD1&Search=&displayxml=true&pg=1,PD1,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:19,KeywordSearchEnd,PD1,PD1
+05-08-2017,16:29:19,KeywordSearchStart,PD-1,PD-1
+05-08-2017,16:29:19,Request,https://clinicaltrials.gov/ct2/results?term=PD-1&Search=&displayxml=true&pg=1,PD-1,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:19,KeywordSearchEnd,PD-1,PD-1
+05-08-2017,16:29:19,KeywordSearchStart,PDL1,PDL1
+05-08-2017,16:29:19,Request,https://clinicaltrials.gov/ct2/results?term=PDL1&Search=&displayxml=true&pg=1,PDL1,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:19,KeywordSearchEnd,PDL1,PDL1
+05-08-2017,16:29:19,KeywordSearchStart,PD-L1,PD-L1
+05-08-2017,16:29:19,Request,https://clinicaltrials.gov/ct2/results?term=PD-L1&Search=&displayxml=true&pg=1,PD-L1,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:19,KeywordSearchEnd,PD-L1,PD-L1
+05-08-2017,16:29:19,KeywordSearchStart,PI3KCA,PI3KCA
+05-08-2017,16:29:19,Request,https://clinicaltrials.gov/ct2/results?term=PI3KCA&Search=&displayxml=true&pg=1,PI3KCA,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:19,KeywordSearchEnd,PI3KCA,PI3KCA
+05-08-2017,16:29:19,KeywordSearchStart,PIK3CA,PIK3CA
+05-08-2017,16:29:19,Request,https://clinicaltrials.gov/ct2/results?term=PIK3CA&Search=&displayxml=true&pg=1,PIK3CA,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:19,KeywordSearchEnd,PIK3CA,PIK3CA
+05-08-2017,16:29:19,KeywordSearchStart,"polymerase chain reaction","polymerase chain reaction"
+05-08-2017,16:29:20,Request,https://clinicaltrials.gov/ct2/results?term=polymerase+chain+reaction&Search=&displayxml=true&pg=1,"polymerase chain reaction",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:20,KeywordSearchEnd,"polymerase chain reaction","polymerase chain reaction"
+05-08-2017,16:29:20,KeywordSearchStart,"Programmed cell death protein 1","Programmed cell death protein 1"
+05-08-2017,16:29:20,Request,https://clinicaltrials.gov/ct2/results?term=Programmed+cell+death+protein+1&Search=&displayxml=true&pg=1,"Programmed cell death protein 1",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:20,KeywordSearchEnd,"Programmed cell death protein 1","Programmed cell death protein 1"
+05-08-2017,16:29:20,KeywordSearchStart,"Programmed death-ligand 1","Programmed death-ligand 1"
+05-08-2017,16:29:20,Request,https://clinicaltrials.gov/ct2/results?term=Programmed+death-ligand+1&Search=&displayxml=true&pg=1,"Programmed death-ligand 1",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:20,KeywordSearchEnd,"Programmed death-ligand 1","Programmed death-ligand 1"
+05-08-2017,16:29:20,KeywordSearchStart,Qiagen,Qiagen
+05-08-2017,16:29:20,Request,https://clinicaltrials.gov/ct2/results?term=Qiagen&Search=&displayxml=true&pg=1,Qiagen,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:20,KeywordSearchEnd,Qiagen,Qiagen
+05-08-2017,16:29:20,KeywordSearchStart,"RNA expression profile","RNA expression profile"
+05-08-2017,16:29:20,Request,https://clinicaltrials.gov/ct2/results?term=RNA+expression+profile&Search=&displayxml=true&pg=1,"RNA expression profile",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:20,KeywordSearchEnd,"RNA expression profile","RNA expression profile"
+05-08-2017,16:29:20,KeywordSearchStart,"RNA expression profiling","RNA expression profiling"
+05-08-2017,16:29:20,Request,https://clinicaltrials.gov/ct2/results?term=RNA+expression+profiling&Search=&displayxml=true&pg=1,"RNA expression profiling",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:20,KeywordSearchEnd,"RNA expression profiling","RNA expression profiling"
+05-08-2017,16:29:20,KeywordSearchStart,"RNA-seq expression profile","RNA-seq expression profile"
+05-08-2017,16:29:20,Request,https://clinicaltrials.gov/ct2/results?term=RNA-seq+expression+profile&Search=&displayxml=true&pg=1,"RNA-seq expression profile",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:20,KeywordSearchEnd,"RNA-seq expression profile","RNA-seq expression profile"
+05-08-2017,16:29:20,KeywordSearchStart,"RNA-seq expression profiling","RNA-seq expression profiling"
+05-08-2017,16:29:20,Request,https://clinicaltrials.gov/ct2/results?term=RNA-seq+expression+profiling&Search=&displayxml=true&pg=1,"RNA-seq expression profiling",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:20,KeywordSearchEnd,"RNA-seq expression profiling","RNA-seq expression profiling"
+05-08-2017,16:29:20,KeywordSearchStart,"Roche Diagnostics","Roche Diagnostics"
+05-08-2017,16:29:21,Request,https://clinicaltrials.gov/ct2/results?term=Roche+Diagnostics&Search=&displayxml=true&pg=1,"Roche Diagnostics",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:21,KeywordSearchEnd,"Roche Diagnostics","Roche Diagnostics"
+05-08-2017,16:29:21,KeywordSearchStart,"Roche Molecular","Roche Molecular"
+05-08-2017,16:29:21,Request,https://clinicaltrials.gov/ct2/results?term=Roche+Molecular&Search=&displayxml=true&pg=1,"Roche Molecular",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:21,KeywordSearchEnd,"Roche Molecular","Roche Molecular"
+05-08-2017,16:29:21,KeywordSearchStart," ROS "," ROS "
+05-08-2017,16:29:21,Request,https://clinicaltrials.gov/ct2/results?term=ROS&Search=&displayxml=true&pg=1," ROS ",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:21,KeywordSearchEnd," ROS "," ROS "
+05-08-2017,16:29:21,KeywordSearchStart,ROS1,ROS1
+05-08-2017,16:29:21,Request,https://clinicaltrials.gov/ct2/results?term=ROS1&Search=&displayxml=true&pg=1,ROS1,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:21,KeywordSearchEnd,ROS1,ROS1
+05-08-2017,16:29:21,KeywordSearchStart,"Serous ovarian cancer","Serous ovarian cancer"
+05-08-2017,16:29:21,Request,https://clinicaltrials.gov/ct2/results?term=Serous+ovarian+cancer&Search=&displayxml=true&pg=1,"Serous ovarian cancer",0.094,0,2861,0.00,0.26
+05-08-2017,16:29:21,KeywordSearchEnd,"Serous ovarian cancer","Serous ovarian cancer"
+05-08-2017,16:29:21,KeywordSearchStart," SOC "," SOC "
+05-08-2017,16:29:21,Request,https://clinicaltrials.gov/ct2/results?term=SOC&Search=&displayxml=true&pg=1," SOC ",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:21,KeywordSearchEnd," SOC "," SOC "
+05-08-2017,16:29:21,KeywordSearchStart,"Sophia Genetics","Sophia Genetics"
+05-08-2017,16:29:21,Request,https://clinicaltrials.gov/ct2/results?term=Sophia+Genetics&Search=&displayxml=true&pg=1,"Sophia Genetics",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:21,KeywordSearchEnd,"Sophia Genetics","Sophia Genetics"
+05-08-2017,16:29:21,KeywordSearchStart,Sysmex,Sysmex
+05-08-2017,16:29:21,Request,https://clinicaltrials.gov/ct2/results?term=Sysmex&Search=&displayxml=true&pg=1,Sysmex,0.11,0,2445,0.00,0.26
+05-08-2017,16:29:21,KeywordSearchEnd,Sysmex,Sysmex
+05-08-2017,16:29:21,KeywordSearchStart,T790M,T790M
+05-08-2017,16:29:21,Request,https://clinicaltrials.gov/ct2/results?term=T790M&Search=&displayxml=true&pg=1,T790M,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:21,KeywordSearchEnd,T790M,T790M
+05-08-2017,16:29:21,KeywordSearchStart," TAI "," TAI "
+05-08-2017,16:29:22,Request,https://clinicaltrials.gov/ct2/results?term=TAI&Search=&displayxml=true&pg=1," TAI ",0.125,0,2152,0.00,0.26
+05-08-2017,16:29:22,KeywordSearchEnd," TAI "," TAI "
+05-08-2017,16:29:22,KeywordSearchStart,"Telomeric allelic imbalance","Telomeric allelic imbalance"
+05-08-2017,16:29:22,Request,https://clinicaltrials.gov/ct2/results?term=Telomeric+allelic+imbalance&Search=&displayxml=true&pg=1,"Telomeric allelic imbalance",0.094,0,2861,0.00,0.26
+05-08-2017,16:29:22,KeywordSearchEnd,"Telomeric allelic imbalance","Telomeric allelic imbalance"
+05-08-2017,16:29:22,KeywordSearchStart,"Telomeric-allelic imbalance","Telomeric-allelic imbalance"
+05-08-2017,16:29:22,Request,https://clinicaltrials.gov/ct2/results?term=Telomeric-allelic+imbalance&Search=&displayxml=true&pg=1,"Telomeric-allelic imbalance",0.094,0,2861,0.00,0.26
+05-08-2017,16:29:22,KeywordSearchEnd,"Telomeric-allelic imbalance","Telomeric-allelic imbalance"
+05-08-2017,16:29:22,KeywordSearchStart,"Thermo Fisher","Thermo Fisher"
+05-08-2017,16:29:22,Request,https://clinicaltrials.gov/ct2/results?term=Thermo+Fisher&Search=&displayxml=true&pg=1,"Thermo Fisher",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:22,KeywordSearchEnd,"Thermo Fisher","Thermo Fisher"
+05-08-2017,16:29:22,KeywordSearchStart," TKI "," TKI "
+05-08-2017,16:29:22,Request,https://clinicaltrials.gov/ct2/results?term=TKI&Search=&displayxml=true&pg=1," TKI ",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:22,KeywordSearchEnd," TKI "," TKI "
+05-08-2017,16:29:22,KeywordSearchStart,TP53,TP53
+05-08-2017,16:29:22,Request,https://clinicaltrials.gov/ct2/results?term=TP53&Search=&displayxml=true&pg=1,TP53,0.125,0,2152,0.00,0.26
+05-08-2017,16:29:22,KeywordSearchEnd,TP53,TP53
+05-08-2017,16:29:22,KeywordSearchStart,Trovagene,Trovagene
+05-08-2017,16:29:22,Request,https://clinicaltrials.gov/ct2/results?term=Trovagene&Search=&displayxml=true&pg=1,Trovagene,0.109,0,2467,0.00,0.26
+05-08-2017,16:29:22,KeywordSearchEnd,Trovagene,Trovagene
+05-08-2017,16:29:22,KeywordSearchStart,"Tumour protein p53","Tumour protein p53"
+05-08-2017,16:29:22,Request,https://clinicaltrials.gov/ct2/results?term=Tumour+protein+p53&Search=&displayxml=true&pg=1,"Tumour protein p53",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:22,KeywordSearchEnd,"Tumour protein p53","Tumour protein p53"
+05-08-2017,16:29:22,KeywordSearchStart,"tyrosine kinase inhibitor","tyrosine kinase inhibitor"
+05-08-2017,16:29:22,Request,https://clinicaltrials.gov/ct2/results?term=tyrosine+kinase+inhibitor&Search=&displayxml=true&pg=1,"tyrosine kinase inhibitor",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:22,KeywordSearchEnd,"tyrosine kinase inhibitor","tyrosine kinase inhibitor"
+05-08-2017,16:29:22,KeywordSearchStart,"tyrosine-kinase inhibitor","tyrosine-kinase inhibitor"
+05-08-2017,16:29:23,Request,https://clinicaltrials.gov/ct2/results?term=tyrosine-kinase+inhibitor&Search=&displayxml=true&pg=1,"tyrosine-kinase inhibitor",0.109,0,2467,0.00,0.26
+05-08-2017,16:29:23,KeywordSearchEnd,"tyrosine-kinase inhibitor","tyrosine-kinase inhibitor"
+05-08-2017,16:29:23,KeywordSearchStart,"Ventana Medical Systems","Ventana Medical Systems"
+05-08-2017,16:29:23,Request,https://clinicaltrials.gov/ct2/results?term=Ventana+Medical+Systems&Search=&displayxml=true&pg=1,"Ventana Medical Systems",0.11,0,2445,0.00,0.26
+05-08-2017,16:29:23,KeywordSearchEnd,"Ventana Medical Systems","Ventana Medical Systems"
+05-08-2017,16:29:23,TrackerEnd
